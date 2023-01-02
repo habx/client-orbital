@@ -132,6 +132,7 @@ pub fn load_scene (manifest: impl AsRef<str>) -> Option<Scene> {
 			// let level = parse_level(&id).unwrap();
 			let points: Vec<_> = lot.geometry.vertices.iter().map(convert_3).collect();
 			let role = Role::parse(&id).unwrap();
+			let typology = lot.typology.clamp(1, 6);
 
 			let mut shapes: Vec<_> = lot.geometry.faces
 				.iter()
@@ -144,7 +145,7 @@ pub fn load_scene (manifest: impl AsRef<str>) -> Option<Scene> {
 						kind,
 						level: 0,
 						role,
-						typology: lot.typology,
+						typology,
 					})
 				})
 				.collect();

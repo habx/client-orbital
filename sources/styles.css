@@ -21,7 +21,6 @@ body {
 .frame_image {
 	width: 100%;
 	height: 100%;
-	opacity: 1;
 }
 
 .canvas {
@@ -36,4 +35,28 @@ body {
 
 .shape:hover {
 	opacity: .6;
+}
+
+.shape.floor.t1 {
+	fill: #800B94;
+}
+
+.shape.floor.t2 {
+	fill: #2345A5;
+}
+
+.shape.floor.t3 {
+	fill: #2B723D;
+}
+
+.shape.floor.t4 {
+	fill: #FAE101;
+}
+
+.shape.floor.t5 {
+	fill: #F38F28;
+}
+
+.shape.floor.t6 {
+	fill: #D82D2D;
 }
