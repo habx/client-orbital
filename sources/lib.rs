@@ -120,8 +120,7 @@ impl Role {
 	}
 }
 
-pub fn load_scene (manifest: impl AsRef<str>) -> Option<Scene> {
-	let manifest: Manifest = serde_json::from_str(manifest.as_ref()).ok()?;
+pub fn load_scene (manifest: Manifest) -> Option<Scene> {
 	let meta = manifest.meta;
 
 	let (shapes, mut features): (Vec<_>, Vec<_>) = manifest.lots
