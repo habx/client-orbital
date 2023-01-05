@@ -1,6 +1,3 @@
-use std::cell::Cell;
-use std::rc::Rc;
-
 use gloo_events::EventListener;
 use gloo_net::http::Request;
 use leptos::*;
@@ -15,7 +12,6 @@ pub fn main () {
 		const MANIFEST: &str = "data/rueil-malmaison-l-imperiale.json";
 
 
-		let instance = Rc::new(Cell::new(None));
 		let manifest = create_rw_signal(scope, MANIFEST);
 
 		let scene = create_local_resource(scope, manifest, |manifest| async {
@@ -34,7 +30,6 @@ pub fn main () {
 		});
 
 		{
-			let instance = instance.clone();
 
 			let keydown = EventListener::new(&document(), "keydown", move |event| match KeyboardEvent::code(event.unchecked_ref()).as_str() {
 				"Digit1" => manifest.set(MANIFEST),
@@ -48,26 +43,15 @@ pub fn main () {
 
 			on_cleanup(scope, move || {
 				drop(keydown);
-				instance.take().map(ScopeDisposer::dispose);
 			});
 		}
 
-		let (element, disposer) = scope.run_child_scope(|scope| {
-			// FIXME: A wrapper is needed to circumvent the lack of fragments in `leptos@0.0.22`.
-			view!(scope, 
-				<div>
-					{move || {
-						if let Some(scene) = scene.read() {
-							vec![view!(scope, <Viewer scene=scene />)]
-						} else {
-							vec![]
-						}
-					}}
-				</div>
-			)
-		});
-
-		instance.replace(Some(disposer)).take().map(ScopeDisposer::dispose);
-		element
+		view!(scope, 
+			{move || {
+				let scene = scene.read()?;
+					
+				Some(view!(scope, <Viewer scene=scene />))
+			}}
+		)
 	});
 }
