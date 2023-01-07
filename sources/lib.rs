@@ -6,7 +6,7 @@ use std::iter::once;
 use std::mem::take;
 use std::simd::{f64x4, Simd};
 
-use orbit::model::{Camera, Scene, Shape, Source, Style, Viewport};
+use orbit::model::{Camera, Scene, Shape, Style, Viewport};
 use orbit::utils::dot_product;
 use serde::Deserialize;
 
@@ -129,7 +129,7 @@ pub fn load_scene (manifest: Manifest) -> Option<Scene> {
 			let id = lot.id.to_lowercase();
 			let building = parse_building(&id).unwrap();
 			// let level = parse_level(&id).unwrap();
-			let points: Vec<_> = lot.geometry.vertices.iter().map(convert_3).collect();
+			let points: Vec<_> = lot.geometry.vertices.iter().copied().map(convert_3).collect();
 			let role = Role::parse(&id).unwrap();
 			let typology = lot.typology.clamp(1, 6);
 
@@ -244,16 +244,21 @@ pub fn load_scene (manifest: Manifest) -> Option<Scene> {
 		.map(|view| {
 			let viewports = view.images
 				.iter()
-				.map(|image| Viewport {
-					matrix: [
+				.map(|image| Viewport::new(
+					convert_3(image.p),
+					[
 						convert_4(image.m[0]),
 						convert_4(image.m[1]),
 						convert_4(image.m[2]),
 						convert_4(image.m[3]),
 					],
-					position: convert_3(&image.p),
-					source: Some(Source::Dynamic(format!("https://cdn.habx.com/image/upload/c_scale,w_{{}}/v1/cdn/{}/{}", &meta.path, image.uri))),
-				});
+					vec![
+						(0, format!("https://cdn.habx.com/image/upload/v1/cdn/{}/{}", &meta.path, image.uri)),
+						(1_000, format!("https://cdn.habx.com/image/upload/c_scale,w_1000/v1/cdn/{}/{}", &meta.path, image.uri)),
+						(1_500, format!("https://cdn.habx.com/image/upload/c_scale,w_1500/v1/cdn/{}/{}", &meta.path, image.uri)),
+						(2_000, format!("https://cdn.habx.com/image/upload/c_scale,w_2000/v1/cdn/{}/{}", &meta.path, image.uri)),
+					]
+				));
 
 			Camera {
 				aspect_ratio: format!("{}/{}", meta.size.w, meta.size.h),
@@ -299,7 +304,7 @@ fn parse_level (value: &str) -> Option<i8> {
 
 
 #[inline]
-pub fn convert_3 (value: &[f64; 3]) -> f64x4 {
+pub fn convert_3 (value: [f64; 3]) -> f64x4 {
 	convert_4([value[0], value[1], value[2], 0.])
 }
 
