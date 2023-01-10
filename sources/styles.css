@@ -33,36 +33,38 @@ body {
 	max-height: 100%;
 }
 
-.shape {
+.lot {
 	fill: #9a4797;
+	stroke: transparent;
+	stroke-width: 5px;
 	opacity: .3;
 	transition: opacity .2s;
 }
 
-.shape:hover {
+.lot:hover {
 	opacity: .6;
 }
 
-.shape.floor.t1 {
+.lot.t1 > .shape.floor {
 	fill: #800B94;
 }
 
-.shape.floor.t2 {
+.lot.t2 > .shape.floor {
 	fill: #2345A5;
 }
 
-.shape.floor.t3 {
+.lot.t3 > .shape.floor {
 	fill: #2B723D;
 }
 
-.shape.floor.t4 {
+.lot.t4 > .shape.floor {
 	fill: #FAE101;
 }
 
-.shape.floor.t5 {
+.lot.t5 > .shape.floor {
 	fill: #F38F28;
 }
 
-.shape.floor.t6 {
+.lot.t6 > .shape.floor {
 	fill: #D82D2D;
 }
