@@ -86,12 +86,9 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 		let styles = match identifier {
 			Identifier::Level(level) => project.lots
 				.iter()
-				.filter_map(|lot| {
-					if lot.role != Role::Living {
-						return None
-					}
-
-					let styles: Vec<_> = lot.range
+				.filter_map(|lot| (lot.role == Role::Living).then(|| Style::compound(
+					format!("lot{}", lot.typology.map_or_else(String::new, |typology| format!(" t{}", typology))),
+					lot.range
 						.clone()
 						.filter_map(|index| {
 							let shape = &shapes[index];
@@ -102,17 +99,8 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 								project.level(lot.building, shape) == level
 							).then(|| Style::shape(format!("floor"), index))
 						})
-						.collect();
-
-					if styles.is_empty() {
-						return None
-					}
-
-					Some(Style::compound(
-						format!("lot{}", lot.typology.map_or_else(String::new, |typology| format!(" t{}", typology))),
-						styles
-					))
-				})
+						.collect()
+				)))
 				.collect(),
 
 			Identifier::Regular(_) => project.lots
