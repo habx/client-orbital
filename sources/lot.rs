@@ -15,6 +15,7 @@ pub enum Role {
 pub struct Lot {
 	pub building: u8,
 	pub floors: Vec<usize>,
+	pub identifier: String,
 	pub level: i8,
 	pub range: Range<usize>,
 	pub role: Role,
@@ -23,26 +24,34 @@ pub struct Lot {
 
 
 impl Lot {
-	pub fn new (range: Range<usize>, mut identifier: String, typology: Option<u8>) -> Option<Self> {
-		identifier = identifier.to_lowercase();
+	pub fn new (range: Range<usize>, identifier: String, typology: Option<u8>) -> Option<Self> {
+		let value = identifier.to_lowercase();
 
 		Some(Self {
 			building: {
-				let value = &identifier[identifier.find('b')?..];
+				let value = &value[value.find('b')?..];
 
 				value.split(char::is_alphabetic).nth(1)?.parse().ok()?
 			},
 			floors: vec![range.start],
+			identifier,
 			level: {
-				let value = &identifier[identifier.find(['e', 's'])?..];
+				let value = &value[value.find(['e', 's'])?..];
 				let level: i8 = value.split(char::is_alphabetic).nth(1)?.parse().ok()?;
 
 				if value.starts_with('s') { -level } else { level }
 			},
 			range,
-			role: Role::parse(&identifier)?,
+			role: Role::parse(&value)?,
 			typology,
 		})
+	}
+
+	pub fn class (&self) -> String {
+		format!("lot {}{}",
+			&self.identifier,
+			self.typology.map_or_else(String::new, |typology| format!(" t{}", typology))
+		)
 	}
 
 	pub fn process (&mut self, shapes: &mut[Shape]) {

@@ -87,7 +87,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 			Identifier::Level(level) => project.lots
 				.iter()
 				.filter_map(|lot| (lot.role == Role::Living).then(|| Style::compound(
-					format!("lot{}", lot.typology.map_or_else(String::new, |typology| format!(" t{}", typology))),
+					lot.class(),
 					lot.range
 						.clone()
 						.filter_map(|index| {
@@ -106,7 +106,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 			Identifier::Regular(_) => project.lots
 				.iter()
 				.filter_map(|lot| (lot.role == Role::Living).then(|| Style::compound(
-					format!("lot{}", lot.typology.map_or_else(String::new, |typology| format!(" t{}", typology))),
+					lot.class(),
 					lot.range
 						.clone()
 						.filter_map(|index| shapes[index].is_vertical().then(|| Style::shape(format!("wall"), index)))
