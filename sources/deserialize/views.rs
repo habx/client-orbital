@@ -1,5 +1,6 @@
 use std::cell::RefCell;
 use std::fmt;
+use std::simd::{f64x4, Simd};
 
 use orbit::model::{Camera, Shape, Style};
 use serde::Deserializer;
@@ -91,13 +92,16 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 					lot.range
 						.clone()
 						.filter_map(|index| {
+							const OFFSET: f64x4 = Simd::from_array([0., 0., 1.15, 0.]);
+
+
 							let shape = &shapes[index];
 
 							(
 								!shape.is_vertical() &&
 								shape.normal()[2].is_sign_negative() &&
 								project.level(lot.building, shape) == level
-							).then(|| Style::shape(format!("floor"), index))
+							).then(|| Style::shape(format!("floor"), index, lot.floors.contains(&index).then_some(OFFSET)))
 						})
 						.collect()
 				)))
@@ -109,7 +113,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 					lot.class(),
 					lot.range
 						.clone()
-						.filter_map(|index| shapes[index].is_vertical().then(|| Style::shape(format!("wall"), index)))
+						.filter_map(|index| shapes[index].is_vertical().then(|| Style::shape(format!("wall"), index, None)))
 						.collect()
 				)))
 				.collect(),
