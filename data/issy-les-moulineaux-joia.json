@@ -3,11 +3,11 @@
 		"version": "2.0.0",
 		"created_at": "2022-10-20-21:50:13",
 		"slug": "issy-les-moulineaux-joia",
-		"path": "projects-3d/issy-les-moulineaux-joia/orbital/2022-10-20-154337",
 		"size": {
 			"w": 3840,
 			"h": 2160
-		}
+		},
+		"path": "projects-3d/issy-les-moulineaux-joia/orbital/2022-10-20-154337"
 	},
 	"lots": [
 		{
@@ -1025,7 +1025,16 @@
 			"indexes": {
 				"orbital_top": 83,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 131300,
+			"levels": [
+				"1"
+			],
+			"name": "A102",
+			"slug": "32431-24",
+			"surfaceArea": 944300,
+			"typology": 4,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E1L03",
@@ -1289,7 +1298,16 @@
 			"indexes": {
 				"orbital_top": 85,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 36700,
+			"levels": [
+				"1"
+			],
+			"name": "A103",
+			"slug": "32431-7",
+			"surfaceArea": 341900,
+			"typology": 1,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E1L04",
@@ -1620,7 +1638,16 @@
 			"indexes": {
 				"orbital_top": 1,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": null,
+			"levels": [
+				"1"
+			],
+			"name": "A104",
+			"slug": "32431-6",
+			"surfaceArea": 303200,
+			"typology": 1,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E1L05",
@@ -1984,7 +2011,16 @@
 			"indexes": {
 				"orbital_top": 20,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 61100,
+			"levels": [
+				"1"
+			],
+			"name": "A105",
+			"slug": "32431-19",
+			"surfaceArea": 626600,
+			"typology": 3,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E1L06",
@@ -2431,7 +2467,16 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 171000,
+			"levels": [
+				"1"
+			],
+			"name": "A106",
+			"slug": "32431-30",
+			"surfaceArea": 1120600,
+			"typology": 5,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E1L07",
@@ -2695,7 +2740,16 @@
 			"indexes": {
 				"orbital_top": 42,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 56300,
+			"levels": [
+				"1"
+			],
+			"name": "A107",
+			"slug": "32431-9",
+			"surfaceArea": 258100,
+			"typology": 1,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E1L08",
@@ -2959,7 +3013,16 @@
 			"indexes": {
 				"orbital_top": 59,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 80900,
+			"levels": [
+				"1"
+			],
+			"name": "A108",
+			"slug": "32431-13",
+			"surfaceArea": 422500,
+			"typology": 2,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E2C01",
@@ -3654,7 +3717,16 @@
 			"indexes": {
 				"orbital_top": 69,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 100700,
+			"levels": [
+				"2"
+			],
+			"name": "A201",
+			"slug": "32431-12",
+			"surfaceArea": 412300,
+			"typology": 2,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E2L02",
@@ -3963,7 +4035,16 @@
 			"indexes": {
 				"orbital_top": 83,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 147900,
+			"levels": [
+				"2"
+			],
+			"name": "A202",
+			"slug": "32431-25",
+			"surfaceArea": 972700,
+			"typology": 4,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E2L03",
@@ -4327,7 +4408,16 @@
 			"indexes": {
 				"orbital_top": 85,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 40800,
+			"levels": [
+				"2"
+			],
+			"name": "A203",
+			"slug": "32431-14",
+			"surfaceArea": 651600,
+			"typology": 3,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E2L04",
@@ -4691,7 +4781,16 @@
 			"indexes": {
 				"orbital_top": 20,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 61000,
+			"levels": [
+				"2"
+			],
+			"name": "A204",
+			"slug": "32431-20",
+			"surfaceArea": 652900,
+			"typology": 3,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E2L05",
@@ -5138,7 +5237,16 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 171000,
+			"levels": [
+				"2"
+			],
+			"name": "A205",
+			"slug": "32431-28",
+			"surfaceArea": 1145800,
+			"typology": 5,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E2L06",
@@ -5402,7 +5510,16 @@
 			"indexes": {
 				"orbital_top": 42,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 56300,
+			"levels": [
+				"2"
+			],
+			"name": "A206",
+			"slug": "32431-8",
+			"surfaceArea": 258100,
+			"typology": 1,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E2L07",
@@ -5666,7 +5783,16 @@
 			"indexes": {
 				"orbital_top": 59,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 80900,
+			"levels": [
+				"2"
+			],
+			"name": "A207",
+			"slug": "32431-11",
+			"surfaceArea": 422500,
+			"typology": 2,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E3C01",
@@ -6373,7 +6499,16 @@
 			"indexes": {
 				"orbital_top": 70,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 133400,
+			"levels": [
+				"3"
+			],
+			"name": "A301",
+			"slug": "32431-18",
+			"surfaceArea": 577200,
+			"typology": 3,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E3L02",
@@ -7046,7 +7181,16 @@
 			"indexes": {
 				"orbital_top": 85,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 66000,
+			"levels": [
+				"3"
+			],
+			"name": "A303",
+			"slug": "32431-21",
+			"surfaceArea": 653200,
+			"typology": 3,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E3L04",
@@ -7410,7 +7554,16 @@
 			"indexes": {
 				"orbital_top": 20,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 71200,
+			"levels": [
+				"3"
+			],
+			"name": "A304",
+			"slug": "32431-15",
+			"surfaceArea": 652900,
+			"typology": 3,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E3L05",
@@ -7869,7 +8022,16 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 170600,
+			"levels": [
+				"3"
+			],
+			"name": "A305",
+			"slug": "32431-29",
+			"surfaceArea": 1145800,
+			"typology": 5,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E3L06",
@@ -8166,7 +8328,16 @@
 			"indexes": {
 				"orbital_top": 42,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 154000,
+			"levels": [
+				"3"
+			],
+			"name": "A306",
+			"slug": "32431-17",
+			"surfaceArea": 693500,
+			"typology": 3,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E4C01",
@@ -8886,7 +9057,16 @@
 			"indexes": {
 				"orbital_top": 69,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 100700,
+			"levels": [
+				"4"
+			],
+			"name": "A401",
+			"slug": "32431-10",
+			"surfaceArea": 412300,
+			"typology": 2,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E4L02",
@@ -9183,7 +9363,16 @@
 			"indexes": {
 				"orbital_top": 83,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 139400,
+			"levels": [
+				"4"
+			],
+			"name": "A402",
+			"slug": "32431-23",
+			"surfaceArea": 972700,
+			"typology": 4,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E4L03",
@@ -9547,7 +9736,16 @@
 			"indexes": {
 				"orbital_top": 20,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 71200,
+			"levels": [
+				"4"
+			],
+			"name": "A403",
+			"slug": "32431-16",
+			"surfaceArea": 652900,
+			"typology": 3,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E4L04",
@@ -10006,7 +10204,16 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 166100,
+			"levels": [
+				"4"
+			],
+			"name": "A404",
+			"slug": "32431-26",
+			"surfaceArea": 1153700,
+			"typology": 5,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E4L05",
@@ -10303,7 +10510,16 @@
 			"indexes": {
 				"orbital_top": 38,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 154000,
+			"levels": [
+				"4"
+			],
+			"name": "A405",
+			"slug": "32431-22",
+			"surfaceArea": 692200,
+			"typology": 3,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E5C01",
@@ -11116,7 +11332,16 @@
 			"indexes": {
 				"orbital_top": 70,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 351700,
+			"levels": [
+				"5"
+			],
+			"name": "A501",
+			"slug": "32431-27",
+			"surfaceArea": 1142700,
+			"typology": 5,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E5L02",
@@ -11855,7 +12080,17 @@
 			"indexes": {
 				"orbital_top": 85,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 415300,
+			"levels": [
+				"4",
+				"5"
+			],
+			"name": "A502",
+			"slug": "32431-33",
+			"surfaceArea": 1037700,
+			"typology": 4,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E5L03",
@@ -12279,7 +12514,16 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 795200,
+			"levels": [
+				"5"
+			],
+			"name": "A503",
+			"slug": "32431-31",
+			"surfaceArea": 1100600,
+			"typology": 5,
+			"vat": 0.2
 		},
 		{
 			"id": "B1E6C01",
@@ -14033,7 +14277,17 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 1
-			}
+			},
+			"exteriorSurfaceArea": 1136400,
+			"levels": [
+				"5",
+				"6"
+			],
+			"name": "A602",
+			"slug": "32431-32",
+			"surfaceArea": 1348300,
+			"typology": 4,
+			"vat": 0.2
 		}
 	],
 	"views": [
