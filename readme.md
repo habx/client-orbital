@@ -7,10 +7,11 @@ The viewer is hosted on GitHub Pages at this address: https://habx.github.io/cli
 ### Parameters
 
 - `manifest` (**required**) the URL to the orbit manifest of a given project
+- `interactive` a boolean value enabling interactions with lots and the display of the overlay (_optional_, default to `false`)
 
 ### Examples
 
-https://habx.github.io/client-orbital?manifest=https://habx.github.io/client-orbital/data/rueil-malmaison-l-imperiale.json
+https://habx.github.io/client-orbital?manifest=https://habx.github.io/client-orbital/data/rueil-malmaison-l-imperiale.json&interactive=true
 
 ## Orbital manifest updates needed (from version `2.0.0`)
 

@@ -1,3 +1,6 @@
+#![feature(option_result_contains)]
+
+
 use gloo_events::EventListener;
 use gloo_net::http::Request;
 use leptos::*;
@@ -10,6 +13,7 @@ use viewer::Manifest;
 pub fn main () {
 	mount_to_body(|scope| {
 		let params = UrlSearchParams::new_with_str(&window().location().search().unwrap()).unwrap();
+		let interactive = params.get("interactive").contains(&"true");
 		let manifest = create_rw_signal(scope, params.get("manifest"));
 
 		let scene = create_local_resource(scope, manifest, |manifest| async {
@@ -52,7 +56,7 @@ pub fn main () {
 			{move || {
 				let scene = scene.read()??;
 					
-				Some(view!(scope, <Viewer scene=scene />))
+				Some(view!(scope, <Viewer scene=scene with_overlay=interactive />))
 			}}
 		)
 	});
