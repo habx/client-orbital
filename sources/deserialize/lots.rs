@@ -49,20 +49,27 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 		let start = shapes.borrow().len();
 		let mut geometry = None;
 		let mut identifier = None;
+		let mut name = None;
 		let mut typology = None;
 
 		while let Some(key) = map.next_key()? {
 			match key {
 				"geometry" => geometry = Some(map.next_value_seed(GeometryVisitor { shapes })?),
 				"id" => identifier = Some(map.next_value()?),
-				"typology" => typology = Some(map.next_value::<u8>()?),
+				"name" => name = map.next_value::<Option<String>>()?,
+				"typology" => typology = map.next_value::<Option<u8>>()?,
 				_ => { map.next_value::<IgnoredAny>()?; }
 			}
 		}
 
 		geometry.ok_or(Error::missing_field("geometry"))?;
 
-		Lot::new(start..shapes.borrow().len(), identifier.ok_or(Error::missing_field("id"))?, typology)
+		Lot::new(
+			start..shapes.borrow().len(),
+			identifier.ok_or(Error::missing_field("id"))?,
+			name,
+			typology,
+		)
 			.ok_or(Error::custom("`id` must follow BEL notation"))
 	}
 }

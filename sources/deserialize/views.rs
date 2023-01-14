@@ -87,7 +87,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 		let styles = match identifier {
 			Identifier::Level(level) => project.lots
 				.iter()
-				.filter_map(|lot| (lot.role == Role::Living).then(|| Style::compound(
+				.filter_map(|lot| (lot.role == Role::Living && lot.name.is_some()).then(|| Style::compound(
 					lot.class(),
 					lot.range
 						.clone()
@@ -109,7 +109,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 
 			Identifier::Regular(_) => project.lots
 				.iter()
-				.filter_map(|lot| (lot.role == Role::Living).then(|| Style::compound(
+				.filter_map(|lot| (lot.role == Role::Living && lot.name.is_some()).then(|| Style::compound(
 					lot.class(),
 					lot.range
 						.clone()

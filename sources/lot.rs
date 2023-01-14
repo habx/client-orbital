@@ -17,6 +17,7 @@ pub struct Lot {
 	pub floors: Vec<usize>,
 	pub identifier: String,
 	pub level: i8,
+	pub name: Option<String>,
 	pub range: Range<usize>,
 	pub role: Role,
 	pub typology: Option<u8>,
@@ -24,7 +25,12 @@ pub struct Lot {
 
 
 impl Lot {
-	pub fn new (range: Range<usize>, identifier: String, typology: Option<u8>) -> Option<Self> {
+	pub fn new (
+		range: Range<usize>,
+		identifier: String,
+		name: Option<String>,
+		typology: Option<u8>,
+	) -> Option<Self> {
 		let value = identifier.to_lowercase();
 
 		Some(Self {
@@ -41,6 +47,7 @@ impl Lot {
 
 				if value.starts_with('s') { -level } else { level }
 			},
+			name,
 			range,
 			role: Role::parse(&value)?,
 			typology,
