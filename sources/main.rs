@@ -2,20 +2,24 @@ use gloo_events::EventListener;
 use gloo_net::http::Request;
 use leptos::*;
 use orbit::components::{Viewer, ViewerProps};
-use web_sys::KeyboardEvent;
+use web_sys::{KeyboardEvent, UrlSearchParams};
 
 use viewer::Manifest;
 
 
 pub fn main () {
 	mount_to_body(|scope| {
-		const MANIFEST: &str = "data/rueil-malmaison-l-imperiale.json";
-
-
-		let manifest = create_rw_signal(scope, MANIFEST);
+		let params = UrlSearchParams::new_with_str(&window().location().search().unwrap()).unwrap();
+		let manifest = create_rw_signal(scope, params.get("manifest"));
 
 		let scene = create_local_resource(scope, manifest, |manifest| async {
-			let data = Request::get(&(document().base_uri().unwrap().unwrap() + manifest))
+			let mut manifest = manifest?;
+
+			if !(manifest.starts_with("http://") || manifest.starts_with("https://")) {
+				manifest = document().base_uri().unwrap().unwrap() + &manifest;
+			}
+
+			let data = Request::get(&manifest)
 				.send().await.unwrap()
 				.binary().await.unwrap();
 
@@ -26,24 +30,27 @@ pub fn main () {
 
 			#[cfg(debug_assertions)]
 			web_sys::console::time_end_with_label("load scene");
-			scene
+
+			Some(scene)
 		});
 
-		let handler = EventListener::new(&document(), "keydown", move |event| match KeyboardEvent::code(event.unchecked_ref()).as_str() {
-			"Digit1" => manifest.set(MANIFEST),
-			"Digit2" => manifest.set("data/issy-les-moulineaux-joia.json"),
-			"Digit3" => manifest.set("data/nantes-joneliere.json"),
-			"Digit4" => manifest.set("data/le-plessis-robinson-agapanthe.json"),
-			"Digit5" => manifest.set("data/bezannes-les-toits-du-golf.json"),
-			"Digit6" => manifest.set("data/issy-les-moulineaux-carat.json"),
-			_ => {}
+		let handler = EventListener::new(&document(), "keydown", move |event| {
+			manifest.set(Some(String::from(match KeyboardEvent::code(event.unchecked_ref()).as_str() {
+				"Digit1" => "data/rueil-malmaison-l-imperiale.json",
+				"Digit2" => "data/issy-les-moulineaux-joia.json",
+				"Digit3" => "data/nantes-joneliere.json",
+				"Digit4" => "data/le-plessis-robinson-agapanthe.json",
+				"Digit5" => "data/bezannes-les-toits-du-golf.json",
+				"Digit6" => "data/issy-les-moulineaux-carat.json",
+				_ => return
+			})));
 		});
 
 		on_cleanup(scope, move || drop(handler));
 
 		view!(scope,
 			{move || {
-				let scene = scene.read()?;
+				let scene = scene.read()??;
 					
 				Some(view!(scope, <Viewer scene=scene />))
 			}}
