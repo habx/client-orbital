@@ -10,7 +10,7 @@ manifests=$(
 		--data-raw '{"query":"{prj{projectProperties(filters:{types:[threeD]}paginate:{limit:-1 offset:0}){nodes{value}}}}"}' \
 		| jq '.data.prj.projectProperties.nodes[].value.orbitalUrl' \
 		| grep -vE 'parcours-2020-demo|test-orbitale-training' \
-		| sort | uniq -u \
+		| sort -u \
 		| sed 's/^"//;s/"$//;s/\/$/\/orbit.json/' \
 )
 
