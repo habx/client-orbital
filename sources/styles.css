@@ -84,6 +84,7 @@ body {
 	position: absolute;
 	inset: 0;
 	display: flex;
+	overflow: hidden;
 }
 
 .controls {
@@ -99,6 +100,11 @@ body {
 	width: 300px;
 	background-color: #fff;
 	border-radius: 4px;
+	transition: transform .2s;
+}
+
+.sidebar:not(.open) {
+	transform: translateX(100%);
 }
 
 @media (max-width: 680px) {

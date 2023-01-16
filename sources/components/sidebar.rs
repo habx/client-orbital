@@ -5,14 +5,14 @@ use crate::project::Project;
 
 
 #[component]
-pub fn Sidebar<'a> (scope: Scope, project: &'a Project) -> impl IntoView {
+pub fn Sidebar<'a> (scope: Scope, visible: Signal<bool>, project: &'a Project) -> impl IntoView {
 	let lots: Vec<_> = project.lots
 			.iter()
 			.filter(|lot| lot.role == Role::Living && lot.name.is_some())
 			.collect();
 
 	view!(scope,
-		<aside class="sidebar">
+		<aside class="sidebar" class:open=visible>
 			<h1>
 				{if lots.len() > 1 {
 					format!("{} lots", lots.len())

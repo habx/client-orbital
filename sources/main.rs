@@ -17,6 +17,7 @@ pub fn main () {
 		let params = UrlSearchParams::new_with_str(&window().location().search().unwrap()).unwrap();
 		let interactive = params.get("interactive").contains(&"true");
 		let overlay = create_rw_signal(scope, interactive);
+		let sidebar = create_rw_signal(scope, true);
 		let url = create_rw_signal(scope, params.get("manifest"));
 
 		let manifest = create_local_resource(scope, url, |url| async {
@@ -66,9 +67,9 @@ pub fn main () {
 
 					{interactive.then(move || view!(scope,
 						<section class="ui">
-							<Controls overlay />
+							<Controls overlay sidebar />
 
-							<Sidebar project=&manifest.project />
+							<Sidebar project=&manifest.project visible=sidebar.into() />
 						</section>
 					))}
 				))
