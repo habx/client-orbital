@@ -3,6 +3,7 @@ use orbit::model::Shape;
 use crate::lot::{Lot, Role};
 
 
+#[derive(Debug)]
 pub struct Project {
 	pub lots: Vec<Lot>,
 

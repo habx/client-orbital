@@ -1,13 +1,10 @@
 #![feature(option_result_contains)]
 
 
-use std::rc::Rc;
-
 use gloo_events::EventListener;
 use gloo_net::http::Request;
 use leptos::*;
 use orbit::components::{Viewer, ViewerProps};
-use orbit::model::Scene;
 use orbit::state::provide_state;
 use web_sys::{KeyboardEvent, UrlSearchParams};
 
@@ -20,32 +17,32 @@ pub fn main () {
 		let params = UrlSearchParams::new_with_str(&window().location().search().unwrap()).unwrap();
 		let interactive = params.get("interactive").contains(&"true");
 		let overlay = create_rw_signal(scope, interactive);
-		let manifest = create_rw_signal(scope, params.get("manifest"));
+		let url = create_rw_signal(scope, params.get("manifest"));
 
-		let scene = create_local_resource(scope, manifest, |manifest| async {
-			let mut manifest = manifest?;
+		let manifest = create_local_resource(scope, url, |url| async {
+			let mut url = url?;
 
-			if !(manifest.starts_with("http://") || manifest.starts_with("https://")) {
-				manifest = document().base_uri().unwrap().unwrap() + &manifest;
+			if !(url.starts_with("http://") || url.starts_with("https://")) {
+				url = document().base_uri().unwrap().unwrap() + &url;
 			}
 
-			let data = Request::get(&manifest)
+			let data = Request::get(&url)
 				.send().await.unwrap()
 				.binary().await.unwrap();
 
 			#[cfg(debug_assertions)]
-			web_sys::console::time_with_label("load scene");
+			web_sys::console::time_with_label("load manifest");
 
-			let scene = Scene::from(Manifest::from(serde_json::de::from_slice(&data).unwrap()));
+			let manifest: Manifest = serde_json::de::from_slice(&data).unwrap();
 
 			#[cfg(debug_assertions)]
-			web_sys::console::time_end_with_label("load scene");
+			web_sys::console::time_end_with_label("load manifest");
 
-			Some(scene)
+			Some(manifest)
 		});
 
 		let handler = EventListener::new(&document(), "keydown", move |event| {
-			manifest.set(Some(String::from(match KeyboardEvent::code(event.unchecked_ref()).as_str() {
+			url.set(Some(String::from(match KeyboardEvent::code(event.unchecked_ref()).as_str() {
 				"Digit1" => "data/rueil-malmaison-l-imperiale.json",
 				"Digit2" => "data/issy-les-moulineaux-joia.json",
 				"Digit3" => "data/nantes-joneliere.json",
@@ -60,7 +57,9 @@ pub fn main () {
 
 		view!(scope,
 			{move || {
-				provide_state(scope, Rc::new(scene.read()??).into(), interactive.into());
+				let manifest = manifest.read()??;
+
+				provide_state(scope, manifest.scene.into(), overlay.into());
 
 				Some(view!(scope,
 					<Viewer />

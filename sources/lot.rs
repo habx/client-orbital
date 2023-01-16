@@ -12,6 +12,7 @@ pub enum Role {
 }
 
 
+#[derive(Debug)]
 pub struct Lot {
 	pub building: u8,
 	pub floors: Vec<usize>,

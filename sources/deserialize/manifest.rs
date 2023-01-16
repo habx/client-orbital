@@ -1,5 +1,6 @@
 use std::cell::RefCell;
 use std::fmt;
+use std::rc::Rc;
 
 use orbit::model::Scene;
 use serde::Deserialize;
@@ -12,8 +13,11 @@ use super::meta::Meta;
 use super::views::ViewsVisitor;
 
 
-#[derive(Debug)]
-pub struct Manifest(Scene);
+#[derive(Clone, Debug)]
+pub struct Manifest {
+	pub project: Rc<Project>,
+	pub scene: Rc<Scene>,
+}
 
 struct ManifestVisitor;
 
@@ -21,19 +25,12 @@ struct ManifestVisitor;
 impl<'de> Deserialize<'de> for Manifest {
 	#[inline]
 	fn deserialize<D> (deserializer: D) -> Result<Self, D::Error> where D: serde::Deserializer<'de> {
-		deserializer.deserialize_map(ManifestVisitor).map(Self)
-	}
-}
-
-impl From<Manifest> for Scene {
-	#[inline]
-	fn from (manifest: Manifest) -> Self {
-		manifest.0
+		deserializer.deserialize_map(ManifestVisitor)
 	}
 }
 
 impl<'de> Visitor<'de> for ManifestVisitor {
-	type Value = Scene;
+	type Value = Manifest;
 
 
 	#[inline]
@@ -43,8 +40,9 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 
 	fn visit_map<Map> (self, mut map: Map) -> Result<Self::Value, Map::Error> where Map: MapAccess<'de>, {
 		let cameras = RefCell::new(Vec::new());
-		let mut meta = None;
 		let mut lots = None;
+		let mut meta = None;
+		let mut project = None;
 		let mut shapes = None;
 
 		while let Some(key) = map.next_key()? {
@@ -60,14 +58,15 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 					let Meta { path, size } = meta.take().ok_or(Error::custom("field `meta` must precede `views`"))?;
 					let lots = lots.take().ok_or(Error::custom("field `lots` must precede `views`"))?;
 					let shapes = shapes.as_ref().unwrap();
-					let project = Project::new(lots, &mut* shapes.borrow_mut()).unwrap();
+
+					project = Some(Project::new(lots, &mut* shapes.borrow_mut()).unwrap());
 
 					map.next_value_seed(ViewsVisitor {
 						cameras: &cameras,
 						height: size.height,
 						identifier: None,
 						path: &path,
-						project: &project,
+						project: project.as_ref().unwrap(),
 						shapes: &*shapes.borrow(),
 						width: size.width,
 					})?
@@ -79,6 +78,9 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 		let mut cameras = cameras.into_inner();
 
 		cameras[1..].reverse();
-		Ok(Scene::new(cameras, shapes.unwrap().into_inner()))
+		Ok(Manifest {
+			project: Rc::new(project.unwrap()),
+			scene: Rc::new(Scene::new(cameras, shapes.unwrap().into_inner())),
+		})
 	}
 }
