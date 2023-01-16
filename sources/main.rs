@@ -16,7 +16,7 @@ pub fn main () {
 	mount_to_body(|scope| {
 		let params = UrlSearchParams::new_with_str(&window().location().search().unwrap()).unwrap();
 		let interactive = params.get("interactive").contains(&"true");
-		let overlay = create_rw_signal(scope, interactive);
+		let overlay = create_rw_signal(scope, false);
 		let sidebar = create_rw_signal(scope, true);
 		let url = create_rw_signal(scope, params.get("manifest"));
 
