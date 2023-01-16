@@ -55,10 +55,7 @@ impl Lot {
 	}
 
 	pub fn class (&self) -> String {
-		format!("lot {}{}",
-			&self.identifier,
-			self.typology.map_or_else(String::new, |typology| format!(" t{}", typology))
-		)
+		format!("lot{}", self.typology.map_or_else(String::new, |typology| format!(" t{}", typology)))
 	}
 
 	pub fn process (&mut self, shapes: &mut[Shape]) {

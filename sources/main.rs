@@ -1,10 +1,14 @@
 #![feature(option_result_contains)]
 
 
+use std::rc::Rc;
+
 use gloo_events::EventListener;
 use gloo_net::http::Request;
 use leptos::*;
 use orbit::components::{Viewer, ViewerProps};
+use orbit::model::Scene;
+use orbit::state::provide_state;
 use web_sys::{KeyboardEvent, UrlSearchParams};
 
 use viewer::Manifest;
@@ -30,7 +34,7 @@ pub fn main () {
 			#[cfg(debug_assertions)]
 			web_sys::console::time_with_label("load scene");
 
-			let scene = Manifest::from(serde_json::de::from_slice(&data).unwrap()).into();
+			let scene = Scene::from(Manifest::from(serde_json::de::from_slice(&data).unwrap()));
 
 			#[cfg(debug_assertions)]
 			web_sys::console::time_end_with_label("load scene");
@@ -54,9 +58,9 @@ pub fn main () {
 
 		view!(scope,
 			{move || {
-				let scene = scene.read()??;
-					
-				Some(view!(scope, <Viewer scene=scene with_overlay=interactive />))
+				provide_state(scope, Rc::new(scene.read()??).into(), interactive.into());
+
+				Some(view!(scope, <Viewer />))
 			}}
 		)
 	});

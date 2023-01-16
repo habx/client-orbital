@@ -88,6 +88,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 			Identifier::Level(level) => project.lots
 				.iter()
 				.filter_map(|lot| (lot.role == Role::Living && lot.name.is_some()).then(|| Style::compound(
+					lot.identifier.clone(),
 					lot.class(),
 					lot.range
 						.clone()
@@ -110,6 +111,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 			Identifier::Regular(_) => project.lots
 				.iter()
 				.filter_map(|lot| (lot.role == Role::Living && lot.name.is_some()).then(|| Style::compound(
+					lot.identifier.clone(),
 					lot.class(),
 					lot.range
 						.clone()
