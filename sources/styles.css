@@ -12,6 +12,7 @@ body {
 	overflow: hidden;
 	cursor: grab;
 	touch-action: none;
+	z-index: 1;
 }
 
 .viewer:active {
@@ -78,3 +79,19 @@ body {
 .lot.t6 > .shape.floor {
 	fill: #D82D2D;
 }
+
+.ui {
+	position: absolute;
+	inset: 0;
+	display: flex;
+}
+
+.controls {
+	flex: 1;
+}
+
+.control {
+	position: relative;
+	z-index: 1;
+}
+

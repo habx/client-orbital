@@ -12,12 +12,14 @@ use orbit::state::provide_state;
 use web_sys::{KeyboardEvent, UrlSearchParams};
 
 use viewer::Manifest;
+use viewer::components::{Controls, ControlsProps};
 
 
 pub fn main () {
 	mount_to_body(|scope| {
 		let params = UrlSearchParams::new_with_str(&window().location().search().unwrap()).unwrap();
 		let interactive = params.get("interactive").contains(&"true");
+		let overlay = create_rw_signal(scope, interactive);
 		let manifest = create_rw_signal(scope, params.get("manifest"));
 
 		let scene = create_local_resource(scope, manifest, |manifest| async {
@@ -60,7 +62,15 @@ pub fn main () {
 			{move || {
 				provide_state(scope, Rc::new(scene.read()??).into(), interactive.into());
 
-				Some(view!(scope, <Viewer />))
+				Some(view!(scope,
+					<Viewer />
+
+					{interactive.then(move || view!(scope,
+						<section class="ui">
+							<Controls overlay />
+						</section>
+					))}
+				))
 			}}
 		)
 	});
