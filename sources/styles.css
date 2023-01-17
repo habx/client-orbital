@@ -112,6 +112,10 @@ body {
 	opacity: .1;
 }
 
+.ui.selection ~ .viewer .lot:not(.active, :hover) .wall {
+	display: none;
+}
+
 .controls {
 	flex: 1;
 	margin-right: 24px;
