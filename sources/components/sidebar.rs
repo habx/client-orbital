@@ -68,7 +68,7 @@ pub fn Sidebar (
 						};
 
 						view!(scope,
-							<div
+							<button
 								class="card"
 								class:active=move || is_selected(Some(index))
 								on:click=toggle
@@ -84,7 +84,7 @@ pub fn Sidebar (
 
 									{lot.surface_area.map(|surface_area| format!("{:.1}m²", surface_area as f64 / 10_000.))}
 								</div>
-							</div>
+							</button>
 						)
 					})
 					.collect::<Vec<_>>()}

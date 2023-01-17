@@ -160,12 +160,15 @@ body {
 .card {
 	display: grid;
 	grid-template-columns: auto 1fr auto;
+	width: 100%;
 	padding: 12px;
 	background-color: #fff;
 	border-radius: 6px;
 	border: 1px solid #18141f26;
 	outline: 2px solid transparent;
+	font: unset;
 	font-size: 1.2rem;
+	text-align: unset;
 	color: #18141f80;
 	cursor: pointer;
 	transition: border-color .1s, outline-color .1s;
@@ -175,7 +178,7 @@ body {
 	margin-bottom: 8px;
 }
 
-.card:hover {
+.card:hover, .card:focus {
 	outline-color: #18141f26;
 }
 
