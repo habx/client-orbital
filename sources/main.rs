@@ -1,6 +1,8 @@
 #![feature(option_result_contains)]
 
 
+use std::cell::Cell;
+
 use gloo_events::EventListener;
 use gloo_net::http::Request;
 use leptos::*;
@@ -15,6 +17,7 @@ use viewer::components::{Interface, InterfaceProps};
 pub fn main () {
 	mount_to_body(|scope| {
 		let params = UrlSearchParams::new_with_str(&window().location().search().unwrap()).unwrap();
+		let instance = store_value(scope, Cell::new(None));
 		let interactive = params.get("interactive").contains(&"true");
 		let url = create_rw_signal(scope, params.get("manifest"));
 
@@ -64,7 +67,7 @@ pub fn main () {
 
 				provide_state(scope, manifest.scene.into(), MaybeSignal::derive(scope, move || overlay.get() || selection.get()));
 
-				Some(view!(scope,
+				let (element, disposer) = scope.run_child_scope(|scope| Some(view!(scope,
 					{interactive.then(move || view!(scope,
 						<Interface
 							lot
@@ -75,7 +78,12 @@ pub fn main () {
 					))}
 
 					<Viewer />
-				))
+				)));
+
+				instance
+					.with(|instance| instance.replace(Some(disposer)))
+					.map(ScopeDisposer::dispose);
+				element
 			}}
 		)
 	});
