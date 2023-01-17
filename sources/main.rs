@@ -67,6 +67,7 @@ pub fn main () {
 				Some(view!(scope,
 					{interactive.then(move || view!(scope,
 						<Interface
+							cameras=manifest.cameras
 							lot
 							project=manifest.project
 							overlay

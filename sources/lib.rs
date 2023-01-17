@@ -1,6 +1,7 @@
 #![feature(portable_simd)]
 
 
+pub mod camera;
 pub mod components;
 pub mod deserialize;
 pub mod lot;

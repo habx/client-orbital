@@ -6,6 +6,7 @@ use orbit::model::Scene;
 use serde::Deserialize;
 use serde::de::{Error, IgnoredAny, MapAccess, Visitor};
 
+use crate::camera::Camera as Identifier;
 use crate::project::Project;
 
 use super::lots::LotsVisitor;
@@ -15,6 +16,7 @@ use super::views::ViewsVisitor;
 
 #[derive(Clone, Debug)]
 pub struct Manifest {
+	pub cameras: Vec<Identifier>,
 	pub project: Rc<Project>,
 	pub scene: Rc<Scene>,
 }
@@ -40,6 +42,7 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 
 	fn visit_map<Map> (self, mut map: Map) -> Result<Self::Value, Map::Error> where Map: MapAccess<'de>, {
 		let cameras = RefCell::new(Vec::new());
+		let identifiers = RefCell::new(Vec::new());
 		let mut lots = None;
 		let mut meta = None;
 		let mut project = None;
@@ -65,6 +68,7 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 						cameras: &cameras,
 						height: size.height,
 						identifier: None,
+						identifiers: &identifiers,
 						path: &path,
 						project: project.as_ref().unwrap(),
 						shapes: &*shapes.borrow(),
@@ -76,9 +80,12 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 		}
 
 		let mut cameras = cameras.into_inner();
+		let mut identifiers = identifiers.into_inner();
 
 		cameras[1..].reverse();
+		identifiers[1..].reverse();
 		Ok(Manifest {
+			cameras: identifiers,
 			project: Rc::new(project.unwrap()),
 			scene: Rc::new(Scene::new(cameras, shapes.unwrap().into_inner())),
 		})

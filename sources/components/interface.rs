@@ -6,6 +6,8 @@ use web_sys::DomTokenList;
 
 use crate::project::Project;
 
+use crate::camera::Camera;
+
 use super::controls::{Controls, ControlsProps};
 use super::sidebar::{Sidebar, SidebarProps};
 
@@ -14,6 +16,7 @@ use super::sidebar::{Sidebar, SidebarProps};
 pub fn Interface (
 	scope: Scope,
 	lot: RwSignal<Option<String>>,
+	cameras: Vec<Camera>,
 	project: Rc<Project>,
 	overlay: RwSignal<bool>,
 	#[prop(into)]
@@ -41,7 +44,7 @@ pub fn Interface (
 
 	view!(scope,
 		<section class="ui" class:selection=overlay_forced>
-			<Controls overlay overlay_forced sidebar />
+			<Controls cameras overlay overlay_forced sidebar />
 
 			<Sidebar project selected=lot visible=sidebar />
 		</section>

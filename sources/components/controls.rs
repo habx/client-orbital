@@ -1,14 +1,22 @@
+use std::str::FromStr;
+
 use leptos::*;
+use orbit::state::use_state;
+
+use crate::camera::Camera;
 
 
 #[component]
 pub fn Controls (
 	scope: Scope,
+	cameras: Vec<Camera>,
 	overlay: RwSignal<bool>,
 	#[prop(into)]
 	overlay_forced: Signal<bool>,
 	sidebar: RwSignal<bool>,
 ) -> impl IntoView {
+	let state = use_state(scope);
+
 	view!(scope,
 		<div class="controls">
 			<button
@@ -26,6 +34,20 @@ pub fn Controls (
 			>
 				"Toggle sidebar"
 			</button>
+
+			<select
+				class="control"
+				on:change=move |event| if let Ok(camera) = usize::from_str(&event_target_value(&event)) {
+					state.set_camera(camera);
+				}
+				prop:value=move || state.get_camera()
+			>
+				{cameras
+					.iter()
+					.enumerate()
+					.map(|(index, camera)| view!(scope, <option value=index>{camera.label()}</option>))
+					.collect::<Vec<_>>()}
+			</select>
 		</div>
 	)
 }
