@@ -56,7 +56,9 @@ pub fn Controls (
 				{project.cameras
 					.iter()
 					.enumerate()
-					.map(|(index, camera)| view!(scope, <option value=index>{camera.label()}</option>))
+					.map(|(index, camera)| view!(scope,
+						<option value=index>{camera.label(&project)}</option>
+					))
 					.collect::<Vec<_>>()}
 			</select>
 		</div>

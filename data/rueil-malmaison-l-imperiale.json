@@ -35110,7 +35110,7 @@
 	"views": [
 		{
 			"name": "orbital_top",
-			"label": "Aerial view",
+			"label": "Aérien",
 			"thumbnail": {
 				"index": 0
 			},
@@ -60356,7 +60356,7 @@
 		},
 		{
 			"name": "orbital_ground",
-			"label": "Pedestrian view",
+			"label": "Piéton",
 			"thumbnail": {
 				"index": 0
 			},
@@ -63515,7 +63515,7 @@
 		},
 		{
 			"name": "orbital_garden",
-			"label": "Inside view",
+			"label": "Cœur d'ilot",
 			"thumbnail": {
 				"index": 0
 			},

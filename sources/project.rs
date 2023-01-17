@@ -55,6 +55,11 @@ impl Project {
 		})
 	}
 
+	#[inline]
+	pub fn absolute_level (&self, level: u8) -> i8 {
+		self.level + level as i8
+	}
+
 	pub fn lot_levels<'a> (&'a self, index: usize, shapes: &'a [Shape]) -> impl Iterator<Item = u8> + 'a {
 		let lot = &self.lots[index];
 

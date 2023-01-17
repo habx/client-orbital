@@ -1,3 +1,7 @@
+use crate::format;
+use crate::project::Project;
+
+
 #[derive(Clone, Debug)]
 pub enum Camera {
 	Level(u8),
@@ -10,10 +14,9 @@ pub enum Camera {
 
 impl Camera {
 	#[inline]
-	pub fn label (&self) -> String {
+	pub fn label (&self, project: &Project) -> String {
 		match self {
-			// TODO: Convert to absolute levels
-			Self::Level(level) => format!("Étage {level}"),
+			Self::Level(level) => format::level(project.absolute_level(*level)),
 			Self::Regular { label, .. } => label.clone(),
 		}
 	}
