@@ -3,6 +3,7 @@ use std::rc::Rc;
 use leptos::*;
 use orbit::state::use_state;
 
+use crate::camera::Camera;
 use crate::lot::Role;
 use crate::project::Project;
 
@@ -11,21 +12,12 @@ use crate::project::Project;
 pub fn Sidebar (
 	scope: Scope,
 	project: Rc<Project>,
-	selected: RwSignal<Option<String>>,
+	selected: RwSignal<Option<usize>>,
 	#[prop(into)]
 	visible: Signal<bool>,
 ) -> impl IntoView {
 	let state = use_state(scope);
-
-	let is_selected = {
-		let project = project.clone();
-
-		create_selector(scope, move || selected.get()
-			.and_then(|selected| project.lots
-				.iter()
-				.position(|lot| lot.identifier == selected))
-			.unwrap_or(project.lots.len()))
-	};
+	let is_selected = create_selector(scope, selected);
 
 	let lots: Vec<_> = (0..project.lots.len())
 		.filter(|&index| {
@@ -57,14 +49,27 @@ pub fn Sidebar (
 					let set = {
 						let project = project.clone();
 
-						move |_| selected.set(Some(project.lots[index].identifier.clone()))
+						move |_| {
+							let lot = &project.lots[index];
+
+							selected.set(Some(index));
+
+							let lot_level = project.relative_level(lot.level);
+							let lot_camera = project.cameras
+								.iter()
+								.position(|camera| matches!(camera, Camera::Level(level) if *level == lot_level));
+
+							if let Some(lot_camera) = lot_camera {
+								state.set_camera(lot_camera);
+							}
+						}
 					};
 
 					view!(scope,
 						<div on:click=set>
 							{project.lots[index].name.clone().unwrap_or_default()}
 
-							{move || is_selected(index).then(render_close_button)}
+							{move || is_selected(Some(index)).then(render_close_button)}
 						</div>
 					)
 				})

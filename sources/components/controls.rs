@@ -1,18 +1,19 @@
+use std::rc::Rc;
 use std::str::FromStr;
 
 use leptos::*;
 use orbit::state::use_state;
 
-use crate::camera::Camera;
+use crate::project::Project;
 
 
 #[component]
 pub fn Controls (
 	scope: Scope,
-	cameras: Vec<Camera>,
 	overlay: RwSignal<bool>,
 	#[prop(into)]
 	overlay_forced: Signal<bool>,
+	project: Rc<Project>,
 	sidebar: RwSignal<bool>,
 ) -> impl IntoView {
 	let state = use_state(scope);
@@ -42,7 +43,7 @@ pub fn Controls (
 				}
 				prop:value=move || state.get_camera()
 			>
-				{cameras
+				{project.cameras
 					.iter()
 					.enumerate()
 					.map(|(index, camera)| view!(scope, <option value=index>{camera.label()}</option>))

@@ -60,18 +60,17 @@ pub fn main () {
 
 				let lot = create_rw_signal(scope, None);
 				let overlay = create_rw_signal(scope, false);
-				let overlay_forced = create_memo(scope, move |_| lot.with(|lot| lot.is_some()));
+				let selection = create_memo(scope, move |_| lot.with(|lot| lot.is_some()));
 
-				provide_state(scope, manifest.scene.into(), MaybeSignal::derive(scope, move || overlay.get() || overlay_forced.get()));
+				provide_state(scope, manifest.scene.into(), MaybeSignal::derive(scope, move || overlay.get() || selection.get()));
 
 				Some(view!(scope,
 					{interactive.then(move || view!(scope,
 						<Interface
-							cameras=manifest.cameras
 							lot
-							project=manifest.project
 							overlay
-							overlay_forced
+							project=manifest.project
+							selection
 						/>
 					))}
 

@@ -1,20 +1,29 @@
 use orbit::model::Shape;
 
+use crate::camera::Camera;
 use crate::lot::{Lot, Role};
 
 
 #[derive(Debug)]
 pub struct Project {
+	pub cameras: Vec<Camera>,
 	pub lots: Vec<Lot>,
 
+	level: i8,
 	levels: Vec<(u8, isize)>,
 }
 
 
 impl Project {
 	pub fn new (mut lots: Vec<Lot>, shapes: &mut [Shape]) -> Option<Self> {
-		for lot in &mut lots {
+		let mut level = 0;
+
+		for lot in lots.iter_mut() {
 			lot.process(shapes);
+
+			if lot.role == Role::Living && lot.level < level {
+				level = lot.level;
+			}
 		}
 
 		let mut levels: Vec<_> = lots
@@ -29,12 +38,21 @@ impl Project {
 		levels.dedup();
 
 		Some(Self {
+			cameras: Vec::new(),
+			level,
 			levels,
 			lots,
 		})
 	}
 
-	pub fn level (&self, building: u8, shape: &Shape) -> u8 {
+	#[inline]
+	pub fn relative_level (&self, level: i8) -> u8 {
+		let level = level - self.level;
+
+		if level.is_negative() { 0 } else { level as _ }
+	}
+
+	pub fn shape_level (&self, building: u8, shape: &Shape) -> u8 {
 		let mut height = level_height(shape);
 
 		if shape.normal()[2].is_sign_positive() {

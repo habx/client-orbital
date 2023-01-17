@@ -6,8 +6,6 @@ use web_sys::DomTokenList;
 
 use crate::project::Project;
 
-use crate::camera::Camera;
-
 use super::controls::{Controls, ControlsProps};
 use super::sidebar::{Sidebar, SidebarProps};
 
@@ -15,36 +13,44 @@ use super::sidebar::{Sidebar, SidebarProps};
 #[component]
 pub fn Interface (
 	scope: Scope,
-	lot: RwSignal<Option<String>>,
-	cameras: Vec<Camera>,
-	project: Rc<Project>,
+	lot: RwSignal<Option<usize>>,
 	overlay: RwSignal<bool>,
+	project: Rc<Project>,
 	#[prop(into)]
-	overlay_forced: Signal<bool>,
+	selection: Signal<bool>,
 ) -> impl IntoView {
 	let state = use_state(scope);
 	let sidebar = create_rw_signal(scope, true);
 
-	create_effect(scope, move |previous: Option<Option<DomTokenList>>| {
-		if !state.is_overlay_mounted() {
-			return None
-		}
+	create_effect(scope, {
+		let project = project.clone();
 
-		lot.with(|lot| {
-			if let Some(previous) = previous.flatten() {
-				let _ = previous.remove_1("active").unwrap();
+		move |previous: Option<Option<DomTokenList>>| {
+			if !state.is_overlay_mounted() {
+				return None
 			}
 
-			let current = document().get_element_by_id(lot.as_ref()?).unwrap().class_list();
-			let _ = current.add_1("active").unwrap();
+			lot.with(|index| {
+				if let Some(previous) = previous.flatten() {
+					let _ = previous.remove_1("active").unwrap();
+				}
 
-			Some(current)
-		})
+				let current = document().get_element_by_id(&project.lots[(*index)?].identifier).unwrap().class_list();
+				let _ = current.add_1("active").unwrap();
+
+				Some(current)
+			})
+		}
 	});
 
 	view!(scope,
-		<section class="ui" class:selection=overlay_forced>
-			<Controls cameras overlay overlay_forced sidebar />
+		<section class="ui" class:selection=selection>
+			<Controls
+				overlay
+				overlay_forced=selection
+				project=project.clone()
+				sidebar
+			/>
 
 			<Sidebar project selected=lot visible=sidebar />
 		</section>
