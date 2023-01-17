@@ -28,7 +28,7 @@ body {
 	height: 100vh;
 	overflow: hidden;
 	cursor: grab;
-	touch-action: none;
+	touch-action: pinch-zoom;
 }
 
 .viewer:active {
