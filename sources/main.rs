@@ -9,7 +9,7 @@ use orbit::state::provide_state;
 use web_sys::{KeyboardEvent, UrlSearchParams};
 
 use viewer::Manifest;
-use viewer::components::{Controls, ControlsProps};
+use viewer::components::{Controls, ControlsProps, Sidebar, SidebarProps};
 
 
 pub fn main () {
@@ -67,6 +67,8 @@ pub fn main () {
 					{interactive.then(move || view!(scope,
 						<section class="ui">
 							<Controls overlay />
+
+							<Sidebar project=&manifest.project />
 						</section>
 					))}
 				))
