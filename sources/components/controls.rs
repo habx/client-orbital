@@ -51,6 +51,7 @@ pub fn Controls (
 				on:change=move |event| if let Ok(camera) = usize::from_str(&event_target_value(&event)) {
 					state.set_camera(camera);
 				}
+				on:keydown=|event| event.prevent_default()
 				prop:value=move || state.get_camera()
 			>
 				{project.cameras
