@@ -21,6 +21,7 @@ pub struct Lot {
 	pub name: Option<String>,
 	pub range: Range<usize>,
 	pub role: Role,
+	pub surface_area: Option<u64>,
 	pub typology: Option<u8>,
 }
 
@@ -30,6 +31,7 @@ impl Lot {
 		range: Range<usize>,
 		identifier: String,
 		name: Option<String>,
+		surface_area: Option<u64>,
 		typology: Option<u8>,
 	) -> Option<Self> {
 		let value = identifier.to_lowercase();
@@ -51,6 +53,7 @@ impl Lot {
 			name,
 			range,
 			role: Role::parse(&value)?,
+			surface_area,
 			typology,
 		})
 	}

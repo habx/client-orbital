@@ -4,6 +4,7 @@ use leptos::*;
 use orbit::state::use_state;
 
 use crate::camera::Camera;
+use crate::format;
 use crate::lot::Role;
 use crate::project::Project;
 
@@ -27,13 +28,9 @@ pub fn Sidebar (
 		})
 		.collect();
 
-	let render_close_button = move || view!(scope,
-		<button on:click=move |_| selected.set(None)>"Close"</button>
-	);
-
 	view!(scope,
 		<aside class="sidebar" class:open=visible>
-			<h1>
+			<h1 class="sidebar_title">
 				{if lots.len() > 1 {
 					format!("{} lots", lots.len())
 				} else {
@@ -45,11 +42,15 @@ pub fn Sidebar (
 				.into_iter()
 				.map(|index| {
 					let is_selected = is_selected.clone();
+					let lot = &project.lots[index];
 
-					let set = {
+					let toggle = {
+						let is_selected = is_selected.clone();
 						let project = project.clone();
 
-						move |_| {
+						move |_| if is_selected(Some(index)) {
+							selected.set(None)
+						} else {
 							let lot = &project.lots[index];
 
 							selected.set(Some(index));
@@ -66,10 +67,22 @@ pub fn Sidebar (
 					};
 
 					view!(scope,
-						<div on:click=set>
-							{project.lots[index].name.clone().unwrap_or_default()}
+						<div
+							class="card"
+							class:active=move || is_selected(Some(index))
+							on:click=toggle
+						>
+							<div class="card_content">
+								<h2 class="card_title">{lot.name.clone().unwrap_or_default()}</h2>
 
-							{move || is_selected(Some(index)).then(render_close_button)}
+								{format::level(lot.level)}
+							</div>
+
+							<div>
+								<div class="typology">{lot.typology.map(|typology| format!("T{typology}"))}</div>
+
+								{lot.surface_area.map(|surface_area| format!("{:.1}m²", surface_area as f64 / 10_000.))}
+							</div>
 						</div>
 					)
 				})

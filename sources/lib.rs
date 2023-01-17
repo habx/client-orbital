@@ -4,6 +4,7 @@
 pub mod camera;
 pub mod components;
 pub mod deserialize;
+pub mod format;
 pub mod lot;
 pub mod project;
 
