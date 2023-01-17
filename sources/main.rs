@@ -9,15 +9,13 @@ use orbit::state::provide_state;
 use web_sys::{KeyboardEvent, UrlSearchParams};
 
 use viewer::Manifest;
-use viewer::components::{Controls, ControlsProps, Sidebar, SidebarProps};
+use viewer::components::{Interface, InterfaceProps};
 
 
 pub fn main () {
 	mount_to_body(|scope| {
 		let params = UrlSearchParams::new_with_str(&window().location().search().unwrap()).unwrap();
 		let interactive = params.get("interactive").contains(&"true");
-		let overlay = create_rw_signal(scope, false);
-		let sidebar = create_rw_signal(scope, true);
 		let url = create_rw_signal(scope, params.get("manifest"));
 
 		let manifest = create_local_resource(scope, url, |url| async {
@@ -60,18 +58,23 @@ pub fn main () {
 			{move || {
 				let manifest = manifest.read()??;
 
-				provide_state(scope, manifest.scene.into(), overlay.into());
+				let lot = create_rw_signal(scope, None);
+				let overlay = create_rw_signal(scope, false);
+				let overlay_forced = create_memo(scope, move |_| lot.with(|lot| lot.is_some()));
+
+				provide_state(scope, manifest.scene.into(), MaybeSignal::derive(scope, move || overlay.get() || overlay_forced.get()));
 
 				Some(view!(scope,
-					<Viewer />
-
 					{interactive.then(move || view!(scope,
-						<section class="ui">
-							<Controls overlay sidebar />
-
-							<Sidebar project=&manifest.project visible=sidebar.into() />
-						</section>
+						<Interface
+							lot
+							project=manifest.project
+							overlay
+							overlay_forced
+						/>
 					))}
+
+					<Viewer />
 				))
 			}}
 		)
