@@ -124,12 +124,10 @@ body {
 
 .sidebar {
 	width: 360px;
-	padding: 24px;
+	padding-block: 24px;
 	background-color: #fafafb;
 	box-shadow: #18141f0f 0 0 1px, #18141f1a 0 4px 12px;
 	border-radius: 6px;
-	overflow: auto;
-	overflow: overlay;
 	transition: opacity .2s, transform .2s;
 }
 
@@ -142,6 +140,14 @@ body {
 	.sidebar {
 		display: none;
 	}
+}
+
+.sidebar_content {
+	position: relative;
+	height: 100%;
+	padding-inline: 24px;
+	overflow: auto;
+	overflow: overlay;
 }
 
 .sidebar_title {
@@ -174,6 +180,9 @@ body {
 }
 
 .card.active {
+	position: sticky;
+	top: 2px;
+	bottom: 2px;
 	border-color: #9a4797;
 	outline-color: #9a4797;
 }

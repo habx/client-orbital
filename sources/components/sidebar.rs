@@ -30,63 +30,65 @@ pub fn Sidebar (
 
 	view!(scope,
 		<aside class="sidebar" class:open=visible>
-			<h1 class="sidebar_title">
-				{if lots.len() > 1 {
-					format!("{} lots", lots.len())
-				} else {
-					format!("{} lot", lots.len())
-				}}
-			</h1>
+			<div class="sidebar_content">
+				<h1 class="sidebar_title">
+					{if lots.len() > 1 {
+						format!("{} lots", lots.len())
+					} else {
+						format!("{} lot", lots.len())
+					}}
+				</h1>
 
-			{lots
-				.into_iter()
-				.map(|index| {
-					let is_selected = is_selected.clone();
-					let lot = &project.lots[index];
-
-					let toggle = {
+				{lots
+					.into_iter()
+					.map(|index| {
 						let is_selected = is_selected.clone();
-						let project = project.clone();
+						let lot = &project.lots[index];
 
-						move |_| if is_selected(Some(index)) {
-							selected.set(None)
-						} else {
-							let lot = &project.lots[index];
+						let toggle = {
+							let is_selected = is_selected.clone();
+							let project = project.clone();
 
-							selected.set(Some(index));
+							move |_| if is_selected(Some(index)) {
+								selected.set(None)
+							} else {
+								let lot = &project.lots[index];
 
-							let lot_level = project.relative_level(lot.level);
-							let lot_camera = project.cameras
-								.iter()
-								.position(|camera| matches!(camera, Camera::Level(level) if *level == lot_level));
+								selected.set(Some(index));
 
-							if let Some(lot_camera) = lot_camera {
-								state.set_camera(lot_camera);
+								let lot_level = project.relative_level(lot.level);
+								let lot_camera = project.cameras
+									.iter()
+									.position(|camera| matches!(camera, Camera::Level(level) if *level == lot_level));
+
+								if let Some(lot_camera) = lot_camera {
+									state.set_camera(lot_camera);
+								}
 							}
-						}
-					};
+						};
 
-					view!(scope,
-						<div
-							class="card"
-							class:active=move || is_selected(Some(index))
-							on:click=toggle
-						>
-							<div class="card_content">
-								<h2 class="card_title">{lot.name.clone().unwrap_or_default()}</h2>
+						view!(scope,
+							<div
+								class="card"
+								class:active=move || is_selected(Some(index))
+								on:click=toggle
+							>
+								<div class="card_content">
+									<h2 class="card_title">{lot.name.clone().unwrap_or_default()}</h2>
 
-								{format::level(lot.level)}
+									{format::level(lot.level)}
+								</div>
+
+								<div>
+									<div class="typology">{lot.typology.map(|typology| format!("T{typology}"))}</div>
+
+									{lot.surface_area.map(|surface_area| format!("{:.1}m²", surface_area as f64 / 10_000.))}
+								</div>
 							</div>
-
-							<div>
-								<div class="typology">{lot.typology.map(|typology| format!("T{typology}"))}</div>
-
-								{lot.surface_area.map(|surface_area| format!("{:.1}m²", surface_area as f64 / 10_000.))}
-							</div>
-						</div>
-					)
-				})
-				.collect::<Vec<_>>()}
+						)
+					})
+					.collect::<Vec<_>>()}
+			</div>
 		</aside>
 	)
 }
