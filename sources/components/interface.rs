@@ -4,6 +4,7 @@ use leptos::*;
 use orbit::state::use_state;
 use web_sys::DomTokenList;
 
+use crate::camera::Camera;
 use crate::project::Project;
 
 use super::controls::{Controls, ControlsProps};
@@ -40,6 +41,19 @@ pub fn Interface (
 
 				Some(current)
 			})
+		}
+	});
+
+	// Resets the lot selection when switching camera
+	create_effect(scope, {
+		let project = project.clone();
+
+		move |_| match &project.cameras[state.get_camera()] {
+			Camera::Level(level) => project
+				.lot_levels(lot.get_untracked()?, &state.get_scene().shapes)
+				.all(|lot_level| lot_level != *level)
+				.then(|| lot.set(None)),
+			_ => None
 		}
 	});
 

@@ -36,6 +36,7 @@ impl Project {
 
 		levels.sort_unstable();
 		levels.dedup();
+		levels.remove(0);
 
 		Some(Self {
 			cameras: Vec::new(),
@@ -43,6 +44,14 @@ impl Project {
 			levels,
 			lots,
 		})
+	}
+
+	pub fn lot_levels<'a> (&'a self, index: usize, shapes: &'a [Shape]) -> impl Iterator<Item = u8> + 'a {
+		let lot = &self.lots[index];
+
+		lot.range
+			.clone()
+			.map(|index| self.shape_level(lot.building, &shapes[index]))
 	}
 
 	#[inline]
@@ -55,14 +64,14 @@ impl Project {
 	pub fn shape_level (&self, building: u8, shape: &Shape) -> u8 {
 		let mut height = level_height(shape);
 
-		if shape.normal()[2].is_sign_positive() {
+		if !shape.is_downward_facing() {
 			height -= 1;
 		}
 
 		self.levels
 			.iter()
 			.filter(|level| level.0 == building)
-			.position(|level| level.1 >= height)
+			.position(|level| level.1 > height)
 			.unwrap_or_default() as _
 	}
 }

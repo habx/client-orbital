@@ -102,7 +102,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 
 							(
 								!shape.is_vertical() &&
-								shape.normal()[2].is_sign_negative() &&
+								shape.is_downward_facing() &&
 								project.shape_level(lot.building, shape) == *level
 							).then(|| Style::shape(format!("floor"), index, lot.floors.contains(&index).then_some(OFFSET)))
 						})

@@ -59,7 +59,7 @@ impl Lot {
 		format!("lot{}", self.typology.map_or_else(String::new, |typology| format!(" t{}", typology)))
 	}
 
-	pub fn process (&mut self, shapes: &mut[Shape]) {
+	pub fn process (&mut self, shapes: &mut [Shape]) {
 		let floors = &mut self.floors;
 
 		if self.role == Role::Living {
@@ -89,7 +89,7 @@ impl Lot {
 
 				debug_assert!(!ceiling.is_vertical());
 
-				if ceiling.normal()[2].is_sign_negative() {
+				if ceiling.is_downward_facing() {
 					ceiling.flip();
 				}
 
@@ -97,7 +97,7 @@ impl Lot {
 					let flip = if shape.is_vertical() {
 						dot_product(group_center - shape.center(), shape.normal()).is_sign_positive()
 					} else {
-						shape.normal()[2].is_sign_positive()
+						shape.is_upward_facing()
 					};
 
 					if flip {
