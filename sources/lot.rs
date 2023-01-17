@@ -40,7 +40,7 @@ impl Lot {
 			building: {
 				let value = &value[value.find('b')?..];
 
-				value.split(char::is_alphabetic).nth(1)?.parse().ok()?
+				value.split(char::is_alphabetic).nth(1)?.parse::<u8>().ok()? - 1
 			},
 			floors: vec![range.start],
 			identifier,

@@ -10,37 +10,46 @@ pub struct Project {
 	pub lots: Vec<Lot>,
 
 	level: i8,
-	levels: Vec<(u8, isize)>,
+	levels: Vec<Vec<isize>>,
 }
 
 
 impl Project {
 	pub fn new (mut lots: Vec<Lot>, shapes: &mut [Shape]) -> Option<Self> {
-		let mut level = 0;
+		let mut level = None;
+		let mut heights = Vec::new();
 
 		for lot in lots.iter_mut() {
 			lot.process(shapes);
 
-			if lot.role == Role::Living && lot.level < level {
-				level = lot.level;
+			if lot.role == Role::Living {
+				heights.extend(lot.floors
+					.iter()
+					.map(|&index| (lot.building, level_height(&shapes[index]))));
+
+				if lot.level < level.unwrap_or(i8::MAX) {
+					level = Some(lot.level);
+				}
 			}
 		}
 
-		let mut levels: Vec<_> = lots
-			.iter()
-			.filter(|lot| lot.role == Role::Living)
-			.flat_map(|lot| lot.floors
-				.iter()
-				.map(|&index| (lot.building, level_height(&shapes[index]))))
-			.collect();
+		heights.sort_unstable();
+		heights.dedup();
 
-		levels.sort_unstable();
-		levels.dedup();
-		levels.remove(0);
+		let buildings = heights.last().map(|entry| (entry.0 + 1)).unwrap_or_default() as _;
+		let mut iterator = heights.iter();
+		let mut levels = vec![Vec::new(); buildings];
+
+		while let Some((index, _)) = iterator.next() {
+			levels[*index as usize].extend(iterator
+				.by_ref()
+				.take_while(|entry| entry.0 == *index)
+				.map(|entry| entry.1));
+		}
 
 		Some(Self {
 			cameras: Vec::new(),
-			level,
+			level: level.unwrap_or(0),
 			levels,
 			lots,
 		})
@@ -49,9 +58,9 @@ impl Project {
 	pub fn lot_levels<'a> (&'a self, index: usize, shapes: &'a [Shape]) -> impl Iterator<Item = u8> + 'a {
 		let lot = &self.lots[index];
 
-		lot.range
-			.clone()
-			.map(|index| self.shape_level(lot.building, &shapes[index]))
+		lot.floors
+			.iter()
+			.map(|&index| self.shape_level(lot.building, &shapes[index]))
 	}
 
 	#[inline]
@@ -68,11 +77,12 @@ impl Project {
 			height -= 1;
 		}
 
-		self.levels
+		let levels = &self.levels[building as usize];
+
+		levels
 			.iter()
-			.filter(|level| level.0 == building)
-			.position(|level| level.1 > height)
-			.unwrap_or_default() as _
+			.position(|&level_height| level_height > height)
+			.unwrap_or(levels.len()) as _
 	}
 }
 
