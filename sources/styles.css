@@ -44,6 +44,7 @@ body {
 .frame {
 	width: 100%;
 	height: 100%;
+	transition: filter .2s;
 }
 
 .frame[src=''] {
