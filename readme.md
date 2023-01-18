@@ -8,9 +8,9 @@ The viewer is hosted on GitHub Pages at this address: https://habx.github.io/cli
 
 - `manifest` (**required**) the URL to the orbit manifest of a given project
 - `interactive` a boolean value enabling interactions with lots and the display of the overlay (_optional_, default to `false`)
-- `redirection` a template URL used to redirect a visitor upon choosing a lot (_optional_, the feature is deactivated by default). Beware of special characters that might need to be encoded (see [here for details](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent)). This template supports a few placeholders, they are replaced by their corresponding value to make dynamic links:
+- `redirection` a template URL used to redirect a visitor upon choosing a lot (_optional_, the feature is deactivated if omitted). Beware of special characters that might need to be encoded (see [here for details](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent)). This template supports a few placeholders, they are replaced by their corresponding value to make dynamic links:
 	- `%ID%` the identifier of a lot (usually a randomly generated one, for internal usage, e.g. `83765-232`)
-	- `%SLUG%` the commercial slug of a lot (most likely a combination of a lot's building, floor and index, e.g. `A010`)
+	- `%SLUG%` the commercial slug of a lot (most likely a combination of a lot's building, floor and index, e.g. `A201`)
 
 ### Examples
 

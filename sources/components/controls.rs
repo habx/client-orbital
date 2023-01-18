@@ -10,10 +10,10 @@ use crate::project::Project;
 #[component]
 pub fn Controls (
 	scope: Scope,
+	lot: RwSignal<Option<usize>>,
 	overlay: RwSignal<bool>,
-	#[prop(into)]
-	overlay_forced: Signal<bool>,
 	project: Rc<Project>,
+	selection: Signal<bool>,
 	sidebar: RwSignal<bool>,
 ) -> impl IntoView {
 	let state = use_state(scope);
@@ -21,11 +21,17 @@ pub fn Controls (
 	view!(scope,
 		<div class="controls">
 			<button
-				class:active=move || overlay.get() || overlay_forced.get()
+				class:active=move || selection.get() || overlay.get()
 				class="control control-overlay"
-				disabled=overlay_forced
-				on:click=move |_| overlay.update(|overlay| *overlay = !*overlay)
-				title=move || if overlay.get() {
+				on:click=move |_| if selection.get_untracked() {
+					lot.set(None);
+					overlay.set(false);
+				} else {
+					overlay.update(|overlay| *overlay = !*overlay);
+				}
+				title=move || if selection.get() {
+					"Désélectionnner le lot"
+				} else if overlay.get() {
 					"Masquer les calques de lots"
 				} else {
 					"Afficher les calques de lots"

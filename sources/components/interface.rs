@@ -67,7 +67,7 @@ pub fn Interface (
 				visible=sidebar
 			/>
 
-			<Controls overlay overlay_forced=selection project sidebar />
+			<Controls lot overlay project selection sidebar />
 		</section>
 	)
 }
