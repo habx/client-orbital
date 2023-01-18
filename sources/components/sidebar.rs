@@ -43,13 +43,13 @@ pub fn Sidebar (
 					.into_iter()
 					.map(|index| {
 						let is_selected = is_selected.clone();
+						let active = Signal::derive(scope, move || is_selected(Some(index)));
 						let lot = &project.lots[index];
 
 						let toggle = {
-							let is_selected = is_selected.clone();
 							let project = project.clone();
 
-							move |_| if is_selected(Some(index)) {
+							move |_| if active() {
 								selected.set(None)
 							} else {
 								let lot = &project.lots[index];
@@ -70,8 +70,13 @@ pub fn Sidebar (
 						view!(scope,
 							<button
 								class="card"
-								class:active=move || is_selected(Some(index))
+								class:active=active
 								on:click=toggle
+								title=move || if active() {
+									"Désélectionnner le lot"
+								} else {
+									"Afficher le lot"
+								}
 							>
 								<div class="card_content">
 									<h2 class="card_title">{lot.name.clone().unwrap_or_default()}</h2>

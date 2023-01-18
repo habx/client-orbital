@@ -105,6 +105,7 @@ body {
 	inset: 0;
 	padding: 36px 24px;
 	display: flex;
+	flex-direction: row-reverse;
 	overflow: hidden;
 }
 
@@ -117,6 +118,7 @@ body {
 }
 
 .controls {
+	position: relative;
 	flex: 1;
 	margin-right: 24px;
 }
@@ -126,11 +128,72 @@ body {
 	z-index: 1;
 }
 
+.control {
+	font: unset;
+	fill: currentColor;
+	background-color: #fff;
+	cursor: pointer;
+}
+
+.control-camera, .control-sidebar, .control-overlay {
+	border: 3px solid transparent;
+	outline: unset;
+	box-shadow: #18141f0f 0 0 2px, #18141f1a 0 2px 8px;
+	color: #2f2c35b3;
+}
+
+.control-camera {
+	padding: 12px 24px;
+	font-size: 1.6rem;
+	border-radius: 100px;
+}
+
+.control-camera option {
+	font: unset;
+	height: 24px;
+}
+
+.control-sidebar, .control-overlay {
+	position: absolute;
+	right: 0;
+	width: 2.2rem;
+	height: 2.2rem;
+	padding: 12px;
+	box-sizing: content-box;
+	border-radius: 50%;
+}
+
+.control-overlay {
+	bottom: 0;
+	transition:
+		color .1s,
+		border-color .1s,
+		background-color .1s,
+		transform .2s;
+}
+
+.control-sidebar {
+	top: 0;
+	transition: color .1s, border-color .1s, transform .2s;
+}
+
+.control-camera:focus-visible, .control-camera:hover,
+.control-overlay:focus-visible, .control-overlay:hover,
+.control-sidebar:focus-visible, .control-sidebar:hover {
+	border-color: #18141f0d;
+	color: #2f2c35;
+}
+
+.control-overlay.active {
+	background-color: #9a4797;
+	color: #fff;
+}
+
 .sidebar {
 	width: 360px;
 	padding-block: 24px;
 	background-color: #fafafb;
-	box-shadow: #18141f0f 0 0 1px, #18141f1a 0 4px 12px;
+	box-shadow: #18141f0f 0 0 2px, #18141f1a 0 12px 24px;
 	border-radius: 6px;
 	transition: opacity .2s, transform .2s;
 }
@@ -138,6 +201,14 @@ body {
 .sidebar:not(.open) {
 	opacity: 0;
 	transform: translateX(100%);
+}
+
+.sidebar:not(.open) ~ * > .control-overlay {
+	transform: translateX(384px);
+}
+
+.sidebar:not(.open) ~ * > .control-sidebar {
+	transform: translateX(384px) rotate(180deg);
 }
 
 @media (max-width: 680px) {
@@ -182,7 +253,7 @@ body {
 	margin-bottom: 8px;
 }
 
-.card:hover, .card:focus {
+.card:focus-visible, .card:hover {
 	outline-color: #18141f26;
 }
 

@@ -59,14 +59,9 @@ pub fn Interface (
 
 	view!(scope,
 		<section class="ui" class:selection=selection>
-			<Controls
-				overlay
-				overlay_forced=selection
-				project=project.clone()
-				sidebar
-			/>
+			<Sidebar project=project.clone() selected=lot visible=sidebar />
 
-			<Sidebar project selected=lot visible=sidebar />
+			<Controls overlay overlay_forced=selection project sidebar />
 		</section>
 	)
 }
