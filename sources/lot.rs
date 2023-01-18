@@ -21,6 +21,7 @@ pub struct Lot {
 	pub name: Option<String>,
 	pub range: Range<usize>,
 	pub role: Role,
+	pub slug: Option<String>,
 	pub surface_area: Option<u64>,
 	pub typology: Option<u8>,
 }
@@ -31,6 +32,7 @@ impl Lot {
 		range: Range<usize>,
 		identifier: String,
 		name: Option<String>,
+		slug: Option<String>,
 		surface_area: Option<u64>,
 		typology: Option<u8>,
 	) -> Option<Self> {
@@ -53,6 +55,7 @@ impl Lot {
 			name,
 			range,
 			role: Role::parse(&value)?,
+			slug,
 			surface_area,
 			typology,
 		})

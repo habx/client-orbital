@@ -71,7 +71,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 					label: map.next_value()?,
 					name: name.take().unwrap(),
 				}),
-				"name" => name = Some(map.next_value()?),
+				"name" => name = map.next_value()?,
 				_ => { map.next_value::<IgnoredAny>()?; }
 			}
 		}

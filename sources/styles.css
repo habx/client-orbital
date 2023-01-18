@@ -191,12 +191,19 @@ body {
 }
 
 .sidebar {
+	display: flex;
+	flex-direction: column;
 	width: 360px;
-	padding-block: 24px;
 	background-color: #fafafb;
 	box-shadow: #18141f0f 0 0 2px, #18141f1a 0 12px 24px;
 	border-radius: 6px;
 	transition: opacity .2s, transform .2s;
+}
+
+@media (max-width: 680px) {
+	.sidebar {
+		display: none;
+	}
 }
 
 .sidebar:not(.open) {
@@ -212,25 +219,28 @@ body {
 	transform: translateX(384px) rotate(180deg);
 }
 
-@media (max-width: 680px) {
-	.sidebar {
-		display: none;
-	}
+.sidebar > * {
+	padding-inline: 24px;
+}
+
+.sidebar_title {
+	margin-block: 0;
+	padding-block: 24px;
+	font-size: 2.4rem;
+	font-weight: 400;
+	color: #18141f;
 }
 
 .sidebar_content {
 	position: relative;
 	height: 100%;
-	padding-inline: 24px;
+	padding-block: 2px 12px;
 	overflow: auto;
 	overflow: overlay;
 }
 
-.sidebar_title {
-	margin-block: 0 24px;
-	font-size: 2.4rem;
-	font-weight: 400;
-	color: #18141f;
+.sidebar_action {
+	padding-block: 12px;
 }
 
 .card {
@@ -260,8 +270,8 @@ body {
 
 .card.active {
 	position: sticky;
-	top: 2px;
-	bottom: 2px;
+	top: 0;
+	bottom: -10px;
 	border-color: #9a4797;
 	outline-color: #9a4797;
 }
@@ -286,10 +296,35 @@ body {
 
 .typology {
 	line-height: 3rem;
-	text-align: center;
 	margin-bottom: 4px;
 	padding-inline: 12px;
-	border-radius: 12px;
 	background-color: #f3f3f4;
+	border-radius: 12px;
+	text-align: center;
 	color: #18141fc9;
+}
+
+.button {
+	display: block;
+	padding: 12px 24px;
+	background-color: #9a4797;
+	border-radius: 4px;
+	outline: 4px solid transparent;
+	font-size: 1.6rem;
+	text-align: center;
+	text-decoration: unset;
+	color: #fff;
+	transition: background-color .2s, outline-color .2s;
+}
+
+.button:hover {
+	background-color: #5e2b5c;
+}
+
+.button:focus-visible {
+	outline-color: #9a47974d;
+}
+
+.button:active {
+	background-color: #3b1b3a;
 }

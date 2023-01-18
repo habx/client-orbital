@@ -16,9 +16,17 @@ use viewer::components::{Interface, InterfaceProps};
 
 pub fn main () {
 	mount_to_body(|scope| {
-		let params = UrlSearchParams::new_with_str(&window().location().search().unwrap()).unwrap();
+		let params = UrlSearchParams::new_with_str(&window().location().search().unwrap_or_default()).unwrap();
+
+		debug_assert!(matches!(params.get("interactive").as_deref(), None | Some("true" | "false")));
+		debug_assert!(params
+			.get("redirection")
+			.map(|redirection| redirection.starts_with("http://") || redirection.starts_with("https://"))
+			.unwrap_or(true));
+
 		let instance = store_value(scope, Cell::new(None));
 		let interactive = params.get("interactive").contains(&"true");
+		let redirection = store_value(scope, params.get("redirection"));
 		let url = create_rw_signal(scope, params.get("manifest"));
 
 		let manifest = create_local_resource(scope, url, |url| async {
@@ -73,6 +81,7 @@ pub fn main () {
 							lot
 							overlay
 							project=manifest.project
+							redirection=redirection.get()
 							selection
 						/>
 					))}

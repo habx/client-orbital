@@ -13,6 +13,7 @@ use crate::project::Project;
 pub fn Sidebar (
 	scope: Scope,
 	project: Rc<Project>,
+	redirection: Option<String>,
 	selected: RwSignal<Option<usize>>,
 	#[prop(into)]
 	visible: Signal<bool>,
@@ -30,15 +31,15 @@ pub fn Sidebar (
 
 	view!(scope,
 		<aside class="sidebar" class:open=visible>
-			<div class="sidebar_content">
-				<h1 class="sidebar_title">
-					{if lots.len() > 1 {
-						format!("{} lots", lots.len())
-					} else {
-						format!("{} lot", lots.len())
-					}}
-				</h1>
+			<h1 class="sidebar_title">
+				{if lots.len() > 1 {
+					format!("{} lots", lots.len())
+				} else {
+					format!("{} lot", lots.len())
+				}}
+			</h1>
 
+			<div class="sidebar_content">
 				{lots
 					.into_iter()
 					.map(|index| {
@@ -94,6 +95,25 @@ pub fn Sidebar (
 					})
 					.collect::<Vec<_>>()}
 			</div>
+
+			{move || selected.get().zip(redirection.clone()).map(|(index, redirection)| {
+				let lot = &project.lots[index];
+
+				view!(scope,
+					<footer class="sidebar_action">
+						<a
+							class="button"
+							href=redirection
+								.replace("%ID%", lot.slug.as_deref().unwrap_or_default())
+								.replace("%SLUG%", lot.name.as_deref().unwrap_or_default())
+							rel="noopener noreferrer"
+							target="_blank"
+						>
+							"Voir le lot"
+						</a>
+					</footer>
+				)
+			})}
 		</aside>
 	)
 }

@@ -17,6 +17,7 @@ pub fn Interface (
 	lot: RwSignal<Option<usize>>,
 	overlay: RwSignal<bool>,
 	project: Rc<Project>,
+	redirection: Option<String>,
 	#[prop(into)]
 	selection: Signal<bool>,
 ) -> impl IntoView {
@@ -59,7 +60,12 @@ pub fn Interface (
 
 	view!(scope,
 		<section class="ui" class:selection=selection>
-			<Sidebar project=project.clone() selected=lot visible=sidebar />
+			<Sidebar
+				project=project.clone()
+				redirection
+				selected=lot
+				visible=sidebar
+			/>
 
 			<Controls overlay overlay_forced=selection project sidebar />
 		</section>

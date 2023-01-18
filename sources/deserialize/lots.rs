@@ -50,16 +50,18 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 		let mut geometry = None;
 		let mut identifier = None;
 		let mut name = None;
+		let mut slug = None;
 		let mut surface_area = None;
 		let mut typology = None;
 
 		while let Some(key) = map.next_key()? {
 			match key {
 				"geometry" => geometry = Some(map.next_value_seed(GeometryVisitor { shapes })?),
-				"id" => identifier = Some(map.next_value()?),
-				"name" => name = map.next_value::<Option<String>>()?,
-				"surfaceArea" => surface_area = map.next_value::<Option<u64>>()?,
-				"typology" => typology = map.next_value::<Option<u8>>()?,
+				"id" => identifier = map.next_value()?,
+				"name" => name = map.next_value()?,
+				"slug" => slug = map.next_value()?,
+				"surfaceArea" => surface_area = map.next_value()?,
+				"typology" => typology = map.next_value()?,
 				_ => { map.next_value::<IgnoredAny>()?; }
 			}
 		}
@@ -70,6 +72,7 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 			start..shapes.borrow().len(),
 			identifier.ok_or(Error::missing_field("id"))?,
 			name,
+			slug,
 			surface_area,
 			typology,
 		)

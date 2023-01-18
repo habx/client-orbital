@@ -54,7 +54,7 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 					lots = Some(map.next_value_seed(LotsVisitor { shapes: &value })?);
 					shapes = Some(value);
 				},
-				"meta" => meta = Some(map.next_value()?),
+				"meta" => meta = map.next_value()?,
 				"views" => {
 					let Meta { path, size } = meta.take().ok_or(Error::custom("field `meta` must precede `views`"))?;
 					let lots = lots.take().ok_or(Error::custom("field `lots` must precede `views`"))?;
