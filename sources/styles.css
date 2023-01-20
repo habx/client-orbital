@@ -19,13 +19,16 @@ body {
 	margin: 0;
 }
 
+.viewer, .ui {
+	width: 100vw;
+	height: 100vh;
+}
+
 .viewer {
 	position: relative;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 100vw;
-	height: 100vh;
 	overflow: hidden;
 	cursor: grab;
 	touch-action: pinch-zoom;
@@ -103,7 +106,7 @@ body {
 
 .ui {
 	position: absolute;
-	inset: 0;
+	box-sizing: border-box;
 	padding: 36px 24px;
 	display: flex;
 	flex-direction: row-reverse;
@@ -124,23 +127,33 @@ body {
 	margin-right: 24px;
 }
 
-.control, .sidebar {
+.control {
 	position: relative;
+	background-color: #fff;
+	box-shadow: #18141f0f 0 0 2px, #18141f1a 0 2px 8px;
+	border: 3px solid transparent;
+	outline: unset;
+	font: unset;
+	color: #2f2c35b3;
+	cursor: pointer;
 	z-index: 1;
 }
 
-.control {
-	font: unset;
+.control svg {
+	display: block;
+	width: 100%;
+	height: 100%;
 	fill: currentColor;
-	background-color: #fff;
-	cursor: pointer;
 }
 
-.control-camera, .control-sidebar, .control-overlay {
-	border: 3px solid transparent;
-	outline: unset;
-	box-shadow: #18141f0f 0 0 2px, #18141f1a 0 2px 8px;
-	color: #2f2c35b3;
+.control:focus-visible, .control:hover {
+	border-color: #18141f0d;
+	color: #2f2c35;
+}
+
+.control.active {
+	background-color: #9a4797;
+	color: #fff;
 }
 
 .control-camera {
@@ -154,9 +167,8 @@ body {
 	height: 24px;
 }
 
-.control-sidebar, .control-overlay {
+.control-sidebar, .control-overlay, .modal_close, .control-previous, .control-next {
 	position: absolute;
-	right: 0;
 	width: 2.2rem;
 	height: 2.2rem;
 	padding: 12px;
@@ -166,6 +178,7 @@ body {
 
 .control-overlay {
 	bottom: 0;
+	right: 0;
 	transition:
 		color .1s,
 		border-color .1s,
@@ -175,22 +188,12 @@ body {
 
 .control-sidebar {
 	top: 0;
+	right: 0;
 	transition: color .1s, border-color .1s, transform .2s;
 }
 
-.control-camera:focus-visible, .control-camera:hover,
-.control-overlay:focus-visible, .control-overlay:hover,
-.control-sidebar:focus-visible, .control-sidebar:hover {
-	border-color: #18141f0d;
-	color: #2f2c35;
-}
-
-.control-overlay.active {
-	background-color: #9a4797;
-	color: #fff;
-}
-
 .sidebar {
+	position: relative;
 	display: flex;
 	flex-direction: column;
 	width: 360px;
@@ -198,10 +201,11 @@ body {
 	box-shadow: #18141f0f 0 0 2px, #18141f1a 0 12px 24px;
 	border-radius: 6px;
 	transition: opacity .2s, transform .2s;
+	z-index: 2;
 }
 
 @media (max-width: 680px) {
-	.sidebar {
+	.control-sidebar, .sidebar {
 		display: none;
 	}
 }
@@ -241,6 +245,14 @@ body {
 
 .sidebar_action {
 	padding-block: 12px;
+}
+
+.sidebar_action:empty {
+	display: none;
+}
+
+.sidebar_action > .button:not(:last-child) {
+	margin-bottom: 12px;
 }
 
 .card {
@@ -306,14 +318,18 @@ body {
 
 .button {
 	display: block;
+	box-sizing: border-box;
+	width: 100%;
 	padding: 12px 24px;
 	background-color: #9a4797;
+	border: unset;
 	border-radius: 4px;
 	outline: 4px solid transparent;
 	font-size: 1.6rem;
 	text-align: center;
 	text-decoration: unset;
 	color: #fff;
+	cursor: pointer;
 	transition: background-color .2s, outline-color .2s;
 }
 
@@ -327,4 +343,41 @@ body {
 
 .button:active {
 	background-color: #3b1b3a;
+}
+
+.modal {
+	position: fixed;
+	inset: 0;
+	background-color: #fff;
+}
+
+.modal_close {
+	top: 24px;
+	right: 36px;
+	transition: color .1s, border-color .1s, transform .2s;
+}
+
+.image {
+	height: 100%;
+	margin: 0;
+	box-sizing: border-box;
+	padding: 24px;
+}
+
+.image img {
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}
+
+.control-previous {
+	top: 50%;
+	left: 36px;
+	transform: translateY(-50%) rotate(180deg);
+}
+
+.control-next {
+	top: 50%;
+	right: 36px;
+	transform: translateY(-50%);
 }

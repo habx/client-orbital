@@ -1,33 +1,35 @@
-use std::rc::Rc;
-
 use leptos::*;
 use orbit::state::use_state;
 
 use crate::camera::Camera;
 use crate::format;
 use crate::lot::Role;
-use crate::project::Project;
+
+use crate::context::use_context;
+
+use super::images::{Images, ImagesProps};
+use super::modal::{Modal, ModalProps};
 
 
 #[component]
 pub fn Sidebar (
 	scope: Scope,
-	project: Rc<Project>,
 	redirection: Option<String>,
 	selected: RwSignal<Option<usize>>,
 	#[prop(into)]
 	visible: Signal<bool>,
 ) -> impl IntoView {
+	let project = use_context(scope);
 	let state = use_state(scope);
 	let is_selected = create_selector(scope, selected);
 
-	let lots: Vec<_> = (0..project.lots.len())
+	let lots: Vec<_> = project.with(|project| (0..project.lots.len())
 		.filter(|&index| {
 			let lot = &project.lots[index];
 
 			lot.role == Role::Living && lot.name.is_some()
 		})
-		.collect();
+		.collect());
 
 	view!(scope,
 		<aside class="sidebar" class:open=visible>
@@ -45,19 +47,13 @@ pub fn Sidebar (
 					.map(|index| {
 						let is_selected = is_selected.clone();
 						let active = Signal::derive(scope, move || is_selected(Some(index)));
-						let lot = &project.lots[index];
 
-						let toggle = {
-							let project = project.clone();
-
-							move |_| if active() {
-								selected.set(None)
-							} else {
-								let lot = &project.lots[index];
-
-								selected.set(Some(index));
-
-								let lot_level = project.relative_level(lot.level);
+						let toggle = move |_| if active() {
+							selected.set(None)
+						} else {
+							selected.set(Some(index));
+							project.with(|project| {
+								let lot_level = project.relative_level(project.lots[index].level);
 								let lot_camera = project.cameras
 									.iter()
 									.position(|camera| matches!(camera, Camera::Level(level) if *level == lot_level));
@@ -65,55 +61,70 @@ pub fn Sidebar (
 								if let Some(lot_camera) = lot_camera {
 									state.set_camera(lot_camera);
 								}
-							}
+							})
 						};
 
-						view!(scope,
-							<button
-								class="card"
-								class:active=active
-								on:click=toggle
-								title=move || if active() {
-									"Désélectionnner le lot"
-								} else {
-									"Afficher le lot"
-								}
-							>
-								<div class="card_content">
-									<h2 class="card_title">{lot.name.clone().unwrap_or_default()}</h2>
+						project.with(|project| {
+							let lot = &project.lots[index];
 
-									{format::level(lot.level)}
-								</div>
+							view!(scope,
+								<button
+									class="card"
+									class:active=active
+									on:click=toggle
+									title=move || if active() {
+										"Désélectionnner le lot"
+									} else {
+										"Afficher le lot"
+									}
+								>
+									<div class="card_content">
+										<h2 class="card_title">{lot.name.clone().unwrap_or_default()}</h2>
 
-								<div>
-									<div class="typology">{lot.typology.map(|typology| format!("T{typology}"))}</div>
+										{format::level(lot.level)}
+									</div>
 
-									{lot.surface_area.map(|surface_area| format!("{:.1}m²", surface_area as f64 / 10_000.))}
-								</div>
-							</button>
-						)
+									<div>
+										<div class="typology">{lot.typology.map(|typology| format!("T{typology}"))}</div>
+
+										{lot.surface_area.map(|surface_area| format!("{:.1}m²", surface_area as f64 / 10_000.))}
+									</div>
+								</button>
+							)
+						})
 					})
 					.collect::<Vec<_>>()}
 			</div>
 
-			{move || selected.get().zip(redirection.clone()).map(|(index, redirection)| {
-				let lot = &project.lots[index];
+			<footer class="sidebar_action">
+				{move || {
+					let index = selected.get()?;
 
-				view!(scope,
-					<footer class="sidebar_action">
-						<a
-							class="button"
-							href=redirection
-								.replace("%ID%", lot.slug.as_deref().unwrap_or_default())
-								.replace("%SLUG%", lot.name.as_deref().unwrap_or_default())
-							rel="noopener noreferrer"
-							target="_blank"
-						>
-							"Voir le lot"
-						</a>
-					</footer>
-				)
-			})}
+					project
+						.with(|project| !project.lots[index].images.is_empty())
+						.then(|| view!(scope, <Modal><Images lot=index /></Modal>))
+				}}
+
+				{move || project.with(|project| selected
+					.get()
+					.zip(redirection.as_ref())
+					.map(|(index, redirection)| {
+						let lot = &project.lots[index];
+
+						view!(scope,
+							<a
+								class="button"
+								href=redirection
+									.replace("%ID%", lot.slug.as_deref().unwrap_or_default())
+									.replace("%SLUG%", lot.name.as_deref().unwrap_or_default())
+								rel="noopener noreferrer"
+								target="_blank"
+							>
+								"Voir les détails"
+							</a>
+						)
+					}))}
+			</footer>
 		</aside>
 	)
 }

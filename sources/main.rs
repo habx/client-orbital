@@ -11,6 +11,7 @@ use orbit::state::provide_state;
 use web_sys::{KeyboardEvent, UrlSearchParams};
 
 use viewer::Manifest;
+use viewer::context::provide_context;
 use viewer::components::{Interface, InterfaceProps};
 
 
@@ -69,6 +70,8 @@ pub fn main () {
 			{move || {
 				let manifest = manifest.read()??;
 
+				provide_context(scope, manifest.project);
+
 				let lot = create_rw_signal(scope, None);
 				let overlay = create_rw_signal(scope, false);
 				let selection = create_memo(scope, move |_| lot.with(|lot| lot.is_some()));
@@ -80,7 +83,6 @@ pub fn main () {
 						<Interface
 							lot
 							overlay
-							project=manifest.project
 							redirection=redirection.get()
 							selection
 						/>

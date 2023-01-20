@@ -124,4 +124,4 @@ https://habx.github.io/client-orbital?manifest=https://habx.github.io/client-orb
 
 - Reorder the fields given the jq transformation `'{ meta, lots, views }'`
 - Added field `meta.path` that defines the location of the folder containing all images assets
-- Added fields `lots[].exteriorSurfaceArea`, `lots[].levels`, `lots[].name`, `lots[].slug`, `lots[].surfaceArea`, `lots[].typology`, `lots[].vat`
+- Added fields `lots[].exteriorSurfaceArea`, `lots[].images`, `lots[].levels`, `lots[].name`, `lots[].slug`, `lots[].surfaceArea`, `lots[].typology`, `lots[].vat`

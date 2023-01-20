@@ -1,10 +1,9 @@
-use std::rc::Rc;
 use std::str::FromStr;
 
 use leptos::*;
 use orbit::state::use_state;
 
-use crate::project::Project;
+use crate::context::use_context;
 
 
 #[component]
@@ -12,10 +11,10 @@ pub fn Controls (
 	scope: Scope,
 	lot: RwSignal<Option<usize>>,
 	overlay: RwSignal<bool>,
-	project: Rc<Project>,
 	selection: Signal<bool>,
 	sidebar: RwSignal<bool>,
 ) -> impl IntoView {
+	let project = use_context(scope);
 	let state = use_state(scope);
 
 	view!(scope,
@@ -60,13 +59,13 @@ pub fn Controls (
 				on:keydown=|event| event.prevent_default()
 				prop:value=move || state.get_camera()
 			>
-				{project.cameras
+				{project.with(|project| project.cameras
 					.iter()
 					.enumerate()
 					.map(|(index, camera)| view!(scope,
 						<option value=index>{camera.label(&project)}</option>
 					))
-					.collect::<Vec<_>>()}
+					.collect::<Vec<_>>())}
 			</select>
 		</div>
 	)

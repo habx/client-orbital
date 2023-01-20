@@ -49,6 +49,7 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 		let start = shapes.borrow().len();
 		let mut geometry = None;
 		let mut identifier = None;
+		let mut images = None;
 		let mut name = None;
 		let mut slug = None;
 		let mut surface_area = None;
@@ -58,6 +59,7 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 			match key {
 				"geometry" => geometry = Some(map.next_value_seed(GeometryVisitor { shapes })?),
 				"id" => identifier = map.next_value()?,
+				"images" => images = map.next_value()?,
 				"name" => name = map.next_value()?,
 				"slug" => slug = map.next_value()?,
 				"surfaceArea" => surface_area = map.next_value()?,
@@ -71,6 +73,7 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 		Lot::new(
 			start..shapes.borrow().len(),
 			identifier.ok_or(Error::missing_field("id"))?,
+			images.unwrap_or_default(),
 			name,
 			slug,
 			surface_area,

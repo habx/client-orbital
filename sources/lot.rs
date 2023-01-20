@@ -17,6 +17,7 @@ pub struct Lot {
 	pub building: u8,
 	pub floors: Vec<usize>,
 	pub identifier: String,
+	pub images: Vec<(u8, String)>,
 	pub level: i8,
 	pub name: Option<String>,
 	pub range: Range<usize>,
@@ -31,6 +32,7 @@ impl Lot {
 	pub fn new (
 		range: Range<usize>,
 		identifier: String,
+		images: Vec<(u8, String)>,
 		name: Option<String>,
 		slug: Option<String>,
 		surface_area: Option<u64>,
@@ -46,6 +48,7 @@ impl Lot {
 			},
 			floors: vec![range.start],
 			identifier,
+			images,
 			level: {
 				let value = &value[value.find(['e', 's'])?..];
 				let level: i8 = value.split(char::is_alphabetic).nth(1)?.parse().ok()?;
