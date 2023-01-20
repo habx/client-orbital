@@ -1279,7 +1279,17 @@
 			"slug": "97321-9",
 			"surfaceArea": 557000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L03",
@@ -1519,7 +1529,17 @@
 			"slug": "97321-2",
 			"surfaceArea": 385000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1C01",
@@ -2422,7 +2442,17 @@
 			"slug": "97321-8",
 			"surfaceArea": 635000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -2637,7 +2667,17 @@
 			"slug": "97321-6",
 			"surfaceArea": 640000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L04",
@@ -2872,7 +2912,17 @@
 			"slug": "97321-10",
 			"surfaceArea": 718000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2C01",
@@ -3544,7 +3594,17 @@
 			"slug": "97321-7",
 			"surfaceArea": 627000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -3784,7 +3844,17 @@
 			"slug": "97321-3",
 			"surfaceArea": 469000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -3999,7 +4069,17 @@
 			"slug": "97321-5",
 			"surfaceArea": 639000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L04",
@@ -4234,7 +4314,17 @@
 			"slug": "97321-11",
 			"surfaceArea": 718000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3C01",
@@ -5772,7 +5862,17 @@
 			"slug": "97321-4",
 			"surfaceArea": 603000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -5987,7 +6087,17 @@
 			"slug": "97321-1",
 			"surfaceArea": 231000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0C01",
@@ -8011,7 +8121,17 @@
 			"slug": "97321-22",
 			"surfaceArea": 834000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L03",
@@ -8184,7 +8304,17 @@
 			"slug": "97321-12",
 			"surfaceArea": 443000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L04",
@@ -8457,7 +8587,17 @@
 			"slug": "97321-21",
 			"surfaceArea": 664000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1C01",
@@ -9514,7 +9654,17 @@
 			"slug": "97321-16",
 			"surfaceArea": 690000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -9687,7 +9837,17 @@
 			"slug": "97321-13",
 			"surfaceArea": 443000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -10002,7 +10162,17 @@
 			"slug": "97321-24",
 			"surfaceArea": 855000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -10275,7 +10445,17 @@
 			"slug": "97321-19",
 			"surfaceArea": 708000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L06",
@@ -10498,7 +10678,17 @@
 			"slug": "97321-15",
 			"surfaceArea": 383000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2C01",
@@ -11597,7 +11787,17 @@
 			"slug": "97321-18",
 			"surfaceArea": 691000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -12034,7 +12234,17 @@
 			"slug": "97321-17",
 			"surfaceArea": 610000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -12307,7 +12517,17 @@
 			"slug": "97321-20",
 			"surfaceArea": 709000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L06",
@@ -12530,7 +12750,17 @@
 			"slug": "97321-14",
 			"surfaceArea": 383000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3C01",
@@ -13893,7 +14123,17 @@
 			"slug": "97321-23",
 			"surfaceArea": 762000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -14474,7 +14714,17 @@
 			"slug": "97321-25",
 			"surfaceArea": 959000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-50-roosevelt/dollhouses/B2E3L03/3/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

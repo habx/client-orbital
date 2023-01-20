@@ -347,7 +347,17 @@
 			"slug": "37037-36",
 			"surfaceArea": 579700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -660,7 +670,17 @@
 			"slug": "37037-55",
 			"surfaceArea": 751100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -1025,7 +1045,17 @@
 			"slug": "37037-41",
 			"surfaceArea": 601400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L04",
@@ -1377,7 +1407,17 @@
 			"slug": "37037-2",
 			"surfaceArea": 408800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L05",
@@ -1582,7 +1622,17 @@
 			"slug": "37037-42",
 			"surfaceArea": 638900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L06",
@@ -1790,7 +1840,17 @@
 			"slug": "37037-38",
 			"surfaceArea": 609000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L06/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L06/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L07",
@@ -1998,7 +2058,17 @@
 			"slug": "37037-5",
 			"surfaceArea": 407600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L07/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E1L07/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L01",
@@ -2350,7 +2420,17 @@
 			"slug": "37037-4",
 			"surfaceArea": 408800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -2510,7 +2590,17 @@
 			"slug": "37037-32",
 			"surfaceArea": 638900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -2718,7 +2808,17 @@
 			"slug": "37037-48",
 			"surfaceArea": 609000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L04",
@@ -2926,7 +3026,17 @@
 			"slug": "37037-7",
 			"surfaceArea": 407600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L05",
@@ -3182,7 +3292,17 @@
 			"slug": "37037-24",
 			"surfaceArea": 618900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L06",
@@ -3486,7 +3606,17 @@
 			"slug": "37037-29",
 			"surfaceArea": 579700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L07",
@@ -3742,7 +3872,17 @@
 			"slug": "37037-59",
 			"surfaceArea": 751100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L08",
@@ -4058,7 +4198,17 @@
 			"slug": "37037-18",
 			"surfaceArea": 601400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L08/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E2L08/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L01",
@@ -4410,7 +4560,17 @@
 			"slug": "37037-8",
 			"surfaceArea": 408800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -4570,7 +4730,17 @@
 			"slug": "37037-22",
 			"surfaceArea": 631200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -4778,7 +4948,17 @@
 			"slug": "37037-47",
 			"surfaceArea": 609000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L04",
@@ -4986,7 +5166,17 @@
 			"slug": "37037-12",
 			"surfaceArea": 407600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L05",
@@ -5275,7 +5465,17 @@
 			"slug": "37037-49",
 			"surfaceArea": 653700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L06",
@@ -5543,7 +5743,17 @@
 			"slug": "37037-10",
 			"surfaceArea": 418500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L07",
@@ -5799,7 +6009,17 @@
 			"slug": "37037-57",
 			"surfaceArea": 751100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L08",
@@ -6115,7 +6335,17 @@
 			"slug": "37037-30",
 			"surfaceArea": 601400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E3L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L01",
@@ -6479,7 +6709,17 @@
 			"slug": "37037-46",
 			"surfaceArea": 659500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -6771,7 +7011,17 @@
 			"slug": "37037-58",
 			"surfaceArea": 750200,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L03",
@@ -7067,7 +7317,17 @@
 			"slug": "37037-45",
 			"surfaceArea": 653700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L04",
@@ -7323,7 +7583,17 @@
 			"slug": "37037-11",
 			"surfaceArea": 418500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L05",
@@ -7579,7 +7849,17 @@
 			"slug": "37037-52",
 			"surfaceArea": 613600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L06",
@@ -7943,7 +8223,17 @@
 			"slug": "37037-43",
 			"surfaceArea": 595500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E4L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L01",
@@ -8295,7 +8585,17 @@
 			"slug": "37037-13",
 			"surfaceArea": 408800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E5L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E5L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L02",
@@ -8744,7 +9044,17 @@
 			"slug": "37037-56",
 			"surfaceArea": 749100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E5L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E5L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L03",
@@ -9000,7 +9310,17 @@
 			"slug": "37037-14",
 			"surfaceArea": 418500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E5L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E5L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L04",
@@ -9340,7 +9660,17 @@
 			"slug": "37037-60",
 			"surfaceArea": 755200,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E5L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B1E5L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L01",
@@ -10012,7 +10342,17 @@
 			"slug": "37037-37",
 			"surfaceArea": 573100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -10526,7 +10866,17 @@
 			"slug": "37037-39",
 			"surfaceArea": 619200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -10971,7 +11321,17 @@
 			"slug": "37037-6",
 			"surfaceArea": 400800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -11464,7 +11824,17 @@
 			"slug": "37037-62",
 			"surfaceArea": 753100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -11897,7 +12267,17 @@
 			"slug": "37037-44",
 			"surfaceArea": 675900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L06",
@@ -12334,7 +12714,17 @@
 			"slug": "37037-1",
 			"surfaceArea": 367500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L06/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E1L06/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L01",
@@ -12789,7 +13179,17 @@
 			"slug": "37037-61",
 			"surfaceArea": 753100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -13201,7 +13601,17 @@
 			"slug": "37037-63",
 			"surfaceArea": 783800,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -13838,7 +14248,17 @@
 			"slug": "37037-51",
 			"surfaceArea": 632300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -14430,7 +14850,17 @@
 			"slug": "37037-54",
 			"surfaceArea": 572600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -14878,7 +15308,17 @@
 			"slug": "37037-53",
 			"surfaceArea": 619200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L06",
@@ -15278,7 +15718,17 @@
 			"slug": "37037-3",
 			"surfaceArea": 400800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E2L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L01",
@@ -15834,7 +16284,17 @@
 			"slug": "37037-65",
 			"surfaceArea": 754600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E3L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E3L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -16198,7 +16658,17 @@
 			"slug": "37037-50",
 			"surfaceArea": 644200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E3L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E3L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -16897,7 +17367,17 @@
 			"slug": "37037-64",
 			"surfaceArea": 732500,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E3L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E3L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L04",
@@ -17441,7 +17921,17 @@
 			"slug": "37037-16",
 			"surfaceArea": 566700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E3L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E3L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L01",
@@ -17812,7 +18302,17 @@
 			"slug": "37037-40",
 			"surfaceArea": 617700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E4L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E4L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L02",
@@ -18224,7 +18724,17 @@
 			"slug": "37037-35",
 			"surfaceArea": 639400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E4L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E4L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L03",
@@ -18761,7 +19271,17 @@
 			"slug": "37037-31",
 			"surfaceArea": 657500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E4L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E4L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L04",
@@ -19269,7 +19789,17 @@
 			"slug": "37037-25",
 			"surfaceArea": 577600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E4L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B2E4L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L01",
@@ -19507,7 +20037,17 @@
 			"slug": "37037-19",
 			"surfaceArea": 648700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E1L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E1L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L02",
@@ -19779,7 +20319,17 @@
 			"slug": "37037-66",
 			"surfaceArea": 746900,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E1L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E1L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L03",
@@ -20047,7 +20597,17 @@
 			"slug": "37037-28",
 			"surfaceArea": 595100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E1L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E1L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L04",
@@ -20447,7 +21007,17 @@
 			"slug": "37037-27",
 			"surfaceArea": 650800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E1L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E1L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L05",
@@ -20688,7 +21258,17 @@
 			"slug": "37037-9",
 			"surfaceArea": 414300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E1L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E1L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L01",
@@ -21088,7 +21668,17 @@
 			"slug": "37037-26",
 			"surfaceArea": 650800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E2L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E2L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L02",
@@ -21485,7 +22075,17 @@
 			"slug": "37037-34",
 			"surfaceArea": 613300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E2L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E2L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L03",
@@ -21916,7 +22516,17 @@
 			"slug": "37037-15",
 			"surfaceArea": 628600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E2L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E2L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L04",
@@ -22205,7 +22815,17 @@
 			"slug": "37037-21",
 			"surfaceArea": 583700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E2L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E2L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L01",
@@ -22605,7 +23225,17 @@
 			"slug": "37037-33",
 			"surfaceArea": 650800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E3L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E3L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L02",
@@ -22969,7 +23599,17 @@
 			"slug": "37037-20",
 			"surfaceArea": 613300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E3L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E3L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L03",
@@ -23273,7 +23913,17 @@
 			"slug": "37037-23",
 			"surfaceArea": 628600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E3L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E3L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L04",
@@ -23529,7 +24179,17 @@
 			"slug": "37037-17",
 			"surfaceArea": 583700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E3L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/cergy-boisselerie/dollhouses/B3E3L04/2/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

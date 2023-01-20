@@ -242,7 +242,17 @@
 			"slug": "54021-53",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B10E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B10E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B10E0L02",
@@ -415,7 +425,17 @@
 			"slug": "54021-41",
 			"surfaceArea": 210000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B10E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B10E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B10E0L03",
@@ -612,7 +632,17 @@
 			"slug": "54021-46",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B10E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B10E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B10E1L01",
@@ -833,7 +863,17 @@
 			"slug": "54021-51",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B10E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B10E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B10E1L02",
@@ -1054,7 +1094,17 @@
 			"slug": "54021-50",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B10E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B10E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B11E0L01",
@@ -1251,7 +1301,17 @@
 			"slug": "54021-49",
 			"surfaceArea": 416300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B11E0L02",
@@ -1460,7 +1520,17 @@
 			"slug": "54021-45",
 			"surfaceArea": 417600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B11E0L03",
@@ -1633,7 +1703,17 @@
 			"slug": "54021-42",
 			"surfaceArea": 210000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B11E0L04",
@@ -1842,7 +1922,17 @@
 			"slug": "54021-48",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B11E1L01",
@@ -2087,7 +2177,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B11E1L02",
@@ -2296,7 +2396,17 @@
 			"slug": "54021-43",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B11E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L01",
@@ -2505,7 +2615,17 @@
 			"slug": "54021-6",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B1E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B1E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L02",
@@ -2678,7 +2798,17 @@
 			"slug": "54021-2",
 			"surfaceArea": 210000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B1E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B1E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L03",
@@ -2887,7 +3017,17 @@
 			"slug": "54021-14",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B1E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B1E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L01",
@@ -3108,7 +3248,17 @@
 			"slug": "54021-10",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -3329,7 +3479,17 @@
 			"slug": "54021-15",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L01",
@@ -3538,7 +3698,17 @@
 			"slug": "54021-7",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B2E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B2E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L02",
@@ -3711,7 +3881,17 @@
 			"slug": "54021-1",
 			"surfaceArea": 210000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B2E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B2E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L03",
@@ -3945,7 +4125,17 @@
 			"slug": "54021-12",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B2E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B2E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L01",
@@ -4154,7 +4344,17 @@
 			"slug": "54021-9",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -4375,7 +4575,17 @@
 			"slug": "54021-13",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L01",
@@ -4572,7 +4782,17 @@
 			"slug": "54021-11",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L02",
@@ -4781,7 +5001,17 @@
 			"slug": "54021-5",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L03",
@@ -4954,7 +5184,17 @@
 			"slug": "54021-3",
 			"surfaceArea": 210000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L04",
@@ -5169,7 +5409,17 @@
 			"slug": "54021-4",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L01",
@@ -5414,7 +5664,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L02",
@@ -5611,7 +5871,17 @@
 			"slug": "54021-8",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B3E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L01",
@@ -5808,7 +6078,17 @@
 			"slug": "54021-23",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B4E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B4E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L02",
@@ -5981,7 +6261,17 @@
 			"slug": "54021-18",
 			"surfaceArea": 210000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B4E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B4E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L03",
@@ -6190,7 +6480,17 @@
 			"slug": "54021-29",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B4E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B4E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L01",
@@ -6411,7 +6711,17 @@
 			"slug": "54021-25",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B4E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B4E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L02",
@@ -6632,7 +6942,17 @@
 			"slug": "54021-26",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B4E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B4E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L01",
@@ -6841,7 +7161,17 @@
 			"slug": "54021-31",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B5E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B5E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L02",
@@ -7014,7 +7344,17 @@
 			"slug": "54021-17",
 			"surfaceArea": 210000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B5E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B5E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L03",
@@ -7211,7 +7551,17 @@
 			"slug": "54021-22",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B5E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B5E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L01",
@@ -7438,7 +7788,17 @@
 			"slug": "54021-36",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B5E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B5E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L02",
@@ -7659,7 +8019,17 @@
 			"slug": "54021-24",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B5E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B5E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L01",
@@ -7880,7 +8250,17 @@
 			"slug": "54021-30",
 			"surfaceArea": 606100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B6E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B6E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L02",
@@ -8053,7 +8433,17 @@
 			"slug": "54021-20",
 			"surfaceArea": 210000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B6E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B6E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L03",
@@ -8262,7 +8652,17 @@
 			"slug": "54021-32",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B6E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B6E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L01",
@@ -8483,7 +8883,17 @@
 			"slug": "54021-38",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B6E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B6E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E0L01",
@@ -8692,7 +9102,17 @@
 			"slug": "54021-39",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B7E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B7E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E0L02",
@@ -8865,7 +9285,17 @@
 			"slug": "54021-19",
 			"surfaceArea": 210000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B7E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B7E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E1L01",
@@ -9086,7 +9516,17 @@
 			"slug": "54021-37",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B7E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B7E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E1L02",
@@ -9319,7 +9759,17 @@
 			"slug": "54021-35",
 			"surfaceArea": 606100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B7E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B7E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E0L01",
@@ -9528,7 +9978,17 @@
 			"slug": "54021-27",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B8E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B8E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E0L02",
@@ -9701,7 +10161,17 @@
 			"slug": "54021-21",
 			"surfaceArea": 210000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B8E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B8E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E0L03",
@@ -9910,7 +10380,17 @@
 			"slug": "54021-34",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B8E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B8E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E1L01",
@@ -10131,7 +10611,17 @@
 			"slug": "54021-28",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B8E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B8E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E1L02",
@@ -10352,7 +10842,17 @@
 			"slug": "54021-33",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B8E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B8E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E0L01",
@@ -10549,7 +11049,17 @@
 			"slug": "54021-44",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B9E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B9E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E0L02",
@@ -10722,7 +11232,17 @@
 			"slug": "54021-40",
 			"surfaceArea": 210000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B9E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B9E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E0L03",
@@ -10931,7 +11451,17 @@
 			"slug": "54021-52",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B9E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B9E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E1L01",
@@ -11152,7 +11682,17 @@
 			"slug": "54021-47",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B9E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B9E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E1L02",
@@ -11373,7 +11913,17 @@
 			"slug": "54021-54",
 			"surfaceArea": 603700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B9E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/trois-rivieres-3-rivieres/dollhouses/B9E1L02/1/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

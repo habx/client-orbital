@@ -605,7 +605,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B1E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B1E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1C01",
@@ -1077,7 +1087,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -1250,7 +1270,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L01",
@@ -1642,7 +1672,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -1934,7 +1974,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 5,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0C01",
@@ -2350,7 +2400,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L02",
@@ -2668,7 +2728,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1C01",
@@ -3140,7 +3210,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -3363,7 +3443,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L01",
@@ -3655,7 +3745,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -4047,7 +4147,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/arcueil-avenue-convention/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

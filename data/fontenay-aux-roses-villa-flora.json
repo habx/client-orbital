@@ -231,7 +231,17 @@
 			"slug": "91171-1",
 			"surfaceArea": 247400,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L02",
@@ -603,7 +613,17 @@
 			"slug": "91171-8",
 			"surfaceArea": 477200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L03",
@@ -994,7 +1014,17 @@
 			"slug": "91171-26",
 			"surfaceArea": 618500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L04",
@@ -1353,7 +1383,17 @@
 			"slug": "91171-38",
 			"surfaceArea": 794300,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L05",
@@ -1743,7 +1783,17 @@
 			"slug": "91171-27",
 			"surfaceArea": 621900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L01",
@@ -2203,7 +2253,17 @@
 			"slug": "91171-39",
 			"surfaceArea": 764700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -2427,7 +2487,17 @@
 			"slug": "91171-24",
 			"surfaceArea": 586600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -2750,7 +2820,17 @@
 			"slug": "91171-3",
 			"surfaceArea": 414600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L04",
@@ -3023,7 +3103,17 @@
 			"slug": "91171-4",
 			"surfaceArea": 409200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L05",
@@ -3346,7 +3436,17 @@
 			"slug": "91171-41",
 			"surfaceArea": 794300,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L06",
@@ -3706,7 +3806,17 @@
 			"slug": "91171-25",
 			"surfaceArea": 621900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L07",
@@ -4129,7 +4239,17 @@
 			"slug": "91171-2",
 			"surfaceArea": 375300,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L01",
@@ -4589,7 +4709,17 @@
 			"slug": "91171-37",
 			"surfaceArea": 764700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -4762,7 +4892,17 @@
 			"slug": "91171-20",
 			"surfaceArea": 586600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -5235,7 +5375,17 @@
 			"slug": "91171-35",
 			"surfaceArea": 835700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L04",
@@ -5458,7 +5608,17 @@
 			"slug": "91171-23",
 			"surfaceArea": 588900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L05",
@@ -5781,7 +5941,17 @@
 			"slug": "91171-6",
 			"surfaceArea": 416000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L06",
@@ -6054,7 +6224,17 @@
 			"slug": "91171-7",
 			"surfaceArea": 409200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L07",
@@ -6377,7 +6557,17 @@
 			"slug": "91171-36",
 			"surfaceArea": 794300,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L08",
@@ -6737,7 +6927,17 @@
 			"slug": "91171-22",
 			"surfaceArea": 621900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L09",
@@ -7110,7 +7310,17 @@
 			"slug": "91171-5",
 			"surfaceArea": 420400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L09/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E2L09/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L01",
@@ -7570,7 +7780,17 @@
 			"slug": "91171-34",
 			"surfaceArea": 764700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -7743,7 +7963,17 @@
 			"slug": "91171-21",
 			"surfaceArea": 586600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -8316,7 +8546,17 @@
 			"slug": "91171-33",
 			"surfaceArea": 835700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L04",
@@ -8539,7 +8779,17 @@
 			"slug": "91171-19",
 			"surfaceArea": 588900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L05",
@@ -8862,7 +9112,17 @@
 			"slug": "91171-10",
 			"surfaceArea": 416000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L06",
@@ -9135,7 +9395,17 @@
 			"slug": "91171-13",
 			"surfaceArea": 409200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L07",
@@ -9458,7 +9728,17 @@
 			"slug": "91171-32",
 			"surfaceArea": 794300,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L07/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L08",
@@ -9806,7 +10086,17 @@
 			"slug": "91171-18",
 			"surfaceArea": 621900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L08/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L08/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L09",
@@ -10179,7 +10469,17 @@
 			"slug": "91171-9",
 			"surfaceArea": 420400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L09/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E3L09/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L01",
@@ -10639,7 +10939,17 @@
 			"slug": "91171-31",
 			"surfaceArea": 764700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -10812,7 +11122,17 @@
 			"slug": "91171-17",
 			"surfaceArea": 586600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L03",
@@ -11235,7 +11555,17 @@
 			"slug": "91171-12",
 			"surfaceArea": 430200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L04",
@@ -11508,7 +11838,17 @@
 			"slug": "91171-14",
 			"surfaceArea": 443500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L05",
@@ -11731,7 +12071,17 @@
 			"slug": "91171-28",
 			"surfaceArea": 588900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L06",
@@ -12054,7 +12404,17 @@
 			"slug": "91171-15",
 			"surfaceArea": 416000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L06/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L07",
@@ -12327,7 +12687,17 @@
 			"slug": "91171-16",
 			"surfaceArea": 409200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L07/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L07/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L08",
@@ -12650,7 +13020,17 @@
 			"slug": "91171-30",
 			"surfaceArea": 792700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L08/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L08/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L09",
@@ -12998,7 +13378,17 @@
 			"slug": "91171-29",
 			"surfaceArea": 621900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L09/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L09/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L10",
@@ -13371,7 +13761,17 @@
 			"slug": "91171-11",
 			"surfaceArea": 420400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L10/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E4L10/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L01",
@@ -13884,7 +14284,17 @@
 			"slug": "91171-43",
 			"surfaceArea": 972400,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L02",
@@ -14405,7 +14815,17 @@
 			"slug": "91171-40",
 			"surfaceArea": 875900,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L03",
@@ -14732,7 +15152,17 @@
 			"slug": "91171-42",
 			"surfaceArea": 822600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/fontenay-aux-roses-villa-flora/dollhouses/B1E5L03/5/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

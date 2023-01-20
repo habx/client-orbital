@@ -381,7 +381,17 @@
 			"slug": "A001",
 			"surfaceArea": 876000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L02",
@@ -603,7 +613,17 @@
 			"slug": "A002",
 			"surfaceArea": 777000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L03",
@@ -826,7 +846,17 @@
 			"slug": "A003",
 			"surfaceArea": 307000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L04",
@@ -1032,7 +1062,17 @@
 			"slug": "A004",
 			"surfaceArea": 611000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L01",
@@ -1205,7 +1245,17 @@
 			"slug": "A105",
 			"surfaceArea": 611000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -1565,7 +1615,17 @@
 			"slug": "A101",
 			"surfaceArea": 605000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -1938,7 +1998,17 @@
 			"slug": "A102",
 			"surfaceArea": 874000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L04",
@@ -2136,7 +2206,17 @@
 			"slug": "A103",
 			"surfaceArea": 777000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L05",
@@ -2359,7 +2439,17 @@
 			"slug": "A104",
 			"surfaceArea": 307000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L01",
@@ -2532,7 +2622,17 @@
 			"slug": "A205",
 			"surfaceArea": 611000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -2880,7 +2980,17 @@
 			"slug": "A201",
 			"surfaceArea": 605000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -3253,7 +3363,17 @@
 			"slug": "A202",
 			"surfaceArea": 874000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L04",
@@ -3451,7 +3571,17 @@
 			"slug": "A203",
 			"surfaceArea": 777000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L05",
@@ -3674,7 +3804,17 @@
 			"slug": "A204",
 			"surfaceArea": 309000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L01",
@@ -3847,7 +3987,17 @@
 			"slug": "A305",
 			"surfaceArea": 611000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -4195,7 +4345,17 @@
 			"slug": "A301",
 			"surfaceArea": 599000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -4568,7 +4728,17 @@
 			"slug": "A302",
 			"surfaceArea": 874000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L04",
@@ -4766,7 +4936,17 @@
 			"slug": "A303",
 			"surfaceArea": 777000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L05",
@@ -4989,7 +5169,17 @@
 			"slug": "A304",
 			"surfaceArea": 307000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L01",
@@ -5305,7 +5495,17 @@
 			"slug": "A405",
 			"surfaceArea": 967000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -5932,7 +6132,17 @@
 			"slug": "A401",
 			"surfaceArea": 874000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L03",
@@ -6476,7 +6686,17 @@
 			"slug": "A402",
 			"surfaceArea": 1095000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L04",
@@ -7053,7 +7273,17 @@
 			"slug": "A403",
 			"surfaceArea": 1094000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L05",
@@ -7648,7 +7878,17 @@
 			"slug": "A404",
 			"surfaceArea": 785000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B1E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L01",
@@ -7971,7 +8211,17 @@
 			"slug": "B001",
 			"surfaceArea": 553000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L02",
@@ -8194,7 +8444,17 @@
 			"slug": "B002",
 			"surfaceArea": 382000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L03",
@@ -8517,7 +8777,17 @@
 			"slug": "B003",
 			"surfaceArea": 408000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L04",
@@ -8823,7 +9093,17 @@
 			"slug": "B004",
 			"surfaceArea": 636000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L01",
@@ -9146,7 +9426,17 @@
 			"slug": "B104",
 			"surfaceArea": 408000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -9419,7 +9709,17 @@
 			"slug": "B105",
 			"surfaceArea": 642000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -9592,7 +9892,17 @@
 			"slug": "B106",
 			"surfaceArea": 603000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -9865,7 +10175,17 @@
 			"slug": "B107",
 			"surfaceArea": 616000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -10138,7 +10458,17 @@
 			"slug": "B101",
 			"surfaceArea": 555000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L06",
@@ -10361,7 +10691,17 @@
 			"slug": "B102",
 			"surfaceArea": 364000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L07",
@@ -10584,7 +10924,17 @@
 			"slug": "B103",
 			"surfaceArea": 382000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L01",
@@ -10907,7 +11257,17 @@
 			"slug": "B204",
 			"surfaceArea": 408000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -11180,7 +11540,17 @@
 			"slug": "B205",
 			"surfaceArea": 642000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -11353,7 +11723,17 @@
 			"slug": "B206",
 			"surfaceArea": 603000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -11626,7 +12006,17 @@
 			"slug": "B207",
 			"surfaceArea": 616000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -11899,7 +12289,17 @@
 			"slug": "B201",
 			"surfaceArea": 555000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L06",
@@ -12122,7 +12522,17 @@
 			"slug": "B202",
 			"surfaceArea": 364000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L07",
@@ -12345,7 +12755,17 @@
 			"slug": "B203",
 			"surfaceArea": 382000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L01",
@@ -12668,7 +13088,17 @@
 			"slug": "B304",
 			"surfaceArea": 408000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -12941,7 +13371,17 @@
 			"slug": "B305",
 			"surfaceArea": 642000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -13114,7 +13554,17 @@
 			"slug": "B306",
 			"surfaceArea": 603000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L04",
@@ -13387,7 +13837,17 @@
 			"slug": "B307",
 			"surfaceArea": 616000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L05",
@@ -13660,7 +14120,17 @@
 			"slug": "B301",
 			"surfaceArea": 555000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L06",
@@ -13883,7 +14353,17 @@
 			"slug": "B302",
 			"surfaceArea": 364000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L07",
@@ -14106,7 +14586,17 @@
 			"slug": "B303",
 			"surfaceArea": 382000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E3L07/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L01",
@@ -14429,7 +14919,17 @@
 			"slug": "B404",
 			"surfaceArea": 408000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L02",
@@ -14870,7 +15370,17 @@
 			"slug": "B405",
 			"surfaceArea": 970000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L03",
@@ -15043,7 +15553,17 @@
 			"slug": "B406",
 			"surfaceArea": 603000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L04",
@@ -15316,7 +15836,17 @@
 			"slug": "B407",
 			"surfaceArea": 616000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L05",
@@ -15589,7 +16119,17 @@
 			"slug": "B401",
 			"surfaceArea": 555000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L06",
@@ -15812,7 +16352,17 @@
 			"slug": "B402",
 			"surfaceArea": 364000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L06/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L07",
@@ -16035,7 +16585,17 @@
 			"slug": "B403",
 			"surfaceArea": 382000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L07/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E4L07/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L01",
@@ -16500,7 +17060,17 @@
 			"slug": "B504",
 			"surfaceArea": 879000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L02",
@@ -17102,7 +17672,17 @@
 			"slug": "B505",
 			"surfaceArea": 1070000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L03",
@@ -17530,7 +18110,17 @@
 			"slug": "B501",
 			"surfaceArea": 735000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L04",
@@ -18066,7 +18656,17 @@
 			"slug": "B502",
 			"surfaceArea": 1038000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E5L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E5L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L05",
@@ -18612,7 +19212,17 @@
 			"slug": "B503",
 			"surfaceArea": 619000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E5L05/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B2E5L05/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L01",
@@ -18847,7 +19457,17 @@
 			"slug": "C001",
 			"surfaceArea": 411000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L02",
@@ -19120,7 +19740,17 @@
 			"slug": "C002",
 			"surfaceArea": 649000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L03",
@@ -19443,7 +20073,17 @@
 			"slug": "C003",
 			"surfaceArea": 573000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L04",
@@ -19716,7 +20356,17 @@
 			"slug": "C004",
 			"surfaceArea": 574000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L05",
@@ -19939,7 +20589,17 @@
 			"slug": "C005",
 			"surfaceArea": 582000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L06",
@@ -20245,7 +20905,17 @@
 			"slug": "C006",
 			"surfaceArea": 657000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L06/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L06/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L07",
@@ -20448,7 +21118,17 @@
 			"slug": "C007",
 			"surfaceArea": 403000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L07/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E0L07/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L01",
@@ -20671,7 +21351,17 @@
 			"slug": "C101",
 			"surfaceArea": 411000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L02",
@@ -20944,7 +21634,17 @@
 			"slug": "C102",
 			"surfaceArea": 649000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L03",
@@ -21117,7 +21817,17 @@
 			"slug": "C103",
 			"surfaceArea": 398000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L04",
@@ -21440,7 +22150,17 @@
 			"slug": "C104",
 			"surfaceArea": 573000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L05",
@@ -21713,7 +22433,17 @@
 			"slug": "C105",
 			"surfaceArea": 574000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L06",
@@ -21936,7 +22666,17 @@
 			"slug": "C106",
 			"surfaceArea": 582000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L07",
@@ -22209,7 +22949,17 @@
 			"slug": "C107",
 			"surfaceArea": 657000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L08",
@@ -22382,7 +23132,17 @@
 			"slug": "C108",
 			"surfaceArea": 403000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L08/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E1L08/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L01",
@@ -22605,7 +23365,17 @@
 			"slug": "C201",
 			"surfaceArea": 411000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L02",
@@ -22878,7 +23648,17 @@
 			"slug": "C202",
 			"surfaceArea": 649000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L03",
@@ -23051,7 +23831,17 @@
 			"slug": "C203",
 			"surfaceArea": 398000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L04",
@@ -23374,7 +24164,17 @@
 			"slug": "C204",
 			"surfaceArea": 573000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L05",
@@ -23647,7 +24447,17 @@
 			"slug": "C205",
 			"surfaceArea": 574000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L06",
@@ -23870,7 +24680,17 @@
 			"slug": "C206",
 			"surfaceArea": 582000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L07",
@@ -24143,7 +24963,17 @@
 			"slug": "C207",
 			"surfaceArea": 657000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L08",
@@ -24316,7 +25146,17 @@
 			"slug": "C208",
 			"surfaceArea": 403000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E2L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L01",
@@ -24539,7 +25379,17 @@
 			"slug": "C301",
 			"surfaceArea": 411000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L02",
@@ -24812,7 +25662,17 @@
 			"slug": "C302",
 			"surfaceArea": 649000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L03",
@@ -24985,7 +25845,17 @@
 			"slug": "C303",
 			"surfaceArea": 398000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L04",
@@ -25308,7 +26178,17 @@
 			"slug": "C304",
 			"surfaceArea": 573000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L05",
@@ -25581,7 +26461,17 @@
 			"slug": "C305",
 			"surfaceArea": 574000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L06",
@@ -25804,7 +26694,17 @@
 			"slug": "C306",
 			"surfaceArea": 582000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L07",
@@ -26077,7 +26977,17 @@
 			"slug": "C307",
 			"surfaceArea": 657000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L07/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L08",
@@ -26250,7 +27160,17 @@
 			"slug": "C308",
 			"surfaceArea": 403000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L08/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E3L08/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L01",
@@ -26473,7 +27393,17 @@
 			"slug": "C401",
 			"surfaceArea": 411000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L02",
@@ -26897,7 +27827,17 @@
 			"slug": "C402",
 			"surfaceArea": 959000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L03",
@@ -27070,7 +28010,17 @@
 			"slug": "C403",
 			"surfaceArea": 398000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L04",
@@ -27393,7 +28343,17 @@
 			"slug": "C404",
 			"surfaceArea": 573000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L05",
@@ -27666,7 +28626,17 @@
 			"slug": "C405",
 			"surfaceArea": 574000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L06",
@@ -27889,7 +28859,17 @@
 			"slug": "C406",
 			"surfaceArea": 582000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L06/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L07",
@@ -28430,7 +29410,17 @@
 			"slug": "C407",
 			"surfaceArea": 985000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L07/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L07/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L08",
@@ -28603,7 +29593,17 @@
 			"slug": "C408",
 			"surfaceArea": 403000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L08/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E4L08/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E5L01",
@@ -29089,7 +30089,17 @@
 			"slug": "C501",
 			"surfaceArea": 1017000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E5L02",
@@ -29586,7 +30596,17 @@
 			"slug": "C502",
 			"surfaceArea": 929000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E5L03",
@@ -29976,7 +30996,17 @@
 			"slug": "C503",
 			"surfaceArea": 893000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E5L04",
@@ -30429,7 +31459,17 @@
 			"slug": "C504",
 			"surfaceArea": 837000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E5L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E5L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E5L05",
@@ -30994,7 +32034,17 @@
 			"slug": "C505",
 			"surfaceArea": 705000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E5L05/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B3E5L05/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L01",
@@ -31241,7 +32291,17 @@
 			"slug": "D004",
 			"surfaceArea": 405000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L02",
@@ -31559,7 +32619,17 @@
 			"slug": "D005",
 			"surfaceArea": 667000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L03",
@@ -31912,7 +32982,17 @@
 			"slug": "D001",
 			"surfaceArea": 831000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L04",
@@ -32209,7 +33289,17 @@
 			"slug": "D002",
 			"surfaceArea": 849000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L05",
@@ -32594,7 +33684,17 @@
 			"slug": "D003",
 			"surfaceArea": 434000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L01",
@@ -32929,7 +34029,17 @@
 			"slug": "D101",
 			"surfaceArea": 829000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L02",
@@ -33202,7 +34312,17 @@
 			"slug": "D102",
 			"surfaceArea": 849000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L03",
@@ -33575,7 +34695,17 @@
 			"slug": "D103",
 			"surfaceArea": 434000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L04",
@@ -33798,7 +34928,17 @@
 			"slug": "D104",
 			"surfaceArea": 550000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L05",
@@ -33971,7 +35111,17 @@
 			"slug": "D105",
 			"surfaceArea": 405000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L06",
@@ -34244,7 +35394,17 @@
 			"slug": "D106",
 			"surfaceArea": 667000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L01",
@@ -34654,7 +35814,17 @@
 			"slug": "D201",
 			"surfaceArea": 829000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L02",
@@ -34927,7 +36097,17 @@
 			"slug": "D202",
 			"surfaceArea": 849000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L03",
@@ -35300,7 +36480,17 @@
 			"slug": "D203",
 			"surfaceArea": 434000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L04",
@@ -35623,7 +36813,17 @@
 			"slug": "D204",
 			"surfaceArea": 774000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L05",
@@ -35846,7 +37046,17 @@
 			"slug": "D205",
 			"surfaceArea": 428000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L06",
@@ -36019,7 +37229,17 @@
 			"slug": "D206",
 			"surfaceArea": 405000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L07",
@@ -36292,7 +37512,17 @@
 			"slug": "D207",
 			"surfaceArea": 667000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L01",
@@ -36627,7 +37857,17 @@
 			"slug": "D301",
 			"surfaceArea": 831000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L02",
@@ -36900,7 +38140,17 @@
 			"slug": "D302",
 			"surfaceArea": 849000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L03",
@@ -37273,7 +38523,17 @@
 			"slug": "D303",
 			"surfaceArea": 434000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L04",
@@ -37596,7 +38856,17 @@
 			"slug": "D304",
 			"surfaceArea": 774000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L05",
@@ -37902,7 +39172,17 @@
 			"slug": "D305",
 			"surfaceArea": 850000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L06",
@@ -38175,7 +39455,17 @@
 			"slug": "D306",
 			"surfaceArea": 667000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L01",
@@ -38510,7 +39800,17 @@
 			"slug": "D401",
 			"surfaceArea": 829000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L02",
@@ -38783,7 +40083,17 @@
 			"slug": "D402",
 			"surfaceArea": 849000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L03",
@@ -39056,7 +40366,17 @@
 			"slug": "D403",
 			"surfaceArea": 437000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L04",
@@ -39279,7 +40599,17 @@
 			"slug": "D404",
 			"surfaceArea": 554000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L05",
@@ -39452,7 +40782,17 @@
 			"slug": "D405",
 			"surfaceArea": 405000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L06",
@@ -39876,7 +41216,17 @@
 			"slug": "D406",
 			"surfaceArea": 979000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E4L06/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E5L01",
@@ -40441,7 +41791,17 @@
 			"slug": "D501",
 			"surfaceArea": 882000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E5L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E5L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E5L02",
@@ -40930,7 +42290,17 @@
 			"slug": "D502",
 			"surfaceArea": 991000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E5L03",
@@ -41383,7 +42753,17 @@
 			"slug": "D503",
 			"surfaceArea": 643000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E5L04",
@@ -41798,7 +43178,17 @@
 			"slug": "D504",
 			"surfaceArea": 677000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E5L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E5L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E5L05",
@@ -42301,7 +43691,17 @@
 			"slug": "D505",
 			"surfaceArea": 870000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E5L05/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/le-plessis-robinson-agapanthe/dollhouses/B4E5L05/5/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

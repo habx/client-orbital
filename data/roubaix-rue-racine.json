@@ -872,7 +872,17 @@
 			"slug": "40371-3",
 			"surfaceArea": 350100,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L02",
@@ -1062,7 +1072,17 @@
 			"slug": "40371-1",
 			"surfaceArea": 335000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L03",
@@ -1335,7 +1355,17 @@
 			"slug": "40371-19",
 			"surfaceArea": 695400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L04",
@@ -1608,7 +1638,17 @@
 			"slug": "40371-2",
 			"surfaceArea": 316000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1C01",
@@ -2112,7 +2152,17 @@
 			"slug": "40371-11",
 			"surfaceArea": 428100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -2285,7 +2335,17 @@
 			"slug": "40371-8",
 			"surfaceArea": 429300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -2558,7 +2618,17 @@
 			"slug": "40371-18",
 			"surfaceArea": 621200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L04",
@@ -2731,7 +2801,17 @@
 			"slug": "40371-16",
 			"surfaceArea": 425600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L05",
@@ -2904,7 +2984,17 @@
 			"slug": "40371-9",
 			"surfaceArea": 434400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L06",
@@ -3127,7 +3217,17 @@
 			"slug": "40371-22",
 			"surfaceArea": 616800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L07",
@@ -3350,7 +3450,17 @@
 			"slug": "40371-7",
 			"surfaceArea": 448700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L08",
@@ -3573,7 +3683,17 @@
 			"slug": "40371-4",
 			"surfaceArea": 446200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L08/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L08/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L09",
@@ -3746,7 +3866,17 @@
 			"slug": "40371-14",
 			"surfaceArea": 429300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L09/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E1L09/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2C01",
@@ -4250,7 +4380,17 @@
 			"slug": "40371-6",
 			"surfaceArea": 428100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -4423,7 +4563,17 @@
 			"slug": "40371-17",
 			"surfaceArea": 430400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -4696,7 +4846,17 @@
 			"slug": "40371-21",
 			"surfaceArea": 621200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L04",
@@ -4869,7 +5029,17 @@
 			"slug": "40371-13",
 			"surfaceArea": 426700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L05",
@@ -5042,7 +5212,17 @@
 			"slug": "40371-5",
 			"surfaceArea": 434400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L06",
@@ -5265,7 +5445,17 @@
 			"slug": "40371-20",
 			"surfaceArea": 616800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L07",
@@ -5488,7 +5678,17 @@
 			"slug": "40371-15",
 			"surfaceArea": 448700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L08",
@@ -5711,7 +5911,17 @@
 			"slug": "40371-12",
 			"surfaceArea": 446200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L09",
@@ -5884,7 +6094,17 @@
 			"slug": "40371-10",
 			"surfaceArea": 429300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L09/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E2L09/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3C01",
@@ -6262,7 +6482,17 @@
 			"slug": "40371-23",
 			"surfaceArea": 813400,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -6435,7 +6665,17 @@
 			"slug": "40371-24",
 			"surfaceArea": 746000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -6694,7 +6934,17 @@
 			"slug": "40371-25",
 			"surfaceArea": 812600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0C01",
@@ -7658,7 +7908,17 @@
 			"slug": "40371-41",
 			"surfaceArea": 553700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L02",
@@ -7798,7 +8058,17 @@
 			"slug": "40371-26",
 			"surfaceArea": 369300,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L03",
@@ -7971,7 +8241,17 @@
 			"slug": "40371-30",
 			"surfaceArea": 426000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L04",
@@ -8244,7 +8524,17 @@
 			"slug": "40371-27",
 			"surfaceArea": 316000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L05",
@@ -8517,7 +8807,17 @@
 			"slug": "40371-46",
 			"surfaceArea": 696400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L06",
@@ -8657,7 +8957,17 @@
 			"slug": "40371-28",
 			"surfaceArea": 320200,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L06/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E0L06/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1C01",
@@ -9161,7 +9471,17 @@
 			"slug": "40371-36",
 			"surfaceArea": 428100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -9334,7 +9654,17 @@
 			"slug": "40371-42",
 			"surfaceArea": 429300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -9640,7 +9970,17 @@
 			"slug": "40371-45",
 			"surfaceArea": 621400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -9813,7 +10153,17 @@
 			"slug": "40371-40",
 			"surfaceArea": 425600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -10036,7 +10386,17 @@
 			"slug": "40371-43",
 			"surfaceArea": 616800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L06",
@@ -10209,7 +10569,17 @@
 			"slug": "40371-38",
 			"surfaceArea": 437500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L07",
@@ -10382,7 +10752,17 @@
 			"slug": "40371-32",
 			"surfaceArea": 425600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L08",
@@ -10655,7 +11035,17 @@
 			"slug": "40371-48",
 			"surfaceArea": 621300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L08/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L08/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L09",
@@ -10828,7 +11218,17 @@
 			"slug": "40371-33",
 			"surfaceArea": 429300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L09/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L09/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L10",
@@ -11001,7 +11401,17 @@
 			"slug": "40371-31",
 			"surfaceArea": 429300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L10/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E1L10/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2C01",
@@ -11505,7 +11915,17 @@
 			"slug": "40371-39",
 			"surfaceArea": 429200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -11678,7 +12098,17 @@
 			"slug": "40371-37",
 			"surfaceArea": 430400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -11951,7 +12381,17 @@
 			"slug": "40371-49",
 			"surfaceArea": 621200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -12124,7 +12564,17 @@
 			"slug": "40371-29",
 			"surfaceArea": 426700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -12347,7 +12797,17 @@
 			"slug": "40371-44",
 			"surfaceArea": 616800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L06",
@@ -12520,7 +12980,17 @@
 			"slug": "40371-50",
 			"surfaceArea": 875600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L07",
@@ -12793,7 +13263,17 @@
 			"slug": "40371-47",
 			"surfaceArea": 624500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L08",
@@ -12966,7 +13446,17 @@
 			"slug": "40371-34",
 			"surfaceArea": 430400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L09",
@@ -13139,7 +13629,17 @@
 			"slug": "40371-35",
 			"surfaceArea": 430400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L09/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E2L09/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3C01",
@@ -13517,7 +14017,17 @@
 			"slug": "40371-52",
 			"surfaceArea": 813400,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -13690,7 +14200,17 @@
 			"slug": "40371-53",
 			"surfaceArea": 746000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -13937,7 +14457,17 @@
 			"slug": "40371-51",
 			"surfaceArea": 812600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B2E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0C01",
@@ -14942,7 +15472,17 @@
 			"indexes": {
 				"orbital_top": 23,
 				"orbital_ground": 25
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L02",
@@ -15073,7 +15613,17 @@
 			"indexes": {
 				"orbital_top": 24,
 				"orbital_ground": 25
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L03",
@@ -15204,7 +15754,17 @@
 			"indexes": {
 				"orbital_top": 24,
 				"orbital_ground": 26
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L04",
@@ -15368,7 +15928,17 @@
 			"indexes": {
 				"orbital_top": 24,
 				"orbital_ground": 29
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L05",
@@ -15499,7 +16069,17 @@
 			"indexes": {
 				"orbital_top": 22,
 				"orbital_ground": 25
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1C01",
@@ -15994,7 +16574,17 @@
 			"indexes": {
 				"orbital_top": 24,
 				"orbital_ground": 25
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L02",
@@ -16158,7 +16748,17 @@
 			"indexes": {
 				"orbital_top": 24,
 				"orbital_ground": 26
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L03",
@@ -16455,7 +17055,17 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 29
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L04",
@@ -16619,7 +17229,17 @@
 			"indexes": {
 				"orbital_top": 26,
 				"orbital_ground": 29
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L05",
@@ -16783,7 +17403,17 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 30
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L06",
@@ -16997,7 +17627,17 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 31
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L07",
@@ -17211,7 +17851,17 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 31
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L08",
@@ -17425,7 +18075,17 @@
 			"indexes": {
 				"orbital_top": 23,
 				"orbital_ground": 25
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L08/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L08/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L09",
@@ -17589,7 +18249,17 @@
 			"indexes": {
 				"orbital_top": 23,
 				"orbital_ground": 25
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L09/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E1L09/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2C01",
@@ -18084,7 +18754,17 @@
 			"indexes": {
 				"orbital_top": 24,
 				"orbital_ground": 25
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L02",
@@ -18248,7 +18928,17 @@
 			"indexes": {
 				"orbital_top": 24,
 				"orbital_ground": 26
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L03",
@@ -18512,7 +19202,17 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 29
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L04",
@@ -18676,7 +19376,17 @@
 			"indexes": {
 				"orbital_top": 26,
 				"orbital_ground": 29
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L05",
@@ -18840,7 +19550,17 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 30
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L06",
@@ -19054,7 +19774,17 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 31
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L07",
@@ -19268,7 +19998,17 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 31
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L08",
@@ -19482,7 +20222,17 @@
 			"indexes": {
 				"orbital_top": 23,
 				"orbital_ground": 25
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L09",
@@ -19646,7 +20396,17 @@
 			"indexes": {
 				"orbital_top": 23,
 				"orbital_ground": 25
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L09/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E2L09/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3C01",
@@ -20015,7 +20775,17 @@
 			"indexes": {
 				"orbital_top": 27,
 				"orbital_ground": 29
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L02",
@@ -20179,7 +20949,17 @@
 			"indexes": {
 				"orbital_top": 25,
 				"orbital_ground": 30
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L03",
@@ -20417,7 +21197,17 @@
 			"indexes": {
 				"orbital_top": 23,
 				"orbital_ground": 25
-			}
+			},
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/roubaix-rue-racine/dollhouses/B3E3L03/3/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

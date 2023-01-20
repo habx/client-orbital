@@ -1004,7 +1004,17 @@
 			"slug": "58431-43",
 			"surfaceArea": 665000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L02",
@@ -1339,7 +1349,17 @@
 			"slug": "58431-1",
 			"surfaceArea": 477500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L03",
@@ -1717,7 +1737,17 @@
 			"slug": "58431-28",
 			"surfaceArea": 612500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L04",
@@ -1946,7 +1976,17 @@
 			"slug": "58431-3",
 			"surfaceArea": 457500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L05",
@@ -2249,7 +2289,17 @@
 			"slug": "58431-49",
 			"surfaceArea": 890000,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1C01",
@@ -2753,7 +2803,17 @@
 			"slug": "58431-26",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L02",
@@ -3088,7 +3148,17 @@
 			"slug": "58431-4",
 			"surfaceArea": 477500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L03",
@@ -3436,7 +3506,17 @@
 			"slug": "58431-25",
 			"surfaceArea": 615000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L04",
@@ -3659,7 +3739,17 @@
 			"slug": "58431-6",
 			"surfaceArea": 457500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L05",
@@ -3932,7 +4022,17 @@
 			"slug": "58431-48",
 			"surfaceArea": 890000,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L06",
@@ -4217,7 +4317,17 @@
 			"slug": "58431-11",
 			"surfaceArea": 527500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2C01",
@@ -4721,7 +4831,17 @@
 			"slug": "58431-24",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L02",
@@ -5056,7 +5176,17 @@
 			"slug": "58431-7",
 			"surfaceArea": 477500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L03",
@@ -5404,7 +5534,17 @@
 			"slug": "58431-23",
 			"surfaceArea": 615000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L04",
@@ -5627,7 +5767,17 @@
 			"slug": "58431-8",
 			"surfaceArea": 457500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L05",
@@ -5900,7 +6050,17 @@
 			"slug": "58431-47",
 			"surfaceArea": 890000,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L06",
@@ -6185,7 +6345,17 @@
 			"slug": "58431-9",
 			"surfaceArea": 527500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3C01",
@@ -6689,7 +6859,17 @@
 			"slug": "58431-34",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L02",
@@ -7024,7 +7204,17 @@
 			"slug": "58431-10",
 			"surfaceArea": 477500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L03",
@@ -7372,7 +7562,17 @@
 			"slug": "58431-27",
 			"surfaceArea": 615000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L04",
@@ -7595,7 +7795,17 @@
 			"slug": "58431-2",
 			"surfaceArea": 437500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L05",
@@ -7868,7 +8078,17 @@
 			"slug": "58431-55",
 			"surfaceArea": 890000,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L06",
@@ -8153,7 +8373,17 @@
 			"slug": "58431-5",
 			"surfaceArea": 527500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4C01",
@@ -8681,7 +8911,17 @@
 			"slug": "58431-29",
 			"surfaceArea": 765000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L02",
@@ -8916,7 +9156,17 @@
 			"slug": "58431-36",
 			"surfaceArea": 660000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L03",
@@ -9222,7 +9472,17 @@
 			"slug": "58431-121",
 			"surfaceArea": 655000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L04",
@@ -9590,7 +9850,17 @@
 			"slug": "58431-57",
 			"surfaceArea": 645000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B4E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0C01",
@@ -10524,7 +10794,17 @@
 			"slug": "58431-45",
 			"surfaceArea": 642500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L02",
@@ -10833,7 +11113,17 @@
 			"slug": "58431-44",
 			"surfaceArea": 642500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L03",
@@ -11068,7 +11358,17 @@
 			"slug": "58431-18",
 			"surfaceArea": 407500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L04",
@@ -11386,7 +11686,17 @@
 			"slug": "58431-22",
 			"surfaceArea": 412500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L05",
@@ -11689,7 +11999,17 @@
 			"slug": "58431-33",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L06",
@@ -11954,7 +12274,17 @@
 			"slug": "58431-52",
 			"surfaceArea": 815000,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L06/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E0L06/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1C01",
@@ -12582,7 +12912,17 @@
 			"slug": "58431-16",
 			"surfaceArea": 512500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L02",
@@ -12755,7 +13095,17 @@
 			"slug": "58431-37",
 			"surfaceArea": 642500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L03",
@@ -13028,7 +13378,17 @@
 			"slug": "58431-41",
 			"surfaceArea": 642500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L04",
@@ -13251,7 +13611,17 @@
 			"slug": "58431-13",
 			"surfaceArea": 407500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L05",
@@ -13524,7 +13894,17 @@
 			"slug": "58431-12",
 			"surfaceArea": 412500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L06",
@@ -13797,7 +14177,17 @@
 			"slug": "58431-31",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L07",
@@ -14044,7 +14434,17 @@
 			"slug": "58431-54",
 			"surfaceArea": 815000,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2C01",
@@ -14672,7 +15072,17 @@
 			"slug": "58431-21",
 			"surfaceArea": 512500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L02",
@@ -14845,7 +15255,17 @@
 			"slug": "58431-35",
 			"surfaceArea": 642500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L03",
@@ -15118,7 +15538,17 @@
 			"slug": "58431-32",
 			"surfaceArea": 642500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L04",
@@ -15341,7 +15771,17 @@
 			"slug": "58431-15",
 			"surfaceArea": 407500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L05",
@@ -15614,7 +16054,17 @@
 			"slug": "58431-17",
 			"surfaceArea": 412500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L06",
@@ -15887,7 +16337,17 @@
 			"slug": "58431-38",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L07",
@@ -16134,7 +16594,17 @@
 			"slug": "58431-53",
 			"surfaceArea": 815000,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3C01",
@@ -16762,7 +17232,17 @@
 			"slug": "58431-20",
 			"surfaceArea": 512500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L02",
@@ -16935,7 +17415,17 @@
 			"slug": "58431-30",
 			"surfaceArea": 642500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L03",
@@ -17208,7 +17698,17 @@
 			"slug": "58431-40",
 			"surfaceArea": 642500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L04",
@@ -17431,7 +17931,17 @@
 			"slug": "58431-14",
 			"surfaceArea": 407500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L05",
@@ -17704,7 +18214,17 @@
 			"slug": "58431-19",
 			"surfaceArea": 412500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L06",
@@ -17977,7 +18497,17 @@
 			"slug": "58431-39",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L07",
@@ -18224,7 +18754,17 @@
 			"slug": "58431-51",
 			"surfaceArea": 815000,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E3L07/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4C01",
@@ -18740,7 +19280,17 @@
 			"slug": "58431-42",
 			"surfaceArea": 687500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L02",
@@ -19108,7 +19658,17 @@
 			"slug": "58431-46",
 			"surfaceArea": 922500,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L03",
@@ -19388,7 +19948,17 @@
 			"slug": "58431-50",
 			"surfaceArea": 980000,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/quetigny-patio-central/dollhouses/B5E4L03/4/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

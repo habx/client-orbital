@@ -1152,7 +1152,17 @@
 			"slug": "83981-1",
 			"surfaceArea": 214800,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L02",
@@ -1486,7 +1496,17 @@
 			"slug": "83981-2",
 			"surfaceArea": 507600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1C01",
@@ -2050,7 +2070,17 @@
 			"slug": "83981-3",
 			"surfaceArea": 379500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -2323,7 +2353,17 @@
 			"slug": "83981-10",
 			"surfaceArea": 733400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -2671,7 +2711,17 @@
 			"slug": "83981-12",
 			"surfaceArea": 632000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2C01",
@@ -3335,7 +3385,17 @@
 			"slug": "83981-4",
 			"surfaceArea": 401400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -3608,7 +3668,17 @@
 			"slug": "83981-11",
 			"surfaceArea": 733400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -3956,7 +4026,17 @@
 			"slug": "83981-8",
 			"surfaceArea": 632000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3C01",
@@ -4620,7 +4700,17 @@
 			"slug": "83981-5",
 			"surfaceArea": 400900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -4893,7 +4983,17 @@
 			"slug": "83981-9",
 			"surfaceArea": 733400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -5241,7 +5341,17 @@
 			"slug": "83981-7",
 			"surfaceArea": 632000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4C01",
@@ -5905,7 +6015,17 @@
 			"slug": "83981-15",
 			"surfaceArea": 400400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -6663,7 +6783,17 @@
 			"slug": "83981-14",
 			"surfaceArea": 1183100,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5C01",
@@ -7424,7 +7554,17 @@
 			"slug": "83981-13",
 			"surfaceArea": 866300,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B1E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0C01",
@@ -8594,7 +8734,17 @@
 			"slug": "83981-24",
 			"surfaceArea": 375100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L02",
@@ -8909,7 +9059,17 @@
 			"slug": "83981-23",
 			"surfaceArea": 370900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L03",
@@ -9310,7 +9470,17 @@
 			"slug": "83981-29",
 			"surfaceArea": 816100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L04",
@@ -9632,7 +9802,17 @@
 			"slug": "83981-6",
 			"surfaceArea": 704900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1C01",
@@ -10329,7 +10509,17 @@
 			"slug": "83981-18",
 			"surfaceArea": 303600,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -10552,7 +10742,17 @@
 			"slug": "83981-21",
 			"surfaceArea": 428500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -10825,7 +11025,17 @@
 			"slug": "83981-20",
 			"surfaceArea": 370900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -11131,7 +11341,17 @@
 			"slug": "83981-32",
 			"surfaceArea": 817000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -11454,7 +11674,17 @@
 			"slug": "83981-28",
 			"surfaceArea": 714700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2C01",
@@ -12151,7 +12381,17 @@
 			"slug": "83981-16",
 			"surfaceArea": 303400,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -12374,7 +12614,17 @@
 			"slug": "83981-22",
 			"surfaceArea": 428500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -12647,7 +12897,17 @@
 			"slug": "83981-25",
 			"surfaceArea": 370900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -12953,7 +13213,17 @@
 			"slug": "83981-31",
 			"surfaceArea": 816400,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -13276,7 +13546,17 @@
 			"slug": "83981-27",
 			"surfaceArea": 714700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3C01",
@@ -14309,7 +14589,17 @@
 			"slug": "83981-30",
 			"surfaceArea": 940700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -14675,7 +14965,17 @@
 			"slug": "83981-17",
 			"surfaceArea": 255100,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -14908,7 +15208,17 @@
 			"slug": "83981-19",
 			"surfaceArea": 381300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L04",
@@ -15206,7 +15516,17 @@
 			"slug": "83981-26",
 			"surfaceArea": 638800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/suresnes-atelier-lumiere/dollhouses/B2E3L04/3/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

@@ -968,7 +968,17 @@
 			"slug": "33781-5",
 			"surfaceArea": 364600,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L02",
@@ -1265,7 +1275,17 @@
 			"slug": "33781-23",
 			"surfaceArea": 640900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L03",
@@ -1550,7 +1570,17 @@
 			"slug": "33781-11",
 			"surfaceArea": 642300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L04",
@@ -1922,7 +1952,17 @@
 			"slug": "33781-6",
 			"surfaceArea": 442400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L05",
@@ -2469,7 +2509,17 @@
 			"slug": "33781-28",
 			"surfaceArea": 877600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E0L06",
@@ -2754,7 +2804,17 @@
 			"slug": "33781-24",
 			"surfaceArea": 635300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L06/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E0L06/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1C01",
@@ -3608,7 +3668,17 @@
 			"slug": "33781-19",
 			"surfaceArea": 675700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -3881,7 +3951,17 @@
 			"slug": "33781-25",
 			"surfaceArea": 657000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -4154,7 +4234,17 @@
 			"slug": "33781-30",
 			"surfaceArea": 805600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L04",
@@ -4427,7 +4517,17 @@
 			"slug": "33781-8",
 			"surfaceArea": 436600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L05",
@@ -4700,7 +4800,17 @@
 			"slug": "33781-9",
 			"surfaceArea": 640900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L06",
@@ -4973,7 +5083,17 @@
 			"slug": "33781-20",
 			"surfaceArea": 642300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2C01",
@@ -5827,7 +5947,17 @@
 			"slug": "33781-21",
 			"surfaceArea": 676800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -6100,7 +6230,17 @@
 			"slug": "33781-22",
 			"surfaceArea": 657000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -6373,7 +6513,17 @@
 			"slug": "33781-29",
 			"surfaceArea": 805600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L04",
@@ -6646,7 +6796,17 @@
 			"slug": "33781-7",
 			"surfaceArea": 436200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L05",
@@ -6919,7 +7079,17 @@
 			"slug": "33781-17",
 			"surfaceArea": 640900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L06",
@@ -7192,7 +7362,17 @@
 			"slug": "33781-12",
 			"surfaceArea": 642300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3C01",
@@ -7996,7 +8176,17 @@
 			"slug": "33781-15",
 			"surfaceArea": 617900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -8269,7 +8459,17 @@
 			"slug": "33781-16",
 			"surfaceArea": 657000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -8542,7 +8742,17 @@
 			"slug": "33781-26",
 			"surfaceArea": 635300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L04",
@@ -8765,7 +8975,17 @@
 			"slug": "33781-2",
 			"surfaceArea": 302200,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L05",
@@ -8988,7 +9208,17 @@
 			"slug": "33781-3",
 			"surfaceArea": 303800,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L06",
@@ -9261,7 +9491,17 @@
 			"slug": "33781-18",
 			"surfaceArea": 640900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L07",
@@ -9534,7 +9774,17 @@
 			"slug": "33781-13",
 			"surfaceArea": 642300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E3L07/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4C01",
@@ -10496,7 +10746,17 @@
 			"slug": "33781-27",
 			"surfaceArea": 879400,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -10769,7 +11029,17 @@
 			"slug": "33781-14",
 			"surfaceArea": 603100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L03",
@@ -10992,7 +11262,17 @@
 			"slug": "33781-1",
 			"surfaceArea": 297600,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L04",
@@ -11215,7 +11495,17 @@
 			"slug": "33781-4",
 			"surfaceArea": 297600,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L05",
@@ -11488,7 +11778,17 @@
 			"slug": "33781-10",
 			"surfaceArea": 624900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L06",
@@ -11919,7 +12219,17 @@
 			"slug": "33781-31",
 			"surfaceArea": 885700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B1E4L06/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0C01",
@@ -12879,7 +13189,17 @@
 			"slug": "33781-32",
 			"surfaceArea": 364100,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L02",
@@ -13164,7 +13484,17 @@
 			"slug": "33781-46",
 			"surfaceArea": 635300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L03",
@@ -13567,7 +13897,17 @@
 			"slug": "33781-58",
 			"surfaceArea": 882000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L04",
@@ -13963,7 +14303,17 @@
 			"slug": "33781-47",
 			"surfaceArea": 617300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1C01",
@@ -14642,7 +14992,17 @@
 			"slug": "33781-50",
 			"surfaceArea": 615200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -14915,7 +15275,17 @@
 			"slug": "33781-43",
 			"surfaceArea": 655400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -15098,7 +15468,17 @@
 			"slug": "33781-38",
 			"surfaceArea": 436900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -15371,7 +15751,17 @@
 			"slug": "33781-59",
 			"surfaceArea": 805600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -15644,7 +16034,17 @@
 			"slug": "33781-53",
 			"surfaceArea": 657000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L06",
@@ -15992,7 +16392,17 @@
 			"slug": "33781-42",
 			"surfaceArea": 665800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2C01",
@@ -16671,7 +17081,17 @@
 			"slug": "33781-39",
 			"surfaceArea": 615200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -16944,7 +17364,17 @@
 			"slug": "33781-40",
 			"surfaceArea": 655400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -17117,7 +17547,17 @@
 			"slug": "33781-37",
 			"surfaceArea": 436900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -17390,7 +17830,17 @@
 			"slug": "33781-57",
 			"surfaceArea": 805600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -17663,7 +18113,17 @@
 			"slug": "33781-54",
 			"surfaceArea": 657000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L06",
@@ -18011,7 +18471,17 @@
 			"slug": "33781-45",
 			"surfaceArea": 665800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3C01",
@@ -18690,7 +19160,17 @@
 			"slug": "33781-52",
 			"surfaceArea": 615200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -18963,7 +19443,17 @@
 			"slug": "33781-44",
 			"surfaceArea": 655400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -19196,7 +19686,17 @@
 			"slug": "33781-33",
 			"surfaceArea": 303400,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L04",
@@ -19419,7 +19919,17 @@
 			"slug": "33781-36",
 			"surfaceArea": 302600,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L05",
@@ -19692,7 +20202,17 @@
 			"slug": "33781-41",
 			"surfaceArea": 635300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L06",
@@ -19965,7 +20485,17 @@
 			"slug": "33781-51",
 			"surfaceArea": 657000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L07",
@@ -20269,7 +20799,17 @@
 			"slug": "33781-49",
 			"surfaceArea": 606900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E3L07/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4C01",
@@ -21056,7 +21596,17 @@
 			"slug": "33781-56",
 			"surfaceArea": 829200,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L02",
@@ -21329,7 +21879,17 @@
 			"slug": "33781-48",
 			"surfaceArea": 621800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L03",
@@ -21552,7 +22112,17 @@
 			"slug": "33781-35",
 			"surfaceArea": 297200,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L04",
@@ -21775,7 +22345,17 @@
 			"slug": "33781-34",
 			"surfaceArea": 298000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L05",
@@ -22048,7 +22628,17 @@
 			"slug": "33781-55",
 			"surfaceArea": 603200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L06",
@@ -22454,7 +23044,17 @@
 			"slug": "33781-60",
 			"surfaceArea": 880100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/argenteuil-labriere/dollhouses/B2E4L06/4/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

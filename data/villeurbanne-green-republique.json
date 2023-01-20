@@ -314,7 +314,17 @@
 			"slug": "57561-10",
 			"surfaceArea": 683300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -587,7 +597,17 @@
 			"slug": "57561-5",
 			"surfaceArea": 637500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -785,7 +805,17 @@
 			"slug": "57561-7",
 			"surfaceArea": 649000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L01",
@@ -1039,7 +1069,17 @@
 			"slug": "57561-2",
 			"surfaceArea": 418000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -1254,7 +1294,17 @@
 			"slug": "57561-9",
 			"surfaceArea": 637600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L02",
@@ -1527,7 +1577,17 @@
 			"slug": "57561-6",
 			"surfaceArea": 436100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -1925,7 +1985,17 @@
 			"slug": "57561-3",
 			"surfaceArea": 436100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L01",
@@ -2206,7 +2276,17 @@
 			"slug": "57561-8",
 			"surfaceArea": 718900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -2454,7 +2534,17 @@
 			"slug": null,
 			"surfaceArea": 434100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -2652,7 +2742,17 @@
 			"slug": "57561-4",
 			"surfaceArea": 685700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L01",
@@ -2912,7 +3012,17 @@
 			"slug": "57561-11",
 			"surfaceArea": 777600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L02",
@@ -3177,7 +3287,17 @@
 			"slug": "57561-19",
 			"surfaceArea": 462200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L03",
@@ -3425,7 +3545,17 @@
 			"slug": "57561-20",
 			"surfaceArea": 467000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L01",
@@ -3866,7 +3996,17 @@
 			"slug": "57561-17",
 			"surfaceArea": 365000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L02",
@@ -4238,7 +4378,17 @@
 			"slug": "57561-27",
 			"surfaceArea": 680200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L03",
@@ -4517,7 +4667,17 @@
 			"slug": "57561-28",
 			"surfaceArea": 626200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L04",
@@ -4815,7 +4975,17 @@
 			"slug": "57561-39",
 			"surfaceArea": 841500,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L01",
@@ -5181,7 +5351,17 @@
 			"slug": "57561-21",
 			"surfaceArea": 365100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L02",
@@ -5479,7 +5659,17 @@
 			"slug": "57561-31",
 			"surfaceArea": 680200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L03",
@@ -5733,7 +5923,17 @@
 			"slug": "57561-30",
 			"surfaceArea": 626200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L04",
@@ -6031,7 +6231,17 @@
 			"slug": "57561-38",
 			"surfaceArea": 841500,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L01",
@@ -6422,7 +6632,17 @@
 			"slug": "57561-23",
 			"surfaceArea": 365000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L02",
@@ -6695,7 +6915,17 @@
 			"slug": "57561-26",
 			"surfaceArea": 681800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L03",
@@ -6974,7 +7204,17 @@
 			"slug": "57561-32",
 			"surfaceArea": 625300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L01",
@@ -7322,7 +7562,17 @@
 			"slug": "57561-16",
 			"surfaceArea": 363600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L02",
@@ -7947,7 +8197,17 @@
 			"slug": "57561-42",
 			"surfaceArea": 1144800,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L03",
@@ -8226,7 +8486,17 @@
 			"slug": "57561-22",
 			"surfaceArea": 517100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E5L01",
@@ -8682,7 +8952,17 @@
 			"slug": "57561-33",
 			"surfaceArea": 881400,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B3E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L02",
@@ -8986,7 +9266,17 @@
 			"slug": "57561-37",
 			"surfaceArea": 838500,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L03",
@@ -9259,7 +9549,17 @@
 			"slug": "57561-25",
 			"surfaceArea": 680500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L04",
@@ -9507,7 +9807,17 @@
 			"slug": "57561-15",
 			"surfaceArea": 449600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L01",
@@ -9755,7 +10065,17 @@
 			"slug": "57561-36",
 			"surfaceArea": 803400,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L02",
@@ -10059,7 +10379,17 @@
 			"slug": "57561-34",
 			"surfaceArea": 838600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L03",
@@ -10357,7 +10687,17 @@
 			"slug": "57561-29",
 			"surfaceArea": 680500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L04",
@@ -10580,7 +10920,17 @@
 			"slug": "57561-14",
 			"surfaceArea": 449600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L02",
@@ -10903,7 +11253,17 @@
 			"slug": "57561-35",
 			"surfaceArea": 838600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L03",
@@ -11269,7 +11629,17 @@
 			"slug": "57561-24",
 			"surfaceArea": 680900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L04",
@@ -11517,7 +11887,17 @@
 			"slug": "57561-129",
 			"surfaceArea": 449600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L01",
@@ -12251,7 +12631,17 @@
 			"slug": "57561-41",
 			"surfaceArea": 889000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L02",
@@ -12505,7 +12895,17 @@
 			"slug": "57561-13",
 			"surfaceArea": 472100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L03",
@@ -13030,7 +13430,17 @@
 			"slug": "57561-43",
 			"surfaceArea": 1147200,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L04",
@@ -13278,7 +13688,17 @@
 			"slug": "57561-18",
 			"surfaceArea": 447600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E5L01",
@@ -13690,7 +14110,17 @@
 			"slug": "57561-40",
 			"surfaceArea": 1048600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B4E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L03",
@@ -13963,7 +14393,17 @@
 			"slug": "57561-45",
 			"surfaceArea": 417400,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L01",
@@ -14336,7 +14776,17 @@
 			"slug": null,
 			"surfaceArea": 425800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L04",
@@ -14609,7 +15059,17 @@
 			"slug": "57561-54",
 			"surfaceArea": 621100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L05",
@@ -14807,7 +15267,17 @@
 			"slug": "57561-53",
 			"surfaceArea": 623100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L07",
@@ -15055,7 +15525,17 @@
 			"slug": "57561-50",
 			"surfaceArea": 417100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L01",
@@ -15461,7 +15941,17 @@
 			"slug": "57561-48",
 			"surfaceArea": 503400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L02",
@@ -15683,7 +16173,17 @@
 			"slug": "57561-55",
 			"surfaceArea": 747800,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L03",
@@ -15887,7 +16387,17 @@
 			"slug": "57561-51",
 			"surfaceArea": 623600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L04",
@@ -16160,7 +16670,17 @@
 			"slug": "57561-52",
 			"surfaceArea": 693300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L05",
@@ -16408,7 +16928,17 @@
 			"slug": "57561-49",
 			"surfaceArea": 417200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L01",
@@ -16781,7 +17311,17 @@
 			"slug": "57561-46",
 			"surfaceArea": 474000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L02",
@@ -17281,7 +17821,17 @@
 			"slug": "57561-56",
 			"surfaceArea": 818100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L03",
@@ -17656,7 +18206,17 @@
 			"slug": "57561-57",
 			"surfaceArea": 879100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L04",
@@ -18355,7 +18915,17 @@
 			"slug": "57561-58",
 			"surfaceArea": 1178300,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L05",
@@ -18559,7 +19129,17 @@
 			"slug": "57561-44",
 			"surfaceArea": 293500,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-green-republique/dollhouses/B5E4L05/4/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

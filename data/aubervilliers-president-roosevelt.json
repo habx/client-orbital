@@ -562,7 +562,17 @@
 			"slug": "33361-1",
 			"surfaceArea": 489700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -785,7 +795,17 @@
 			"slug": "33361-19",
 			"surfaceArea": 835700,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -1058,7 +1078,17 @@
 			"slug": "33361-15",
 			"surfaceArea": 660000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L04",
@@ -1374,7 +1404,17 @@
 			"slug": "33361-4",
 			"surfaceArea": 444900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L05",
@@ -1597,7 +1637,17 @@
 			"slug": "33361-11",
 			"surfaceArea": 626400,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2C01",
@@ -2151,7 +2201,17 @@
 			"slug": "33361-6",
 			"surfaceArea": 489700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -2374,7 +2434,17 @@
 			"slug": "33361-16",
 			"surfaceArea": 835700,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -2647,7 +2717,17 @@
 			"slug": "33361-8",
 			"surfaceArea": 660000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L04",
@@ -2963,7 +3043,17 @@
 			"slug": "33361-5",
 			"surfaceArea": 444300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L05",
@@ -3186,7 +3276,17 @@
 			"slug": "33361-13",
 			"surfaceArea": 626400,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3C01",
@@ -3740,7 +3840,17 @@
 			"slug": "33361-3",
 			"surfaceArea": 489700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -3963,7 +4073,17 @@
 			"slug": "33361-18",
 			"surfaceArea": 835700,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -4236,7 +4356,17 @@
 			"slug": "33361-9",
 			"surfaceArea": 660000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L04",
@@ -4552,7 +4682,17 @@
 			"slug": "33361-2",
 			"surfaceArea": 444300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L05",
@@ -4775,7 +4915,17 @@
 			"slug": "33361-14",
 			"surfaceArea": 626400,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4C01",
@@ -5329,7 +5479,17 @@
 			"slug": "33361-17",
 			"surfaceArea": 773800,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -5602,7 +5762,17 @@
 			"slug": "33361-7",
 			"surfaceArea": 463100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L03",
@@ -5825,7 +5995,17 @@
 			"slug": "33361-12",
 			"surfaceArea": 626300,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5C01",
@@ -6660,7 +6840,17 @@
 			"slug": "33361-20",
 			"surfaceArea": 984900,
 			"typology": 5,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L02",
@@ -7315,7 +7505,17 @@
 			"slug": "33361-21",
 			"surfaceArea": 928100,
 			"typology": 5,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L03",
@@ -7538,7 +7738,17 @@
 			"slug": "33361-10",
 			"surfaceArea": 626300,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B1E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1C01",
@@ -8413,7 +8623,17 @@
 			"slug": "33361-35",
 			"surfaceArea": 605400,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -8636,7 +8856,17 @@
 			"slug": "33361-45",
 			"surfaceArea": 621200,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -8902,7 +9132,17 @@
 			"slug": "33361-27",
 			"surfaceArea": 446200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -9294,7 +9534,17 @@
 			"slug": "33361-52",
 			"surfaceArea": 805100,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -9675,7 +9925,17 @@
 			"slug": "33361-34",
 			"surfaceArea": 600800,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2C01",
@@ -10544,7 +10804,17 @@
 			"slug": "33361-48",
 			"surfaceArea": 605000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -10767,7 +11037,17 @@
 			"slug": "33361-42",
 			"surfaceArea": 621200,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -11033,7 +11313,17 @@
 			"slug": "33361-30",
 			"surfaceArea": 446200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -11425,7 +11715,17 @@
 			"slug": "33361-50",
 			"surfaceArea": 805100,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -11806,7 +12106,17 @@
 			"slug": "33361-31",
 			"surfaceArea": 600800,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3C01",
@@ -12681,7 +12991,17 @@
 			"slug": "33361-47",
 			"surfaceArea": 605000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -12904,7 +13224,17 @@
 			"slug": "33361-44",
 			"surfaceArea": 621200,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -13170,7 +13500,17 @@
 			"slug": "33361-29",
 			"surfaceArea": 445600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L04",
@@ -13562,7 +13902,17 @@
 			"slug": "33361-49",
 			"surfaceArea": 805100,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L05",
@@ -13943,7 +14293,17 @@
 			"slug": "33361-46",
 			"surfaceArea": 600800,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4C01",
@@ -14818,7 +15178,17 @@
 			"slug": "33361-33",
 			"surfaceArea": 605000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L02",
@@ -15041,7 +15411,17 @@
 			"slug": "33361-41",
 			"surfaceArea": 621200,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L03",
@@ -15307,7 +15687,17 @@
 			"slug": "33361-26",
 			"surfaceArea": 442000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L04",
@@ -15699,7 +16089,17 @@
 			"slug": "33361-51",
 			"surfaceArea": 804600,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L05",
@@ -16080,7 +16480,17 @@
 			"slug": "33361-32",
 			"surfaceArea": 601100,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5C01",
@@ -16973,7 +17383,17 @@
 			"slug": "33361-39",
 			"surfaceArea": 605000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L02",
@@ -17196,7 +17616,17 @@
 			"slug": "33361-38",
 			"surfaceArea": 621200,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L03",
@@ -17444,7 +17874,17 @@
 			"slug": "33361-25",
 			"surfaceArea": 471100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L04",
@@ -17854,7 +18294,17 @@
 			"slug": "33361-40",
 			"surfaceArea": 615900,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E5L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E5L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L05",
@@ -18235,7 +18685,17 @@
 			"slug": "33361-43",
 			"surfaceArea": 601100,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E5L05/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E5L05/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E6C01",
@@ -18851,7 +19311,17 @@
 			"slug": "33361-37",
 			"surfaceArea": 655300,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E6L01/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E6L01/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E6L02",
@@ -19104,7 +19574,17 @@
 			"slug": "33361-36",
 			"surfaceArea": 667100,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E6L02/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E6L02/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E6L03",
@@ -19319,7 +19799,17 @@
 			"slug": "33361-28",
 			"surfaceArea": 471100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E6L03/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E6L03/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E6L04",
@@ -19824,7 +20314,17 @@
 			"slug": "33361-53",
 			"surfaceArea": 850300,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E6L04/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E6L04/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E6L05",
@@ -20488,7 +20988,17 @@
 			"slug": "33361-54",
 			"surfaceArea": 990600,
 			"typology": 5,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E6L05/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E6L05/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E7C01",
@@ -21622,7 +22132,17 @@
 			"slug": "33361-57",
 			"surfaceArea": 1145500,
 			"typology": 5,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E7L01/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E7L01/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E7L02",
@@ -22064,7 +22584,17 @@
 			"slug": "33361-55",
 			"surfaceArea": 1028200,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E7L02/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E7L02/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E7L03",
@@ -22775,7 +23305,17 @@
 			"slug": "33361-56",
 			"surfaceArea": 884600,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E7L03/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E7L03/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E7L04",
@@ -23436,7 +23976,17 @@
 			"slug": "33361-58",
 			"surfaceArea": 1069700,
 			"typology": 5,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E7L04/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/aubervilliers-president-roosevelt/dollhouses/B2E7L04/7/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

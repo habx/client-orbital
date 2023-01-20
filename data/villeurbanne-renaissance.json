@@ -1091,7 +1091,17 @@
 			"slug": "84051-1",
 			"surfaceArea": 233000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -1464,7 +1474,17 @@
 			"slug": "84051-3",
 			"surfaceArea": 455000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2C01",
@@ -2547,7 +2567,17 @@
 			"slug": "84051-2",
 			"surfaceArea": 233000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -2920,7 +2950,17 @@
 			"slug": "84051-4",
 			"surfaceArea": 455000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3C01",
@@ -6484,7 +6524,17 @@
 			"slug": "84051-10",
 			"surfaceArea": 686000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L02",
@@ -6857,7 +6907,17 @@
 			"slug": "84051-9",
 			"surfaceArea": 706000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6C01",
@@ -7541,7 +7601,17 @@
 			"slug": "84051-8",
 			"surfaceArea": 686000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E6L01/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E6L01/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L02",
@@ -7926,7 +7996,17 @@
 			"slug": "84051-7",
 			"surfaceArea": 706000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E6L02/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E6L02/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L03",
@@ -8261,7 +8341,17 @@
 			"slug": "84051-11",
 			"surfaceArea": 853000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E6L03/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E6L03/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7C01",
@@ -8945,7 +9035,17 @@
 			"slug": "84051-6",
 			"surfaceArea": 682000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E7L01/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E7L01/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L02",
@@ -9330,7 +9430,17 @@
 			"slug": "84051-5",
 			"surfaceArea": 697000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E7L02/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E7L02/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L03",
@@ -9665,7 +9775,17 @@
 			"slug": "84051-12",
 			"surfaceArea": 849000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E7L03/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E7L03/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8C01",
@@ -10601,7 +10721,17 @@
 			"slug": "84051-13",
 			"surfaceArea": 973000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E8L01/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E8L01/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8L02",
@@ -11091,7 +11221,17 @@
 			"slug": "84051-14",
 			"surfaceArea": 974000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E8L02/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/villeurbanne-renaissance/dollhouses/B1E8L02/8/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

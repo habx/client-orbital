@@ -148,7 +148,17 @@
 			"slug": "93411-14",
 			"surfaceArea": 401000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -338,7 +348,17 @@
 			"slug": "93411-13",
 			"surfaceArea": 450000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -611,7 +631,17 @@
 			"slug": "93411-26",
 			"surfaceArea": 691000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L04",
@@ -934,7 +964,17 @@
 			"slug": "93411-36",
 			"surfaceArea": 782000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L01",
@@ -1219,7 +1259,17 @@
 			"slug": "93411-35",
 			"surfaceArea": 821000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -1442,7 +1492,17 @@
 			"slug": "93411-38",
 			"surfaceArea": 851000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -1715,7 +1775,17 @@
 			"slug": "93411-19",
 			"surfaceArea": 691000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L04",
@@ -1938,7 +2008,17 @@
 			"slug": "93411-37",
 			"surfaceArea": 767000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L05",
@@ -2178,7 +2258,17 @@
 			"slug": "93411-15",
 			"surfaceArea": 496000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L06",
@@ -2401,7 +2491,17 @@
 			"slug": "93411-12",
 			"surfaceArea": 435000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L01",
@@ -2686,7 +2786,17 @@
 			"slug": "93411-29",
 			"surfaceArea": 821000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -2909,7 +3019,17 @@
 			"slug": "93411-32",
 			"surfaceArea": 851000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -3182,7 +3302,17 @@
 			"slug": "93411-25",
 			"surfaceArea": 691000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L04",
@@ -3455,7 +3585,17 @@
 			"slug": "93411-31",
 			"surfaceArea": 774000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L05",
@@ -3645,7 +3785,17 @@
 			"slug": "93411-17",
 			"surfaceArea": 533000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L06",
@@ -3868,7 +4018,17 @@
 			"slug": "93411-11",
 			"surfaceArea": 436000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L01",
@@ -4153,7 +4313,17 @@
 			"slug": "93411-30",
 			"surfaceArea": 821000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -4376,7 +4546,17 @@
 			"slug": "93411-28",
 			"surfaceArea": 850000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L03",
@@ -4649,7 +4829,17 @@
 			"slug": "93411-23",
 			"surfaceArea": 692000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L04",
@@ -4872,7 +5062,17 @@
 			"slug": "93411-39",
 			"surfaceArea": 981000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L01",
@@ -5207,7 +5407,17 @@
 			"slug": "93411-33",
 			"surfaceArea": 763000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L02",
@@ -5513,7 +5723,17 @@
 			"slug": "93411-22",
 			"surfaceArea": 645000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L03",
@@ -5736,7 +5956,17 @@
 			"slug": "93411-10",
 			"surfaceArea": 451000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L04",
@@ -5909,7 +6139,17 @@
 			"slug": "93411-9",
 			"surfaceArea": 564000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E5L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E5L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L01",
@@ -6244,7 +6484,17 @@
 			"slug": "93411-34",
 			"surfaceArea": 763000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E6L01/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E6L01/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L02",
@@ -6550,7 +6800,17 @@
 			"slug": "93411-20",
 			"surfaceArea": 644000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E6L02/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E6L02/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L03",
@@ -6773,7 +7033,17 @@
 			"slug": "93411-8",
 			"surfaceArea": 452000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E6L03/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E6L03/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L04",
@@ -6946,7 +7216,17 @@
 			"slug": "93411-16",
 			"surfaceArea": 564000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E6L04/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E6L04/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L01",
@@ -7281,7 +7561,17 @@
 			"slug": "93411-21",
 			"surfaceArea": 631000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E7L01/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E7L01/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L02",
@@ -7587,7 +7877,17 @@
 			"slug": "93411-24",
 			"surfaceArea": 644000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E7L02/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E7L02/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L03",
@@ -7810,7 +8110,17 @@
 			"slug": "93411-18",
 			"surfaceArea": 452000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E7L03/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E7L03/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L04",
@@ -8083,7 +8393,17 @@
 			"slug": "93411-27",
 			"surfaceArea": 707000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E7L04/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E7L04/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8L01",
@@ -8632,7 +8952,17 @@
 			"slug": "93411-41",
 			"surfaceArea": 1098000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E8L01/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E8L01/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8L02",
@@ -9123,7 +9453,17 @@
 			"slug": "93411-40",
 			"surfaceArea": 1018000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E8L02/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E8L02/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8L03",
@@ -9648,7 +9988,17 @@
 			"slug": "93411-43",
 			"surfaceArea": 1227000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E8L03/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E8L03/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8L04",
@@ -10123,7 +10473,17 @@
 			"slug": "93411-42",
 			"surfaceArea": 1264000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E8L04/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E8L04/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8L05",
@@ -10296,7 +10656,17 @@
 			"slug": "93411-7",
 			"surfaceArea": 244000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E8L05/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B1E8L05/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L01",
@@ -10631,7 +11001,17 @@
 			"slug": null,
 			"surfaceArea": 595000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -11054,7 +11434,17 @@
 			"slug": null,
 			"surfaceArea": 778000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -11327,7 +11717,17 @@
 			"slug": null,
 			"surfaceArea": 471000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -11650,7 +12050,17 @@
 			"slug": null,
 			"surfaceArea": 672000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -11873,7 +12283,17 @@
 			"slug": null,
 			"surfaceArea": 435000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L01",
@@ -12208,7 +12628,17 @@
 			"slug": null,
 			"surfaceArea": 595000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -12697,7 +13127,17 @@
 			"slug": null,
 			"surfaceArea": 775000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -12970,7 +13410,17 @@
 			"slug": null,
 			"surfaceArea": 471000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -13293,7 +13743,17 @@
 			"slug": null,
 			"surfaceArea": 671000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -13516,7 +13976,17 @@
 			"slug": null,
 			"surfaceArea": 435000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L01",
@@ -13851,7 +14321,17 @@
 			"slug": null,
 			"surfaceArea": 595000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -14307,7 +14787,17 @@
 			"slug": null,
 			"surfaceArea": 775000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -14580,7 +15070,17 @@
 			"slug": null,
 			"surfaceArea": 471000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L04",
@@ -14903,7 +15403,17 @@
 			"slug": null,
 			"surfaceArea": 671000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L05",
@@ -15126,7 +15636,17 @@
 			"slug": null,
 			"surfaceArea": 435000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L01",
@@ -15461,7 +15981,17 @@
 			"slug": null,
 			"surfaceArea": 595000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L02",
@@ -15917,7 +16447,17 @@
 			"slug": null,
 			"surfaceArea": 775000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L03",
@@ -16190,7 +16730,17 @@
 			"slug": null,
 			"surfaceArea": 471000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L04",
@@ -16513,7 +17063,17 @@
 			"slug": null,
 			"surfaceArea": 671000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L05",
@@ -16736,7 +17296,17 @@
 			"slug": null,
 			"surfaceArea": 435000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L01",
@@ -17110,7 +17680,17 @@
 			"slug": null,
 			"surfaceArea": 1061000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L02",
@@ -17483,7 +18063,17 @@
 			"slug": null,
 			"surfaceArea": 810000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L03",
@@ -17806,7 +18396,17 @@
 			"slug": null,
 			"surfaceArea": 802000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L04",
@@ -18029,7 +18629,17 @@
 			"slug": null,
 			"surfaceArea": 307000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E5L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E5L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E6L01",
@@ -18397,7 +19007,17 @@
 			"slug": null,
 			"surfaceArea": 1061000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E6L01/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E6L01/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E6L02",
@@ -18803,7 +19423,17 @@
 			"slug": null,
 			"surfaceArea": 810000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E6L02/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E6L02/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E6L03",
@@ -19126,7 +19756,17 @@
 			"slug": null,
 			"surfaceArea": 802000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E6L03/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E6L03/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E6L04",
@@ -19349,7 +19989,17 @@
 			"slug": null,
 			"surfaceArea": 307000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E6L04/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E6L04/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E7L01",
@@ -19717,7 +20367,17 @@
 			"slug": null,
 			"surfaceArea": 1061000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E7L01/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E7L01/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E7L02",
@@ -20090,7 +20750,17 @@
 			"slug": null,
 			"surfaceArea": 810000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E7L02/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E7L02/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E7L03",
@@ -20413,7 +21083,17 @@
 			"slug": null,
 			"surfaceArea": 802000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E7L03/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E7L03/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E7L04",
@@ -20636,7 +21316,17 @@
 			"slug": null,
 			"surfaceArea": 307000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E7L04/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E7L04/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E8L01",
@@ -21235,7 +21925,17 @@
 			"slug": null,
 			"surfaceArea": 976000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E8L01/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E8L01/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E8L02",
@@ -22116,7 +22816,17 @@
 			"slug": null,
 			"surfaceArea": 1115000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E8L02/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B2E8L02/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L01",
@@ -22401,7 +23111,17 @@
 			"slug": "93411-91",
 			"surfaceArea": 666000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L02",
@@ -22724,7 +23444,17 @@
 			"slug": "93411-84",
 			"surfaceArea": 509000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L03",
@@ -22930,7 +23660,17 @@
 			"slug": "93411-85",
 			"surfaceArea": 455000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L04",
@@ -23136,7 +23876,17 @@
 			"slug": "93411-95",
 			"surfaceArea": 831000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L05",
@@ -23326,7 +24076,17 @@
 			"slug": "93411-81",
 			"surfaceArea": 315000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L06",
@@ -23549,7 +24309,17 @@
 			"slug": "93411-80",
 			"surfaceArea": 294000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L01",
@@ -23834,7 +24604,17 @@
 			"slug": "93411-92",
 			"surfaceArea": 666000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L02",
@@ -24190,7 +24970,17 @@
 			"slug": "93411-90",
 			"surfaceArea": 551000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L03",
@@ -24380,7 +25170,17 @@
 			"slug": "93411-82",
 			"surfaceArea": 312000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L04",
@@ -24653,7 +25453,17 @@
 			"slug": "93411-78",
 			"surfaceArea": 294000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L01",
@@ -24988,7 +25798,17 @@
 			"slug": "93411-93",
 			"surfaceArea": 695000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L02",
@@ -25294,7 +26114,17 @@
 			"slug": "93411-86",
 			"surfaceArea": 414000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L03",
@@ -25484,7 +26314,17 @@
 			"slug": "93411-79",
 			"surfaceArea": 300000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L04",
@@ -25757,7 +26597,17 @@
 			"slug": "93411-89",
 			"surfaceArea": 405000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L01",
@@ -26092,7 +26942,17 @@
 			"slug": "93411-94",
 			"surfaceArea": 695000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L02",
@@ -26398,7 +27258,17 @@
 			"slug": "93411-88",
 			"surfaceArea": 414000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L03",
@@ -26588,7 +27458,17 @@
 			"slug": "93411-83",
 			"surfaceArea": 300000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L04",
@@ -26861,7 +27741,17 @@
 			"slug": "93411-87",
 			"surfaceArea": 405000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paris13-m9a/dollhouses/B3E4L04/4/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

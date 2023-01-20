@@ -912,7 +912,17 @@
 			"slug": "40831-37",
 			"surfaceArea": 739000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -1085,7 +1095,17 @@
 			"slug": "40831-10",
 			"surfaceArea": 434700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -1308,7 +1328,17 @@
 			"slug": "40831-36",
 			"surfaceArea": 661800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -1531,7 +1561,17 @@
 			"slug": "40831-38",
 			"surfaceArea": 661800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -1704,7 +1744,17 @@
 			"slug": "40831-9",
 			"surfaceArea": 439100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L06",
@@ -1977,7 +2027,17 @@
 			"slug": "40831-20",
 			"surfaceArea": 489700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L07",
@@ -2150,7 +2210,17 @@
 			"slug": "40831-2",
 			"surfaceArea": 299500,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L08",
@@ -2373,7 +2443,17 @@
 			"slug": "40831-13",
 			"surfaceArea": 483900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L08/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L08/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L09",
@@ -2638,7 +2718,17 @@
 			"slug": "40831-24",
 			"surfaceArea": 692700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L09/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L09/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L10",
@@ -2861,7 +2951,17 @@
 			"slug": "40831-40",
 			"surfaceArea": 880300,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L10/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L10/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L11",
@@ -3159,7 +3259,17 @@
 			"slug": "40831-5",
 			"surfaceArea": 486500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L11/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L11/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L12",
@@ -3482,7 +3592,17 @@
 			"slug": "40831-1",
 			"surfaceArea": 311300,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L12/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E1L12/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2C01",
@@ -4386,7 +4506,17 @@
 			"slug": "40831-27",
 			"surfaceArea": 739000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -4559,7 +4689,17 @@
 			"slug": "40831-22",
 			"surfaceArea": 434700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -4782,7 +4922,17 @@
 			"slug": "40831-28",
 			"surfaceArea": 661800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -5005,7 +5155,17 @@
 			"slug": "40831-29",
 			"surfaceArea": 661800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -5178,7 +5338,17 @@
 			"slug": "40831-23",
 			"surfaceArea": 439100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L06",
@@ -5451,7 +5621,17 @@
 			"slug": "40831-7",
 			"surfaceArea": 489000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L07",
@@ -5624,7 +5804,17 @@
 			"slug": "40831-3",
 			"surfaceArea": 299500,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L08",
@@ -5847,7 +6037,17 @@
 			"slug": "40831-6",
 			"surfaceArea": 483900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L09",
@@ -6112,7 +6312,17 @@
 			"slug": "40831-30",
 			"surfaceArea": 692700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L09/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L09/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L10",
@@ -6285,7 +6495,17 @@
 			"slug": "40831-14",
 			"surfaceArea": 470400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L10/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L10/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L11",
@@ -6458,7 +6678,17 @@
 			"slug": "40831-11",
 			"surfaceArea": 479500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L11/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L11/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L12",
@@ -6843,7 +7073,17 @@
 			"slug": "40831-32",
 			"surfaceArea": 680500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L12/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E2L12/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3C01",
@@ -7747,7 +7987,17 @@
 			"slug": "40831-31",
 			"surfaceArea": 739000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -7920,7 +8170,17 @@
 			"slug": "40831-15",
 			"surfaceArea": 434700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -8143,7 +8403,17 @@
 			"slug": "40831-34",
 			"surfaceArea": 661800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L04",
@@ -8366,7 +8636,17 @@
 			"slug": "40831-39",
 			"surfaceArea": 661800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L05",
@@ -8539,7 +8819,17 @@
 			"slug": "40831-17",
 			"surfaceArea": 439100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L06",
@@ -8812,7 +9102,17 @@
 			"slug": "40831-8",
 			"surfaceArea": 489700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L07",
@@ -8985,7 +9285,17 @@
 			"slug": "40831-4",
 			"surfaceArea": 299500,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L07/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L08",
@@ -9208,7 +9518,17 @@
 			"slug": "40831-16",
 			"surfaceArea": 483900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L08/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L08/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L09",
@@ -9473,7 +9793,17 @@
 			"slug": "40831-33",
 			"surfaceArea": 692700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L09/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L09/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L10",
@@ -9646,7 +9976,17 @@
 			"slug": "40831-19",
 			"surfaceArea": 470400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L10/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L10/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L11",
@@ -9819,7 +10159,17 @@
 			"slug": "40831-21",
 			"surfaceArea": 479500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L11/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L11/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L12",
@@ -10204,7 +10554,17 @@
 			"slug": "40831-25",
 			"surfaceArea": 680500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L12/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E3L12/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4C01",
@@ -10908,7 +11268,17 @@
 			"slug": "40831-35",
 			"surfaceArea": 728100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L02",
@@ -11181,7 +11551,17 @@
 			"slug": "40831-26",
 			"surfaceArea": 689900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L03",
@@ -11515,7 +11895,17 @@
 			"slug": "40831-42",
 			"surfaceArea": 868700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L04",
@@ -11750,7 +12140,17 @@
 			"slug": "40831-41",
 			"surfaceArea": 753700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L05",
@@ -12023,7 +12423,17 @@
 			"slug": "40831-12",
 			"surfaceArea": 489600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L06",
@@ -12402,7 +12812,17 @@
 			"slug": "40831-18",
 			"surfaceArea": 416800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/paray-vieille-poste-villa-lumea/dollhouses/B2E4L06/4/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

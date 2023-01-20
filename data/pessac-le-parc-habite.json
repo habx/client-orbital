@@ -250,7 +250,17 @@
 			"slug": "203086",
 			"surfaceArea": 939000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L02",
@@ -486,7 +496,17 @@
 			"slug": "203085",
 			"surfaceArea": 925000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L03",
@@ -809,7 +829,17 @@
 			"slug": "203084",
 			"surfaceArea": 470000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L04",
@@ -1107,7 +1137,17 @@
 			"slug": "203083",
 			"surfaceArea": 661000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L05",
@@ -1555,7 +1595,17 @@
 			"slug": "203082",
 			"surfaceArea": 653000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L01",
@@ -1779,7 +1829,17 @@
 			"slug": "203081",
 			"surfaceArea": 453000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L02",
@@ -2053,7 +2113,17 @@
 			"slug": "203080",
 			"surfaceArea": 454000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L03",
@@ -2327,7 +2397,17 @@
 			"slug": "203079",
 			"surfaceArea": 453000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L04",
@@ -2551,7 +2631,17 @@
 			"slug": "203078",
 			"surfaceArea": 450000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L05",
@@ -2800,7 +2890,17 @@
 			"slug": "203077",
 			"surfaceArea": 470000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L06",
@@ -3074,7 +3174,17 @@
 			"slug": "203076",
 			"surfaceArea": 661000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L07",
@@ -3448,7 +3558,17 @@
 			"slug": "203075",
 			"surfaceArea": 658000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L08",
@@ -3834,7 +3954,17 @@
 			"slug": "203074",
 			"surfaceArea": 455000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L08/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B3E1L08/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L01",
@@ -4238,7 +4368,17 @@
 			"slug": "203073",
 			"surfaceArea": 654000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L02",
@@ -4536,7 +4676,17 @@
 			"slug": "203072",
 			"surfaceArea": 661000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L03",
@@ -4803,7 +4953,17 @@
 			"slug": "203071",
 			"surfaceArea": 470000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L04",
@@ -5075,7 +5235,17 @@
 			"slug": "203070",
 			"surfaceArea": 936000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L05",
@@ -5329,7 +5499,17 @@
 			"slug": "203069",
 			"surfaceArea": 948000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L01",
@@ -5715,7 +5895,17 @@
 			"slug": "203068",
 			"surfaceArea": 463000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L02",
@@ -6089,7 +6279,17 @@
 			"slug": "203067",
 			"surfaceArea": 659000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L03",
@@ -6363,7 +6563,17 @@
 			"slug": "203066",
 			"surfaceArea": 656000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L04",
@@ -6612,7 +6822,17 @@
 			"slug": "203065",
 			"surfaceArea": 470000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L05",
@@ -6836,7 +7056,17 @@
 			"slug": "203064",
 			"surfaceArea": 908000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L06",
@@ -7110,7 +7340,17 @@
 			"slug": "203063",
 			"surfaceArea": 484000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L07",
@@ -7334,7 +7574,17 @@
 			"slug": "203062",
 			"surfaceArea": 453000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B4E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L01",
@@ -7558,7 +7808,17 @@
 			"slug": "203061",
 			"surfaceArea": 647000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L02",
@@ -7844,7 +8104,17 @@
 			"slug": "203060",
 			"surfaceArea": 841000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L03",
@@ -8142,7 +8412,17 @@
 			"slug": "203059",
 			"surfaceArea": 662000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L04",
@@ -8384,7 +8664,17 @@
 			"slug": "203058",
 			"surfaceArea": 456000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L01",
@@ -8658,7 +8948,17 @@
 			"slug": "203057",
 			"surfaceArea": 672000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L02",
@@ -8932,7 +9232,17 @@
 			"slug": "203056",
 			"surfaceArea": 652000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L03",
@@ -9206,7 +9516,17 @@
 			"slug": "203055",
 			"surfaceArea": 855000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L04",
@@ -9480,7 +9800,17 @@
 			"slug": "203054",
 			"surfaceArea": 837000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B5E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L01",
@@ -9704,7 +10034,17 @@
 			"slug": "203053",
 			"surfaceArea": 650000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L02",
@@ -9990,7 +10330,17 @@
 			"slug": "203052",
 			"surfaceArea": 836000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L03",
@@ -10276,7 +10626,17 @@
 			"slug": "203051",
 			"surfaceArea": 659000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L04",
@@ -10512,7 +10872,17 @@
 			"slug": "203050",
 			"surfaceArea": 465000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L01",
@@ -10786,7 +11156,17 @@
 			"slug": "203049",
 			"surfaceArea": 659000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L02",
@@ -11060,7 +11440,17 @@
 			"slug": "203048",
 			"surfaceArea": 652000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L03",
@@ -11334,7 +11724,17 @@
 			"slug": "203047",
 			"surfaceArea": 855000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L04",
@@ -11608,7 +12008,17 @@
 			"slug": "203046",
 			"surfaceArea": 837000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B6E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E0L01",
@@ -11850,7 +12260,17 @@
 			"slug": "203045",
 			"surfaceArea": 461000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E0L02",
@@ -12136,7 +12556,17 @@
 			"slug": "203044",
 			"surfaceArea": 659000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E0L03",
@@ -12410,7 +12840,17 @@
 			"slug": "203043",
 			"surfaceArea": 940000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E0L04",
@@ -12634,7 +13074,17 @@
 			"slug": "203042",
 			"surfaceArea": 857000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E1L01",
@@ -12908,7 +13358,17 @@
 			"slug": "203041",
 			"surfaceArea": 940000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E1L02",
@@ -13182,7 +13642,17 @@
 			"slug": "203040",
 			"surfaceArea": 949000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E1L03",
@@ -13456,7 +13926,17 @@
 			"slug": "203039",
 			"surfaceArea": 666000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E1L04",
@@ -13730,7 +14210,17 @@
 			"slug": "203038",
 			"surfaceArea": 660000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/pessac-le-parc-habite/dollhouses/B7E1L04/1/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

@@ -248,7 +248,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -488,7 +498,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -728,7 +748,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L04",
@@ -968,7 +998,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L05",
@@ -1158,7 +1198,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L06",
@@ -1348,7 +1398,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L01",
@@ -1588,7 +1648,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -1828,7 +1898,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -2068,7 +2148,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L04",
@@ -2308,7 +2398,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L05",
@@ -2498,7 +2598,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L06",
@@ -2688,7 +2798,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L01",
@@ -2928,7 +3048,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -3168,7 +3298,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -3408,7 +3548,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 5,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L04",
@@ -3598,7 +3748,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L05",
@@ -3788,7 +3948,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L06",
@@ -3978,7 +4148,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L01",
@@ -4363,7 +4543,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -4636,7 +4826,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L03",
@@ -4871,7 +5071,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B1E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L01",
@@ -5244,7 +5454,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L02",
@@ -5517,7 +5737,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L01",
@@ -5790,7 +6020,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -6030,7 +6270,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -6303,7 +6553,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L01",
@@ -6794,7 +7054,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -7247,7 +7517,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -7650,7 +7930,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bagnolet-ferry/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

@@ -1974,7 +1974,17 @@
 			"slug": "46011-23",
 			"surfaceArea": 665000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L07",
@@ -2493,7 +2503,17 @@
 			"slug": "46011-35",
 			"surfaceArea": 925000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3C01",
@@ -3459,7 +3479,17 @@
 			"slug": "46011-16",
 			"surfaceArea": 300000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -3732,7 +3762,17 @@
 			"slug": "46011-37",
 			"surfaceArea": 990000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -3955,7 +3995,17 @@
 			"slug": "46011-25",
 			"surfaceArea": 665000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L04",
@@ -4228,7 +4278,17 @@
 			"slug": "46011-24",
 			"surfaceArea": 885000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L05",
@@ -4401,7 +4461,17 @@
 			"slug": "46011-17",
 			"surfaceArea": 445000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L06",
@@ -4920,7 +4990,17 @@
 			"slug": "46011-36",
 			"surfaceArea": 925000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L07",
@@ -5305,7 +5385,17 @@
 			"slug": "46011-30",
 			"surfaceArea": 685000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L07/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L08",
@@ -5728,7 +5818,17 @@
 			"slug": "46011-19",
 			"surfaceArea": 455000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L08/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E3L08/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4C01",
@@ -6951,7 +7051,17 @@
 			"slug": "46011-38",
 			"surfaceArea": 1400000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -7224,7 +7334,17 @@
 			"slug": "46011-29",
 			"surfaceArea": 885000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L03",
@@ -7397,7 +7517,17 @@
 			"slug": "46011-21",
 			"surfaceArea": 445000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L04",
@@ -7916,7 +8046,17 @@
 			"slug": "46011-32",
 			"surfaceArea": 925000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L05",
@@ -8301,7 +8441,17 @@
 			"slug": "46011-31",
 			"surfaceArea": 685000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L06",
@@ -8724,7 +8874,17 @@
 			"slug": "46011-20",
 			"surfaceArea": 455000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E4L06/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5C01",
@@ -9936,7 +10096,17 @@
 			"slug": "46011-40",
 			"surfaceArea": 1400000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L02",
@@ -10209,7 +10379,17 @@
 			"slug": "46011-26",
 			"surfaceArea": 885000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L03",
@@ -10382,7 +10562,17 @@
 			"slug": "46011-22",
 			"surfaceArea": 445000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L04",
@@ -10901,7 +11091,17 @@
 			"slug": "46011-33",
 			"surfaceArea": 925000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L05",
@@ -11286,7 +11486,17 @@
 			"slug": "46011-27",
 			"surfaceArea": 685000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L05/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L05/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L06",
@@ -11659,7 +11869,17 @@
 			"slug": "46011-18",
 			"surfaceArea": 455000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L06/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E5L06/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6C01",
@@ -12932,7 +13152,17 @@
 			"slug": "46011-39",
 			"surfaceArea": 1400000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E6L01/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E6L01/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L02",
@@ -13239,7 +13469,17 @@
 			"slug": "46011-28",
 			"surfaceArea": 855000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E6L02/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E6L02/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L03",
@@ -13950,7 +14190,17 @@
 			"slug": "46011-41",
 			"surfaceArea": 1390000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E6L03/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E6L03/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L04",
@@ -14626,7 +14876,17 @@
 			"slug": "46011-34",
 			"surfaceArea": 1145000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E6L04/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/nice-gare-du-sud-villa-rossa/dollhouses/B1E6L04/6/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

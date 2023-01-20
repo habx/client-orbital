@@ -248,7 +248,17 @@
 			"slug": "92731-178",
 			"surfaceArea": 476000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -571,7 +581,17 @@
 			"slug": "92731-186",
 			"surfaceArea": 604100,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -711,7 +731,17 @@
 			"slug": "92731-173",
 			"surfaceArea": 477700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L04",
@@ -901,7 +931,17 @@
 			"slug": "92731-175",
 			"surfaceArea": 474500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L05",
@@ -1224,7 +1264,17 @@
 			"slug": "92731-190",
 			"surfaceArea": 600100,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L06",
@@ -1364,7 +1414,17 @@
 			"slug": "92731-172",
 			"surfaceArea": 497300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L07",
@@ -1637,7 +1697,17 @@
 			"slug": "92731-189",
 			"surfaceArea": 642500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L07/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L08",
@@ -1877,7 +1947,17 @@
 			"slug": "92731-168",
 			"surfaceArea": 304200,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L08/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E3L08/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L01",
@@ -2142,7 +2222,17 @@
 			"slug": "92731-177",
 			"surfaceArea": 472800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -2465,7 +2555,17 @@
 			"slug": "92731-184",
 			"surfaceArea": 604100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L03",
@@ -2605,7 +2705,17 @@
 			"slug": "92731-180",
 			"surfaceArea": 477700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L04",
@@ -2795,7 +2905,17 @@
 			"slug": "92731-170",
 			"surfaceArea": 474500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L05",
@@ -3118,7 +3238,17 @@
 			"slug": "92731-187",
 			"surfaceArea": 599900,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L06",
@@ -3258,7 +3388,17 @@
 			"slug": "92731-171",
 			"surfaceArea": 497300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L06/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L07",
@@ -3531,7 +3671,17 @@
 			"slug": "92731-185",
 			"surfaceArea": 642500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L07/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L07/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L08",
@@ -3771,7 +3921,17 @@
 			"slug": "92731-167",
 			"surfaceArea": 304200,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L08/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E4L08/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L01",
@@ -4036,7 +4196,17 @@
 			"slug": "92731-176",
 			"surfaceArea": 472800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L02",
@@ -4359,7 +4529,17 @@
 			"slug": "92731-182",
 			"surfaceArea": 604100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L03",
@@ -4499,7 +4679,17 @@
 			"slug": "92731-179",
 			"surfaceArea": 477700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L04",
@@ -4689,7 +4879,17 @@
 			"slug": "92731-181",
 			"surfaceArea": 474500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L05",
@@ -5012,7 +5212,17 @@
 			"slug": "92731-183",
 			"surfaceArea": 601000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L05/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L05/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L06",
@@ -5152,7 +5362,17 @@
 			"slug": "92731-174",
 			"surfaceArea": 497300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L06/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L06/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L07",
@@ -5425,7 +5645,17 @@
 			"slug": "92731-188",
 			"surfaceArea": 642500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L07/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L07/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L08",
@@ -5665,7 +5895,17 @@
 			"slug": "92731-169",
 			"surfaceArea": 304200,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L08/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B1E5L08/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L01",
@@ -5888,7 +6128,17 @@
 			"slug": "92731-57",
 			"surfaceArea": 718800,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -6111,7 +6361,17 @@
 			"slug": "92731-47",
 			"surfaceArea": 612200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -6359,7 +6619,17 @@
 			"slug": "92731-25",
 			"surfaceArea": 440800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -6682,7 +6952,17 @@
 			"slug": "92731-4",
 			"surfaceArea": 450600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L01",
@@ -6922,7 +7202,17 @@
 			"slug": "92731-61",
 			"surfaceArea": 669500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -7195,7 +7485,17 @@
 			"slug": "92731-56",
 			"surfaceArea": 618700,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -7385,7 +7685,17 @@
 			"slug": "92731-45",
 			"surfaceArea": 724100,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -7608,7 +7918,17 @@
 			"slug": "92731-46",
 			"surfaceArea": 610600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -7831,7 +8151,17 @@
 			"slug": "92731-13",
 			"surfaceArea": 438900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L06",
@@ -8121,7 +8451,17 @@
 			"slug": "92731-33",
 			"surfaceArea": 460200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L01",
@@ -8361,7 +8701,17 @@
 			"slug": "92731-54",
 			"surfaceArea": 669600,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -8634,7 +8984,17 @@
 			"slug": "92731-52",
 			"surfaceArea": 618700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -8824,7 +9184,17 @@
 			"slug": "92731-20",
 			"surfaceArea": 464600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L04",
@@ -8997,7 +9367,17 @@
 			"slug": "92731-6",
 			"surfaceArea": 475200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L05",
@@ -9320,7 +9700,17 @@
 			"slug": "92731-18",
 			"surfaceArea": 485300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L01",
@@ -9560,7 +9950,17 @@
 			"slug": "92731-36",
 			"surfaceArea": 669500,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L02",
@@ -9833,7 +10233,17 @@
 			"slug": "92731-37",
 			"surfaceArea": 622600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L03",
@@ -10206,7 +10616,17 @@
 			"slug": "92731-65",
 			"surfaceArea": 948400,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B2E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L01",
@@ -10529,7 +10949,17 @@
 			"slug": "92731-39",
 			"surfaceArea": 644600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L02",
@@ -10802,7 +11232,17 @@
 			"slug": "92731-42",
 			"surfaceArea": 574100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L03",
@@ -11025,7 +11465,17 @@
 			"slug": "92731-35",
 			"surfaceArea": 625800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L04",
@@ -11198,7 +11648,17 @@
 			"slug": "92731-16",
 			"surfaceArea": 440000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L05",
@@ -11471,7 +11931,17 @@
 			"slug": "92731-53",
 			"surfaceArea": 668400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L06",
@@ -11694,7 +12164,17 @@
 			"slug": "92731-10",
 			"surfaceArea": 448300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L07",
@@ -11992,7 +12472,17 @@
 			"slug": "92731-5",
 			"surfaceArea": 491200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L01",
@@ -12282,7 +12772,17 @@
 			"slug": "92731-41",
 			"surfaceArea": 644400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L02",
@@ -12555,7 +13055,17 @@
 			"slug": "92731-44",
 			"surfaceArea": 579700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L03",
@@ -12745,7 +13255,17 @@
 			"slug": "92731-34",
 			"surfaceArea": 623200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L04",
@@ -12885,7 +13405,17 @@
 			"slug": "92731-8",
 			"surfaceArea": 436400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L05",
@@ -13194,7 +13724,17 @@
 			"slug": "92731-40",
 			"surfaceArea": 663400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L06",
@@ -13384,7 +13924,17 @@
 			"slug": "92731-11",
 			"surfaceArea": 444900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L07",
@@ -13624,7 +14174,17 @@
 			"slug": "92731-30",
 			"surfaceArea": 487400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L01",
@@ -13914,7 +14474,17 @@
 			"slug": "92731-38",
 			"surfaceArea": 644300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L02",
@@ -14187,7 +14757,17 @@
 			"slug": "92731-43",
 			"surfaceArea": 578800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L03",
@@ -14377,7 +14957,17 @@
 			"slug": "92731-49",
 			"surfaceArea": 623400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L04",
@@ -14650,7 +15240,17 @@
 			"slug": "92731-67",
 			"surfaceArea": 1046100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L05",
@@ -14890,7 +15490,17 @@
 			"slug": "92731-7",
 			"surfaceArea": 487400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L01",
@@ -15180,7 +15790,17 @@
 			"slug": "92731-48",
 			"surfaceArea": 766900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L02",
@@ -15553,7 +16173,17 @@
 			"slug": "92731-66",
 			"surfaceArea": 943300,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E4L03",
@@ -15876,7 +16506,17 @@
 			"slug": "92731-69",
 			"surfaceArea": 885600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B3E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L01",
@@ -16099,7 +16739,17 @@
 			"slug": "92731-14",
 			"surfaceArea": 425900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L02",
@@ -16539,7 +17189,17 @@
 			"slug": "92731-70",
 			"surfaceArea": 858400,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L03",
@@ -17002,7 +17662,17 @@
 			"slug": "92731-68",
 			"surfaceArea": 905100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L04",
@@ -17225,7 +17895,17 @@
 			"slug": "92731-23",
 			"surfaceArea": 415700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L01",
@@ -17448,7 +18128,17 @@
 			"slug": "92731-31",
 			"surfaceArea": 425200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L02",
@@ -17671,7 +18361,17 @@
 			"slug": "92731-19",
 			"surfaceArea": 422600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/angers-cloitre-des-capucins/dollhouses/B4E1L02/1/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

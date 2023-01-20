@@ -423,7 +423,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L01/10/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L01/10/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E10L02",
@@ -663,7 +673,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L02/10/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L02/10/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E10L03",
@@ -903,7 +923,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L03/10/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L03/10/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E10L04",
@@ -1193,7 +1223,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L04/10/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L04/10/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E10L05",
@@ -1433,7 +1473,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L05/10/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L05/10/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E10L23",
@@ -1673,7 +1723,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L23/10/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E10L23/10/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E11L01",
@@ -2088,7 +2148,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E11L01/11/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E11L01/11/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E11L02",
@@ -2385,7 +2455,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E11L02/11/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E11L02/11/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E11L03",
@@ -2682,7 +2762,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E11L03/11/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E11L03/11/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E12L01",
@@ -3097,7 +3187,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E12L01/12/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E12L01/12/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E12L02",
@@ -3337,7 +3437,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E12L02/12/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E12L02/12/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E12L03",
@@ -3577,7 +3687,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E12L03/12/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B1E12L03/12/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E10L01",
@@ -3817,7 +3937,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E10L01/10/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E10L01/10/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E10L02",
@@ -3957,7 +4087,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E10L02/10/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E10L02/10/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E10L03",
@@ -4097,7 +4237,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E10L03/10/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E10L03/10/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E10L04",
@@ -4487,7 +4637,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E10L04/10/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E10L04/10/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E11L01",
@@ -4727,7 +4887,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E11L01/11/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E11L01/11/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E11L02",
@@ -4867,7 +5037,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E11L02/11/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E11L02/11/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E11L03",
@@ -5007,7 +5187,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E11L03/11/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E11L03/11/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E11L04",
@@ -5397,7 +5587,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E11L04/11/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E11L04/11/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E12L01",
@@ -5637,7 +5837,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E12L01/12/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E12L01/12/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E12L02",
@@ -5777,7 +5987,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E12L02/12/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E12L02/12/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E12L03",
@@ -5917,7 +6137,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E12L03/12/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E12L03/12/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E12L04",
@@ -6257,7 +6487,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E12L04/12/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E12L04/12/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E13L01",
@@ -6447,7 +6687,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L01/13/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L01/13/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E13L02",
@@ -6637,7 +6887,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L02/13/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L02/13/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E13L03",
@@ -6827,7 +7087,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L03/13/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L03/13/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E13L04",
@@ -7074,7 +7344,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L04/13/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L04/13/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E13L05",
@@ -7496,7 +7776,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L05/13/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L05/13/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E13L06",
@@ -7736,7 +8026,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L06/13/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E13L06/13/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E14L01",
@@ -7926,7 +8226,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L01/14/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L01/14/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E14L02",
@@ -8116,7 +8426,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L02/14/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L02/14/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E14L03",
@@ -8306,7 +8626,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L03/14/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L03/14/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E14L04",
@@ -8496,7 +8826,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L04/14/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L04/14/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E14L05",
@@ -8861,7 +9201,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L05/14/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L05/14/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E14L06",
@@ -9101,7 +9451,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L06/14/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L06/14/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E14L34",
@@ -9366,7 +9726,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L34/14/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E14L34/14/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E15L01",
@@ -9556,7 +9926,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E15L01/15/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E15L01/15/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E15L02",
@@ -9796,7 +10176,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E15L02/15/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E15L02/15/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E15L03",
@@ -10168,7 +10558,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E15L03/15/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E15L03/15/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E15L04",
@@ -10490,7 +10890,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E15L04/15/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E15L04/15/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E16L01",
@@ -10680,7 +11090,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E16L01/16/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E16L01/16/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E16L02",
@@ -10920,7 +11340,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E16L02/16/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E16L02/16/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E16L03",
@@ -11285,7 +11715,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E16L03/16/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E16L03/16/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E16L04",
@@ -11600,7 +12040,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E16L04/16/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E16L04/16/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E17L01",
@@ -11840,7 +12290,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E17L01/17/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E17L01/17/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E17L02",
@@ -11980,7 +12440,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E17L02/17/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E17L02/17/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E17L03",
@@ -12301,7 +12771,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E17L03/17/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E17L03/17/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E17L23",
@@ -12622,7 +13102,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E17L23/17/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rennes-beaumont/dollhouses/B2E17L23/17/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

@@ -14499,7 +14499,17 @@
 			"slug": "28761-00012",
 			"surfaceArea": 525100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -14935,7 +14945,17 @@
 			"slug": "28761-00032",
 			"surfaceArea": 985700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -15259,7 +15279,17 @@
 			"slug": "28761-00019",
 			"surfaceArea": 597900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -15633,7 +15663,17 @@
 			"slug": "28761-00007",
 			"surfaceArea": 391000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -15907,7 +15947,17 @@
 			"slug": "28761-00033",
 			"surfaceArea": 838400,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L06",
@@ -16131,7 +16181,17 @@
 			"slug": "28761-00020",
 			"surfaceArea": 627100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L07",
@@ -16455,7 +16515,17 @@
 			"slug": "28761-00011",
 			"surfaceArea": 485100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L08",
@@ -16779,7 +16849,17 @@
 			"slug": "28761-00018",
 			"surfaceArea": 649700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L08/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L08/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L09",
@@ -17003,7 +17083,17 @@
 			"slug": "28761-00017",
 			"surfaceArea": 674900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L09/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E1L09/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L01",
@@ -17327,7 +17417,17 @@
 			"slug": "28761-00010",
 			"surfaceArea": 525100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -17763,7 +17863,17 @@
 			"slug": "28761-00035",
 			"surfaceArea": 985700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -18087,7 +18197,17 @@
 			"slug": "28761-00027",
 			"surfaceArea": 597900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -18461,7 +18581,17 @@
 			"slug": "28761-00006",
 			"surfaceArea": 391000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -18735,7 +18865,17 @@
 			"slug": "28761-00039",
 			"surfaceArea": 838400,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L06",
@@ -19281,7 +19421,17 @@
 			"slug": "28761-00013",
 			"surfaceArea": 485100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L08",
@@ -19605,7 +19755,17 @@
 			"slug": "28761-00029",
 			"surfaceArea": 649700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L09",
@@ -19829,7 +19989,17 @@
 			"slug": "28761-00023",
 			"surfaceArea": 676500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L09/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E2L09/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L01",
@@ -20153,7 +20323,17 @@
 			"slug": "28761-00015",
 			"surfaceArea": 525100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -20589,7 +20769,17 @@
 			"slug": "28761-00036",
 			"surfaceArea": 985700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -20913,7 +21103,17 @@
 			"slug": "28761-00026",
 			"surfaceArea": 597900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L04",
@@ -21287,7 +21487,17 @@
 			"slug": "28761-00004",
 			"surfaceArea": 391000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L05",
@@ -21561,7 +21771,17 @@
 			"slug": "28761-00038",
 			"surfaceArea": 838400,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L06",
@@ -21885,7 +22105,17 @@
 			"slug": "28761-00009",
 			"surfaceArea": 448400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L07",
@@ -22448,7 +22678,17 @@
 			"slug": "28761-00003",
 			"surfaceArea": 362600,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L08/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L08/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L09",
@@ -22772,7 +23012,17 @@
 			"slug": "28761-00028",
 			"surfaceArea": 648800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L09/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L09/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L10",
@@ -22996,7 +23246,17 @@
 			"slug": "28761-00030",
 			"surfaceArea": 676300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L10/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E3L10/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L01",
@@ -23392,7 +23652,17 @@
 			"slug": "28761-00040",
 			"surfaceArea": 833600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L02",
@@ -23984,7 +24254,17 @@
 			"slug": "28761-00034",
 			"surfaceArea": 832900,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L04",
@@ -24308,7 +24588,17 @@
 			"slug": "28761-00016",
 			"surfaceArea": 489600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L05",
@@ -24850,7 +25140,17 @@
 			"slug": "28761-00042",
 			"surfaceArea": 1136300,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L05/4_5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L05/4_5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L06",
@@ -25336,7 +25636,17 @@
 			"slug": "28761-00041",
 			"surfaceArea": 1127900,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L06/4_5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L06/4_5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L07",
@@ -25660,7 +25970,17 @@
 			"slug": "28761-00014",
 			"surfaceArea": 469600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L07/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-l-imperiale/dollhouses/B2E4L07/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0C01",

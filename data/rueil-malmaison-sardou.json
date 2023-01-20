@@ -9982,7 +9982,17 @@
 			"slug": "32601-110",
 			"surfaceArea": 657900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L02",
@@ -10285,7 +10295,17 @@
 			"slug": "32601-115",
 			"surfaceArea": 598600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L03",
@@ -10570,7 +10590,17 @@
 			"slug": "32601-100",
 			"surfaceArea": 472000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L04",
@@ -10867,7 +10897,17 @@
 			"slug": "32601-118",
 			"surfaceArea": 639400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L05",
@@ -11200,7 +11240,17 @@
 			"slug": "32601-109",
 			"surfaceArea": 421600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L06",
@@ -11373,7 +11423,17 @@
 			"slug": "32601-116",
 			"surfaceArea": 582800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L06/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L06/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L07",
@@ -11658,7 +11718,17 @@
 			"slug": "32601-93",
 			"surfaceArea": 336700,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L07/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L07/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L08",
@@ -12055,7 +12125,17 @@
 			"slug": "32601-119",
 			"surfaceArea": 630000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L08/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L08/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L09",
@@ -12328,7 +12408,17 @@
 			"slug": "32601-101",
 			"surfaceArea": 476300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L09/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E0L09/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L01",
@@ -12684,7 +12774,17 @@
 			"slug": "32601-113",
 			"surfaceArea": 716300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -12957,7 +13057,17 @@
 			"slug": "32601-105",
 			"surfaceArea": 450400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -13240,7 +13350,17 @@
 			"slug": "32601-124",
 			"surfaceArea": 835700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -13605,7 +13725,17 @@
 			"slug": "32601-103",
 			"surfaceArea": 474100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -13878,7 +14008,17 @@
 			"slug": "32601-117",
 			"surfaceArea": 698100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L06",
@@ -14179,7 +14319,17 @@
 			"slug": "32601-102",
 			"surfaceArea": 400900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L07",
@@ -14352,7 +14502,17 @@
 			"slug": "32601-96",
 			"surfaceArea": 287300,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L08",
@@ -14573,7 +14733,17 @@
 			"slug": "32601-126",
 			"surfaceArea": 939200,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L08/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L08/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L09",
@@ -14788,7 +14958,17 @@
 			"slug": "32601-106",
 			"surfaceArea": 410300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L09/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L09/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L10",
@@ -15192,7 +15372,17 @@
 			"slug": "32601-95",
 			"surfaceArea": 282400,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L10/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E1L10/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L01",
@@ -15515,7 +15705,17 @@
 			"slug": "32601-114",
 			"surfaceArea": 716300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -15755,7 +15955,17 @@
 			"slug": "32601-104",
 			"surfaceArea": 450500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -16083,7 +16293,17 @@
 			"slug": "32601-121",
 			"surfaceArea": 835700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -16442,7 +16662,17 @@
 			"slug": "32601-98",
 			"surfaceArea": 474100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -16715,7 +16945,17 @@
 			"slug": "32601-120",
 			"surfaceArea": 700100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L06",
@@ -16938,7 +17178,17 @@
 			"slug": "32601-108",
 			"surfaceArea": 400900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L07",
@@ -17111,7 +17361,17 @@
 			"slug": "32601-94",
 			"surfaceArea": 286800,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L08",
@@ -17332,7 +17592,17 @@
 			"slug": "32601-127",
 			"surfaceArea": 939300,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L09",
@@ -17547,7 +17817,17 @@
 			"slug": "32601-99",
 			"surfaceArea": 409700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L09/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L09/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L10",
@@ -17951,7 +18231,17 @@
 			"slug": "32601-97",
 			"surfaceArea": 281400,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L10/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E2L10/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L01",
@@ -18248,7 +18538,17 @@
 			"slug": "32601-112",
 			"surfaceArea": 693300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -18457,7 +18757,17 @@
 			"slug": "32601-111",
 			"surfaceArea": 594700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -18835,7 +19145,17 @@
 			"slug": "32601-123",
 			"surfaceArea": 897500,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L04",
@@ -19158,7 +19478,17 @@
 			"slug": "32601-122",
 			"surfaceArea": 826200,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L05",
@@ -19381,7 +19711,17 @@
 			"slug": "32601-107",
 			"surfaceArea": 433300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L06",
@@ -19602,7 +19942,17 @@
 			"slug": "32601-128",
 			"surfaceArea": 939200,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L07",
@@ -19887,7 +20237,17 @@
 			"slug": "32601-125",
 			"surfaceArea": 872500,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/rueil-malmaison-sardou/dollhouses/B2E3L07/3/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

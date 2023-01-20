@@ -743,7 +743,17 @@
 			"slug": "79111-24",
 			"surfaceArea": 676000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -933,7 +943,17 @@
 			"slug": "79111-38",
 			"surfaceArea": 684000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -1123,7 +1143,17 @@
 			"slug": "79111-14",
 			"surfaceArea": 451000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L05",
@@ -1413,7 +1443,17 @@
 			"slug": "79111-8",
 			"surfaceArea": 498000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L06",
@@ -1603,7 +1643,17 @@
 			"slug": "79111-52",
 			"surfaceArea": 251000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L07",
@@ -1776,7 +1826,17 @@
 			"slug": "79111-39",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L08",
@@ -1949,7 +2009,17 @@
 			"slug": "79111-41",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L08/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L08/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L09",
@@ -2272,7 +2342,17 @@
 			"slug": "79111-7",
 			"surfaceArea": 549000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L09/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E1L09/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2C01",
@@ -3138,7 +3218,17 @@
 			"slug": "79111-27",
 			"surfaceArea": 676000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -3361,7 +3451,17 @@
 			"slug": "79111-26",
 			"surfaceArea": 684000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -3551,7 +3651,17 @@
 			"slug": "79111-2",
 			"surfaceArea": 451000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L05",
@@ -3841,7 +3951,17 @@
 			"slug": "79111-4",
 			"surfaceArea": 498000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L06",
@@ -4031,7 +4151,17 @@
 			"slug": "79111-51",
 			"surfaceArea": 251000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L08",
@@ -4204,7 +4334,17 @@
 			"slug": "79111-40",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L09",
@@ -4494,7 +4634,17 @@
 			"slug": "79111-6",
 			"surfaceArea": 549000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L09/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E2L09/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3C01",
@@ -5510,7 +5660,17 @@
 			"slug": "79111-22",
 			"surfaceArea": 676000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -5733,7 +5893,17 @@
 			"slug": "79111-20",
 			"surfaceArea": 684000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -5923,7 +6093,17 @@
 			"slug": "79111-16",
 			"surfaceArea": 451000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L05",
@@ -6213,7 +6393,17 @@
 			"slug": "79111-17",
 			"surfaceArea": 498000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L06",
@@ -6403,7 +6593,17 @@
 			"slug": "79111-50",
 			"surfaceArea": 251000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L07",
@@ -6576,7 +6776,17 @@
 			"slug": "79111-42",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L07/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L08",
@@ -6749,7 +6959,17 @@
 			"slug": "79111-43",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L08/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E3L08/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4C01",
@@ -7765,7 +7985,17 @@
 			"slug": "79111-44",
 			"surfaceArea": 676000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -7955,7 +8185,17 @@
 			"slug": "79111-45",
 			"surfaceArea": 684000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L03",
@@ -8145,7 +8385,17 @@
 			"slug": "79111-15",
 			"surfaceArea": 451000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L06",
@@ -8335,7 +8585,17 @@
 			"slug": "79111-49",
 			"surfaceArea": 251000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L06/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L07",
@@ -8508,7 +8768,17 @@
 			"slug": "79111-21",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L07/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L07/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L08",
@@ -8681,7 +8951,17 @@
 			"slug": "79111-37",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L08/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L08/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L09",
@@ -8971,7 +9251,17 @@
 			"slug": "79111-11",
 			"surfaceArea": 549000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L09/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E4L09/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5C01",
@@ -10018,7 +10308,17 @@
 			"slug": "79111-31",
 			"surfaceArea": 676000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L02",
@@ -10241,7 +10541,17 @@
 			"slug": "79111-25",
 			"surfaceArea": 684000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L05",
@@ -10531,7 +10841,17 @@
 			"slug": "79111-18",
 			"surfaceArea": 498000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L05/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L05/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L06",
@@ -10721,7 +11041,17 @@
 			"slug": "79111-48",
 			"surfaceArea": 251000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L06/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L06/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L07",
@@ -10894,7 +11224,17 @@
 			"slug": "79111-19",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L07/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L07/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L09",
@@ -11184,7 +11524,17 @@
 			"slug": "79111-9",
 			"surfaceArea": 549000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L09/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E5L09/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6C01",
@@ -12331,7 +12681,17 @@
 			"slug": "79111-23",
 			"surfaceArea": 676000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L01/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L01/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L02",
@@ -12554,7 +12914,17 @@
 			"slug": "79111-29",
 			"surfaceArea": 684000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L02/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L02/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L03",
@@ -12744,7 +13114,17 @@
 			"slug": "79111-3",
 			"surfaceArea": 451000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L03/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L03/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L06",
@@ -12934,7 +13314,17 @@
 			"slug": "79111-47",
 			"surfaceArea": 251000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L06/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L06/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L08",
@@ -13074,7 +13464,17 @@
 			"slug": "79111-32",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L08/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L08/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E6L09",
@@ -13364,7 +13764,17 @@
 			"slug": "79111-12",
 			"surfaceArea": 549000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L09/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E6L09/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7C01",
@@ -14099,7 +14509,17 @@
 			"slug": "79111-36",
 			"surfaceArea": 676000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L01/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L01/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L02",
@@ -14322,7 +14742,17 @@
 			"slug": "79111-28",
 			"surfaceArea": 684000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L02/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L02/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L03",
@@ -14512,7 +14942,17 @@
 			"slug": "79111-5",
 			"surfaceArea": 451000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L03/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L03/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L05",
@@ -14802,7 +15242,17 @@
 			"slug": "79111-13",
 			"surfaceArea": 498000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L05/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L05/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L06",
@@ -14992,7 +15442,17 @@
 			"slug": "79111-53",
 			"surfaceArea": 251000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L06/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L06/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L07",
@@ -15165,7 +15625,17 @@
 			"slug": "79111-35",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L07/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L07/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L08",
@@ -15338,7 +15808,17 @@
 			"slug": "79111-34",
 			"surfaceArea": 670000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L08/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L08/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E7L09",
@@ -15628,7 +16108,17 @@
 			"slug": "79111-1",
 			"surfaceArea": 549000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L09/7/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E7L09/7/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8C01",
@@ -16163,7 +16653,17 @@
 			"slug": "79111-46",
 			"surfaceArea": 295000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E8L01/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E8L01/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8L02",
@@ -16386,7 +16886,17 @@
 			"slug": "79111-33",
 			"surfaceArea": 676000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E8L02/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E8L02/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8L03",
@@ -16609,7 +17119,17 @@
 			"slug": "79111-30",
 			"surfaceArea": 684000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E8L03/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E8L03/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8L04",
@@ -16799,7 +17319,17 @@
 			"slug": "79111-10",
 			"surfaceArea": 451000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E8L04/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E8L04/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E8L06",
@@ -17122,7 +17652,17 @@
 			"slug": "79111-56",
 			"surfaceArea": 498000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E8L06/8/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E8L06/8/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E9C01",
@@ -17526,7 +18066,17 @@
 			"slug": "79111-57",
 			"surfaceArea": 804000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E9L01/9/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E9L01/9/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E9L02",
@@ -17766,7 +18316,17 @@
 			"slug": "79111-55",
 			"surfaceArea": 483000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E9L02/9/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E9L02/9/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E9L03",
@@ -18056,7 +18616,17 @@
 			"slug": "79111-54",
 			"surfaceArea": 498000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E9L03/9/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/romainville-gaston-roussel/dollhouses/B1E9L03/9/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

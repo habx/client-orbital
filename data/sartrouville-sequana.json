@@ -193,7 +193,17 @@
 			"slug": "95301-22",
 			"surfaceArea": 424000,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L02",
@@ -446,7 +456,17 @@
 			"slug": "95301-23",
 			"surfaceArea": 477000,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L03",
@@ -655,7 +675,17 @@
 			"slug": "95301-25",
 			"surfaceArea": 457000,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L04",
@@ -884,7 +914,17 @@
 			"slug": "95301-20",
 			"surfaceArea": 467000,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L01",
@@ -1119,7 +1159,17 @@
 			"slug": "95301-24",
 			"surfaceArea": 439000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L02",
@@ -1392,7 +1442,17 @@
 			"slug": "95301-27",
 			"surfaceArea": 667000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L03",
@@ -1665,7 +1725,17 @@
 			"slug": "95301-30",
 			"surfaceArea": 616000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L01",
@@ -1900,7 +1970,17 @@
 			"slug": "95301-21",
 			"surfaceArea": 438000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L02",
@@ -2173,7 +2253,17 @@
 			"slug": "95301-26",
 			"surfaceArea": 667000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L03",
@@ -2446,7 +2536,17 @@
 			"slug": "95301-28",
 			"surfaceArea": 616000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L01",
@@ -2719,7 +2819,17 @@
 			"slug": "95301-31",
 			"surfaceArea": 578000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L02",
@@ -2992,7 +3102,17 @@
 			"slug": "95301-29",
 			"surfaceArea": 628000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B3E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L01",
@@ -3215,7 +3335,17 @@
 			"slug": "95301-48",
 			"surfaceArea": 435000,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B5E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B5E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L02",
@@ -3462,7 +3592,17 @@
 			"slug": "95301-49",
 			"surfaceArea": 428000,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B5E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B5E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L04",
@@ -3735,7 +3875,17 @@
 			"slug": "95301-47",
 			"surfaceArea": 430000,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B5E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B5E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L03",
@@ -4008,7 +4158,17 @@
 			"slug": "95301-50",
 			"surfaceArea": 457000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B5E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B5E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L02",
@@ -4438,7 +4598,17 @@
 			"slug": "95301-51",
 			"surfaceArea": 655000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B5E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B5E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L01",
@@ -4685,7 +4855,17 @@
 			"slug": "95301-41",
 			"surfaceArea": 629000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L02",
@@ -4944,7 +5124,17 @@
 			"slug": "95301-33",
 			"surfaceArea": 427000,
 			"typology": 2,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L03",
@@ -5383,7 +5573,17 @@
 			"slug": "95301-39",
 			"surfaceArea": 678000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L05",
@@ -5801,7 +6001,17 @@
 			"slug": "95301-45",
 			"surfaceArea": 638000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L01",
@@ -6036,7 +6246,17 @@
 			"slug": "95301-44",
 			"surfaceArea": 630000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L02",
@@ -6259,7 +6479,17 @@
 			"slug": "95301-32",
 			"surfaceArea": 427000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L03",
@@ -6632,7 +6862,17 @@
 			"slug": "95301-43",
 			"surfaceArea": 679000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L04",
@@ -6905,7 +7145,17 @@
 			"slug": "95301-34",
 			"surfaceArea": 482000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L05",
@@ -7278,7 +7528,17 @@
 			"slug": "95301-42",
 			"surfaceArea": 638000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L01",
@@ -7513,7 +7773,17 @@
 			"slug": "95301-40",
 			"surfaceArea": 630000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L03",
@@ -7886,7 +8156,17 @@
 			"slug": "95301-38",
 			"surfaceArea": 679000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L05",
@@ -8209,7 +8489,17 @@
 			"slug": "95301-37",
 			"surfaceArea": 638000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L01",
@@ -8444,7 +8734,17 @@
 			"slug": "95301-35",
 			"surfaceArea": 701000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L02",
@@ -8850,7 +9150,17 @@
 			"slug": "95301-46",
 			"surfaceArea": 825000,
 			"typology": 4,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L03",
@@ -9123,7 +9433,17 @@
 			"slug": "95301-36",
 			"surfaceArea": 666000,
 			"typology": 3,
-			"vat": 0.055
+			"vat": 0.055,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/sartrouville-sequana/dollhouses/B6E3L03/3/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

@@ -281,7 +281,17 @@
 			"slug": "88381-1",
 			"surfaceArea": 917200,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L02",
@@ -554,7 +564,17 @@
 			"slug": "88381-61",
 			"surfaceArea": 671000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L03",
@@ -727,7 +747,17 @@
 			"slug": "88381-103",
 			"surfaceArea": 436900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L04",
@@ -900,7 +930,17 @@
 			"slug": "88381-95",
 			"surfaceArea": 436900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L05",
@@ -1123,7 +1163,17 @@
 			"slug": "88381-96",
 			"surfaceArea": 446100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L06",
@@ -1346,7 +1396,17 @@
 			"slug": "88381-102",
 			"surfaceArea": 506400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E1L07",
@@ -1669,7 +1729,17 @@
 			"slug": "88381-59",
 			"surfaceArea": 666700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L01",
@@ -1942,7 +2012,17 @@
 			"slug": "88381-3",
 			"surfaceArea": 916100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L02",
@@ -2215,7 +2295,17 @@
 			"slug": "88381-58",
 			"surfaceArea": 671000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L03",
@@ -2388,7 +2478,17 @@
 			"slug": "88381-97",
 			"surfaceArea": 436900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L04",
@@ -2561,7 +2661,17 @@
 			"slug": "88381-101",
 			"surfaceArea": 436900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L05",
@@ -2784,7 +2894,17 @@
 			"slug": "88381-85",
 			"surfaceArea": 446000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L06",
@@ -3007,7 +3127,17 @@
 			"slug": "88381-100",
 			"surfaceArea": 506600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E2L07",
@@ -3330,7 +3460,17 @@
 			"slug": "88381-57",
 			"surfaceArea": 667300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L01",
@@ -3686,7 +3826,17 @@
 			"slug": "88381-4",
 			"surfaceArea": 821800,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L02",
@@ -4066,7 +4216,17 @@
 			"slug": "88381-5",
 			"surfaceArea": 883000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L03",
@@ -4239,7 +4399,17 @@
 			"slug": "88381-94",
 			"surfaceArea": 472000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E3L04",
@@ -4512,7 +4682,17 @@
 			"slug": "88381-86",
 			"surfaceArea": 469000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L01",
@@ -4835,7 +5015,17 @@
 			"slug": "88381-87",
 			"surfaceArea": 443500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L02",
@@ -5265,7 +5455,17 @@
 			"slug": "88381-7",
 			"surfaceArea": 947100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L03",
@@ -5538,7 +5738,17 @@
 			"slug": "88381-56",
 			"surfaceArea": 630500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E4L04",
@@ -5811,7 +6021,17 @@
 			"slug": "88381-74",
 			"surfaceArea": 473500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B1E5L01",
@@ -6296,7 +6516,17 @@
 			"slug": "88381-30",
 			"surfaceArea": 1096700,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B1E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L01",
@@ -6531,7 +6761,17 @@
 			"slug": "88381-259",
 			"surfaceArea": 460800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L02",
@@ -6716,7 +6956,17 @@
 			"slug": "88381-264",
 			"surfaceArea": 634900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L03",
@@ -6913,7 +7163,17 @@
 			"slug": "88381-265",
 			"surfaceArea": 873300,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L01",
@@ -7136,7 +7396,17 @@
 			"slug": "88381-261",
 			"surfaceArea": 645000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -7309,7 +7579,17 @@
 			"slug": "88381-260",
 			"surfaceArea": 643700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -7482,7 +7762,17 @@
 			"slug": "88381-267",
 			"surfaceArea": 875700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L01",
@@ -7705,7 +7995,17 @@
 			"slug": "88381-262",
 			"surfaceArea": 645000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -7878,7 +8178,17 @@
 			"slug": "88381-263",
 			"surfaceArea": 643500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -8051,7 +8361,17 @@
 			"slug": "88381-266",
 			"surfaceArea": 875300,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L01",
@@ -8398,7 +8718,17 @@
 			"slug": "88381-268",
 			"surfaceArea": 994900,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B2E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L01",
@@ -8595,7 +8925,17 @@
 			"slug": "88381-269",
 			"surfaceArea": 875000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L02",
@@ -8780,7 +9120,17 @@
 			"slug": "88381-274",
 			"surfaceArea": 632400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L03",
@@ -9015,7 +9365,17 @@
 			"slug": "88381-277",
 			"surfaceArea": 463900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L01",
@@ -9188,7 +9548,17 @@
 			"slug": "88381-271",
 			"surfaceArea": 875200,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L02",
@@ -9361,7 +9731,17 @@
 			"slug": "88381-272",
 			"surfaceArea": 643900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L03",
@@ -9609,7 +9989,17 @@
 			"slug": "88381-273",
 			"surfaceArea": 645000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L01",
@@ -9782,7 +10172,17 @@
 			"slug": "88381-270",
 			"surfaceArea": 874800,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L02",
@@ -9955,7 +10355,17 @@
 			"slug": "88381-276",
 			"surfaceArea": 643500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L03",
@@ -10203,7 +10613,17 @@
 			"slug": "88381-275",
 			"surfaceArea": 645000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E3L01",
@@ -10550,7 +10970,17 @@
 			"slug": "88381-278",
 			"surfaceArea": 1000700,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B3E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L01",
@@ -10785,7 +11215,17 @@
 			"slug": "88381-283",
 			"surfaceArea": 480600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L02",
@@ -11008,7 +11448,17 @@
 			"slug": "88381-287",
 			"surfaceArea": 425800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L03",
@@ -11193,7 +11643,17 @@
 			"slug": "88381-291",
 			"surfaceArea": 638400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L04",
@@ -11434,7 +11894,17 @@
 			"slug": "88381-290",
 			"surfaceArea": 630700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L05",
@@ -11719,7 +12189,17 @@
 			"slug": "88381-296",
 			"surfaceArea": 909200,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L06",
@@ -11892,7 +12372,17 @@
 			"slug": "88381-279",
 			"surfaceArea": 411000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L06/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E0L06/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L01",
@@ -12115,7 +12605,17 @@
 			"slug": "88381-282",
 			"surfaceArea": 480600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L02",
@@ -12338,7 +12838,17 @@
 			"slug": "88381-281",
 			"surfaceArea": 425800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L03",
@@ -12511,7 +13021,17 @@
 			"slug": "88381-292",
 			"surfaceArea": 643800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L04",
@@ -12834,7 +13354,17 @@
 			"slug": "88381-294",
 			"surfaceArea": 869000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L05",
@@ -13107,7 +13637,17 @@
 			"slug": "88381-295",
 			"surfaceArea": 860100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L06",
@@ -13280,7 +13820,17 @@
 			"slug": "88381-280",
 			"surfaceArea": 411000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L01",
@@ -13503,7 +14053,17 @@
 			"slug": "88381-286",
 			"surfaceArea": 480600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L02",
@@ -13726,7 +14286,17 @@
 			"slug": "88381-284",
 			"surfaceArea": 425500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L03",
@@ -13899,7 +14469,17 @@
 			"slug": "88381-293",
 			"surfaceArea": 643600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L04",
@@ -14222,7 +14802,17 @@
 			"slug": "88381-298",
 			"surfaceArea": 869000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L05",
@@ -14495,7 +15085,17 @@
 			"slug": "88381-297",
 			"surfaceArea": 860100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L06",
@@ -14668,7 +15268,17 @@
 			"slug": "88381-288",
 			"surfaceArea": 411000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L01",
@@ -14941,7 +15551,17 @@
 			"slug": "88381-289",
 			"surfaceArea": 655800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L02",
@@ -15164,7 +15784,17 @@
 			"slug": "88381-299",
 			"surfaceArea": 994700,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L03",
@@ -15387,7 +16017,17 @@
 			"slug": "88381-285",
 			"surfaceArea": 499300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L01",
@@ -15710,7 +16350,17 @@
 			"slug": "88381-300",
 			"surfaceArea": 1240900,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B4E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L01",
@@ -15883,7 +16533,17 @@
 			"slug": "88381-315",
 			"surfaceArea": 411000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L02",
@@ -16168,7 +16828,17 @@
 			"slug": "88381-309",
 			"surfaceArea": 910300,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L03",
@@ -16414,7 +17084,17 @@
 			"slug": "88381-303",
 			"surfaceArea": 630700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L04",
@@ -16599,7 +17279,17 @@
 			"slug": "88381-301",
 			"surfaceArea": 643600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L05",
@@ -16834,7 +17524,17 @@
 			"slug": "88381-307",
 			"surfaceArea": 953500,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L01",
@@ -17007,7 +17707,17 @@
 			"slug": "88381-313",
 			"surfaceArea": 411000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L02",
@@ -17280,7 +17990,17 @@
 			"slug": "88381-308",
 			"surfaceArea": 860100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L03",
@@ -17603,7 +18323,17 @@
 			"slug": "88381-310",
 			"surfaceArea": 869000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L04",
@@ -17776,7 +18506,17 @@
 			"slug": "88381-302",
 			"surfaceArea": 643800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L05",
@@ -17999,7 +18739,17 @@
 			"slug": "88381-314",
 			"surfaceArea": 425800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L06",
@@ -18272,7 +19022,17 @@
 			"slug": "88381-318",
 			"surfaceArea": 480400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L01",
@@ -18445,7 +19205,17 @@
 			"slug": "88381-317",
 			"surfaceArea": 411000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L02",
@@ -18718,7 +19488,17 @@
 			"slug": "88381-311",
 			"surfaceArea": 860100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L03",
@@ -19041,7 +19821,17 @@
 			"slug": "88381-306",
 			"surfaceArea": 869000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L04",
@@ -19214,7 +20004,17 @@
 			"slug": "88381-305",
 			"surfaceArea": 643600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L05",
@@ -19437,7 +20237,17 @@
 			"slug": "88381-312",
 			"surfaceArea": 425500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L06",
@@ -19710,7 +20520,17 @@
 			"slug": "88381-319",
 			"surfaceArea": 480400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L01",
@@ -19933,7 +20753,17 @@
 			"slug": "88381-304",
 			"surfaceArea": 673700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L02",
@@ -20156,7 +20986,17 @@
 			"slug": "88381-320",
 			"surfaceArea": 999300,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L03",
@@ -20379,7 +21219,17 @@
 			"slug": "88381-316",
 			"surfaceArea": 497700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L01",
@@ -20702,7 +21552,17 @@
 			"slug": "88381-321",
 			"surfaceArea": 1244600,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B5E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L01",
@@ -20975,7 +21835,17 @@
 			"slug": "88381-323",
 			"surfaceArea": 834600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L02",
@@ -21198,7 +22068,17 @@
 			"slug": "88381-324",
 			"surfaceArea": 964600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L03",
@@ -21371,7 +22251,17 @@
 			"slug": "88381-334",
 			"surfaceArea": 469600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L04",
@@ -21644,7 +22534,17 @@
 			"slug": "88381-326",
 			"surfaceArea": 462900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L05",
@@ -21817,7 +22717,17 @@
 			"slug": "88381-333",
 			"surfaceArea": 470700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L06",
@@ -21990,7 +22900,17 @@
 			"slug": "88381-337",
 			"surfaceArea": 665900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L07",
@@ -22263,7 +23183,17 @@
 			"slug": "88381-325",
 			"surfaceArea": 872700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L01",
@@ -22486,7 +23416,17 @@
 			"slug": "88381-336",
 			"surfaceArea": 638300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L02",
@@ -22721,7 +23661,17 @@
 			"slug": "88381-328",
 			"surfaceArea": 451100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L03",
@@ -22944,7 +23894,17 @@
 			"slug": "88381-330",
 			"surfaceArea": 411600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L04",
@@ -23217,7 +24177,17 @@
 			"slug": "88381-329",
 			"surfaceArea": 459100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L05",
@@ -23390,7 +24360,17 @@
 			"slug": "88381-339",
 			"surfaceArea": 620000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L06",
@@ -23613,7 +24593,17 @@
 			"slug": "88381-327",
 			"surfaceArea": 437900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E4L01",
@@ -23836,7 +24826,17 @@
 			"slug": "88381-338",
 			"surfaceArea": 582400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E4L02",
@@ -24059,7 +25059,17 @@
 			"slug": "88381-331",
 			"surfaceArea": 453800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E4L03",
@@ -24282,7 +25292,17 @@
 			"slug": "88381-335",
 			"surfaceArea": 411800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E4L04",
@@ -24555,7 +25575,17 @@
 			"slug": "88381-332",
 			"surfaceArea": 455900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E4L05",
@@ -24728,7 +25758,17 @@
 			"slug": "88381-322",
 			"surfaceArea": 902800,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/bischheim-urban-green/dollhouses/B6E4L05/4/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

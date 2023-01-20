@@ -231,7 +231,17 @@
 			"slug": "72282-151",
 			"surfaceArea": 646200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L02",
@@ -454,7 +464,17 @@
 			"slug": "72282-98",
 			"surfaceArea": 297600,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L03",
@@ -627,7 +647,17 @@
 			"slug": "72282-100",
 			"surfaceArea": 319200,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L04",
@@ -800,7 +830,17 @@
 			"slug": "72282-101",
 			"surfaceArea": 330900,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E0L05",
@@ -973,7 +1013,17 @@
 			"slug": "72282-113",
 			"surfaceArea": 449400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L01",
@@ -1246,7 +1296,17 @@
 			"slug": "72282-153",
 			"surfaceArea": 643500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L02",
@@ -1419,7 +1479,17 @@
 			"slug": "72282-145",
 			"surfaceArea": 630500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L03",
@@ -1692,7 +1762,17 @@
 			"slug": "72282-116",
 			"surfaceArea": 443300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L04",
@@ -1965,7 +2045,17 @@
 			"slug": "72282-134",
 			"surfaceArea": 369700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L05",
@@ -2188,7 +2278,17 @@
 			"slug": "72282-114",
 			"surfaceArea": 389500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L06",
@@ -2561,7 +2661,17 @@
 			"slug": "72282-118",
 			"surfaceArea": 414500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L01",
@@ -2834,7 +2944,17 @@
 			"slug": "72282-140",
 			"surfaceArea": 639900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L02",
@@ -3007,7 +3127,17 @@
 			"slug": "72282-141",
 			"surfaceArea": 627300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L03",
@@ -3280,7 +3410,17 @@
 			"slug": "72282-110",
 			"surfaceArea": 441700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L04",
@@ -3553,7 +3693,17 @@
 			"slug": "72282-111",
 			"surfaceArea": 368000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L05",
@@ -3776,7 +3926,17 @@
 			"slug": null,
 			"surfaceArea": null,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L06",
@@ -4099,7 +4259,17 @@
 			"slug": "72282-112",
 			"surfaceArea": 413300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L01",
@@ -4372,7 +4542,17 @@
 			"slug": "72282-142",
 			"surfaceArea": 639900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L02",
@@ -4595,7 +4775,17 @@
 			"slug": "72282-119",
 			"surfaceArea": 418600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L03",
@@ -4868,7 +5058,17 @@
 			"slug": "72282-115",
 			"surfaceArea": 441600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L04",
@@ -5241,7 +5441,17 @@
 			"slug": "72282-121",
 			"surfaceArea": 421900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L05",
@@ -5464,7 +5674,17 @@
 			"slug": "72282-132",
 			"surfaceArea": 386800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E3L06",
@@ -5787,7 +6007,17 @@
 			"slug": "72282-123",
 			"surfaceArea": 413300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E4L01",
@@ -6060,7 +6290,17 @@
 			"slug": "72282-144",
 			"surfaceArea": 639900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E4L02",
@@ -6333,7 +6573,17 @@
 			"slug": "72282-143",
 			"surfaceArea": 717600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E4L03",
@@ -6706,7 +6956,17 @@
 			"slug": "72282-130",
 			"surfaceArea": 421900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E4L04",
@@ -6929,7 +7189,17 @@
 			"slug": "72282-129",
 			"surfaceArea": 386800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E4L05",
@@ -7252,7 +7522,17 @@
 			"slug": "72282-120",
 			"surfaceArea": 413300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E5L01",
@@ -7475,7 +7755,17 @@
 			"slug": "72282-150",
 			"surfaceArea": 546500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E5L02",
@@ -7781,7 +8071,17 @@
 			"slug": "72282-146",
 			"surfaceArea": 660300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E5L03",
@@ -8054,7 +8354,17 @@
 			"slug": "72282-125",
 			"surfaceArea": 368300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E5L04",
@@ -8277,7 +8587,17 @@
 			"slug": "72282-124",
 			"surfaceArea": 386800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E5L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E5L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E5L05",
@@ -8600,7 +8920,17 @@
 			"slug": "72282-126",
 			"surfaceArea": 413200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E5L05/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B6E5L05/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E0L01",
@@ -8773,7 +9103,17 @@
 			"slug": "72282-135",
 			"surfaceArea": 494800,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E0L02",
@@ -8996,7 +9336,17 @@
 			"slug": "72282-149",
 			"surfaceArea": 641700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E1L01",
@@ -9219,7 +9569,17 @@
 			"slug": "72282-148",
 			"surfaceArea": 658700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E1L02",
@@ -9542,7 +9902,17 @@
 			"slug": "72282-147",
 			"surfaceArea": 627100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E1L03",
@@ -9815,7 +10185,17 @@
 			"slug": "72282-127",
 			"surfaceArea": 438600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E1L04",
@@ -10038,7 +10418,17 @@
 			"slug": "72282-138",
 			"surfaceArea": 444100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E2L01",
@@ -10261,7 +10651,17 @@
 			"slug": "72282-154",
 			"surfaceArea": 655000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E2L02",
@@ -10584,7 +10984,17 @@
 			"slug": "72282-167",
 			"surfaceArea": 623500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E2L03",
@@ -10857,7 +11267,17 @@
 			"slug": "72282-131",
 			"surfaceArea": 435600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E2L04",
@@ -11080,7 +11500,17 @@
 			"slug": "72282-137",
 			"surfaceArea": 441100,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E3L01",
@@ -11303,7 +11733,17 @@
 			"slug": "72282-166",
 			"surfaceArea": 655100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E3L02",
@@ -11626,7 +12066,17 @@
 			"slug": "72282-160",
 			"surfaceArea": 623500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E3L03",
@@ -11899,7 +12349,17 @@
 			"slug": "72282-128",
 			"surfaceArea": 435600,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E3L04",
@@ -12122,7 +12582,17 @@
 			"slug": "72282-136",
 			"surfaceArea": 440900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E4L01",
@@ -12395,7 +12865,17 @@
 			"slug": "72282-155",
 			"surfaceArea": 655100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E4L02",
@@ -12680,7 +13160,17 @@
 			"slug": "72282-156",
 			"surfaceArea": 717400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E4L03",
@@ -12903,7 +13393,17 @@
 			"slug": "72282-139",
 			"surfaceArea": 440900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E5L01",
@@ -13176,7 +13676,17 @@
 			"slug": "72282-157",
 			"surfaceArea": 660900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E5L02",
@@ -13461,7 +13971,17 @@
 			"slug": "72282-158",
 			"surfaceArea": 722300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B7E5L03",
@@ -13601,7 +14121,17 @@
 			"slug": "72282-99",
 			"surfaceArea": 221200,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B7E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E0L01",
@@ -13786,7 +14316,17 @@
 			"slug": "72282-94",
 			"surfaceArea": 773000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E0L02",
@@ -13959,7 +14499,17 @@
 			"slug": "72282-96",
 			"surfaceArea": 773100,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E0L03",
@@ -14250,7 +14800,17 @@
 			"slug": "72282-168",
 			"surfaceArea": 663400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E1L01",
@@ -14473,7 +15033,17 @@
 			"slug": "72282-175",
 			"surfaceArea": 669700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E1L02",
@@ -14696,7 +15266,17 @@
 			"slug": "72282-159",
 			"surfaceArea": 678600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E2L01",
@@ -14869,7 +15449,17 @@
 			"slug": "72282-165",
 			"surfaceArea": 571000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B8E2L02",
@@ -15092,7 +15682,17 @@
 			"slug": "72282-164",
 			"surfaceArea": 689500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B8E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E0L01",
@@ -15265,7 +15865,17 @@
 			"slug": "72282-93",
 			"surfaceArea": 836800,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E0L02",
@@ -15444,7 +16054,17 @@
 			"slug": "72282-122",
 			"surfaceArea": 378900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E0L03",
@@ -15617,7 +16237,17 @@
 			"slug": "72282-97",
 			"surfaceArea": 840300,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E0L04",
@@ -15908,7 +16538,17 @@
 			"slug": "72282-169",
 			"surfaceArea": 643800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E1L01",
@@ -16131,7 +16771,17 @@
 			"slug": "72282-163",
 			"surfaceArea": 735300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E1L02",
@@ -16304,7 +16954,17 @@
 			"slug": "72282-117",
 			"surfaceArea": 376000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E1L03",
@@ -16527,7 +17187,17 @@
 			"slug": "72282-162",
 			"surfaceArea": 658500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E2L01",
@@ -16750,7 +17420,17 @@
 			"slug": "72282-152",
 			"surfaceArea": 626400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B9E2L02",
@@ -16973,7 +17653,17 @@
 			"slug": "72282-161",
 			"surfaceArea": 679300,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/caen-detolle-cours-lavalette/dollhouses/B9E2L02/2/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [

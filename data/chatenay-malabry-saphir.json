@@ -433,7 +433,17 @@
 			"slug": "67845-262",
 			"surfaceArea": 921600,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L02",
@@ -758,7 +768,17 @@
 			"slug": "67845-258",
 			"surfaceArea": 837700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L03",
@@ -1083,7 +1103,17 @@
 			"slug": "67845-259",
 			"surfaceArea": 845200,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L04",
@@ -1408,7 +1438,17 @@
 			"slug": "67845-264",
 			"surfaceArea": 849800,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L05",
@@ -1733,7 +1773,17 @@
 			"slug": "67845-263",
 			"surfaceArea": 841800,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L06",
@@ -2058,7 +2108,17 @@
 			"slug": "67845-261",
 			"surfaceArea": 841800,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L06/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L06/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L07",
@@ -2383,7 +2443,17 @@
 			"slug": "67845-267",
 			"surfaceArea": 1026500,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L07/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L07/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L08",
@@ -2708,7 +2778,17 @@
 			"slug": "67845-265",
 			"surfaceArea": 1021100,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L08/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L08/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L09",
@@ -3033,7 +3113,17 @@
 			"slug": "67845-266",
 			"surfaceArea": 1026200,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L09/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L09/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L10",
@@ -3418,7 +3508,17 @@
 			"slug": "67845-237",
 			"surfaceArea": 759700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L10/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L10/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L11",
@@ -3642,7 +3742,17 @@
 			"slug": "67845-256",
 			"surfaceArea": 646100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L11/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L11/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L12",
@@ -3882,7 +3992,17 @@
 			"slug": "67845-214",
 			"surfaceArea": 332200,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L12/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L12/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E0L13",
@@ -4122,7 +4242,17 @@
 			"slug": "67845-224",
 			"surfaceArea": 430200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L13/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E0L13/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L01",
@@ -4495,7 +4625,17 @@
 			"slug": "67845-254",
 			"surfaceArea": 1013400,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L02",
@@ -4718,7 +4858,17 @@
 			"slug": "67845-219",
 			"surfaceArea": 437400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L03",
@@ -4997,7 +5147,17 @@
 			"slug": "67845-239",
 			"surfaceArea": 748600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L04",
@@ -5270,7 +5430,17 @@
 			"slug": "67845-232",
 			"surfaceArea": 783600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L05",
@@ -5505,7 +5675,17 @@
 			"slug": "67845-238",
 			"surfaceArea": 622500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L06",
@@ -5834,7 +6014,17 @@
 			"slug": "67845-251",
 			"surfaceArea": 922500,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L07",
@@ -6057,7 +6247,17 @@
 			"slug": "67845-229",
 			"surfaceArea": 437700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E1L08",
@@ -6330,7 +6530,17 @@
 			"slug": "67845-220",
 			"surfaceArea": 499500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E1L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L01",
@@ -6703,7 +6913,17 @@
 			"slug": "67845-253",
 			"surfaceArea": 1010100,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L02",
@@ -6926,7 +7146,17 @@
 			"slug": "67845-228",
 			"surfaceArea": 437400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L03",
@@ -7216,7 +7446,17 @@
 			"slug": "67845-230",
 			"surfaceArea": 750500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L04",
@@ -7489,7 +7729,17 @@
 			"slug": "67845-244",
 			"surfaceArea": 782900,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L05",
@@ -7724,7 +7974,17 @@
 			"slug": "67845-245",
 			"surfaceArea": 622500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L06",
@@ -8053,7 +8313,17 @@
 			"slug": "67845-246",
 			"surfaceArea": 924700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L07",
@@ -8276,7 +8546,17 @@
 			"slug": "67845-225",
 			"surfaceArea": 437700,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E2L08",
@@ -8549,7 +8829,17 @@
 			"slug": "67845-227",
 			"surfaceArea": 499500,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L08/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E2L08/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L01",
@@ -8872,7 +9162,17 @@
 			"slug": "67845-248",
 			"surfaceArea": 835700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L02",
@@ -9012,7 +9312,17 @@
 			"slug": "67845-217",
 			"surfaceArea": 343100,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L03",
@@ -9268,7 +9578,17 @@
 			"slug": "67845-255",
 			"surfaceArea": 973500,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L04",
@@ -9580,7 +9900,17 @@
 			"slug": "67845-243",
 			"surfaceArea": 767200,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L05",
@@ -9853,7 +10183,17 @@
 			"slug": "67845-250",
 			"surfaceArea": 936500,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L06",
@@ -10132,7 +10472,17 @@
 			"slug": "67845-231",
 			"surfaceArea": 702600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L06/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L07",
@@ -10305,7 +10655,17 @@
 			"slug": "67845-235",
 			"surfaceArea": 657600,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L07/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L07/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E3L08",
@@ -10528,7 +10888,17 @@
 			"slug": "67845-215",
 			"surfaceArea": 361100,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L08/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E3L08/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L01",
@@ -10851,7 +11221,17 @@
 			"slug": "67845-247",
 			"surfaceArea": 837200,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L02",
@@ -10991,7 +11371,17 @@
 			"slug": "67845-216",
 			"surfaceArea": 347800,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L03",
@@ -11214,7 +11604,17 @@
 			"slug": "67845-233",
 			"surfaceArea": 770100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L04",
@@ -11587,7 +11987,17 @@
 			"slug": "67845-249",
 			"surfaceArea": 879200,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L05",
@@ -11910,7 +12320,17 @@
 			"slug": "67845-241",
 			"surfaceArea": 732100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L05/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L05/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E4L06",
@@ -12233,7 +12653,17 @@
 			"slug": "67845-218",
 			"surfaceArea": 486900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L06/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E4L06/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L01",
@@ -12556,7 +12986,17 @@
 			"slug": "67845-252",
 			"surfaceArea": 836700,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E5L01/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E5L01/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L02",
@@ -12729,7 +13169,17 @@
 			"slug": "67845-242",
 			"surfaceArea": 711800,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E5L02/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E5L02/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L03",
@@ -13002,7 +13452,17 @@
 			"slug": "67845-226",
 			"surfaceArea": 575200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E5L03/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E5L03/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L04",
@@ -13225,7 +13685,17 @@
 			"slug": "67845-223",
 			"surfaceArea": 542400,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E5L04/6/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E5L04/6/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B2E5L05",
@@ -13617,7 +14087,17 @@
 			"slug": "67845-257",
 			"surfaceArea": 851400,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E5L05/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B2E5L05/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L01",
@@ -14121,7 +14601,17 @@
 			"slug": "67845-260",
 			"surfaceArea": 834500,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E0L02",
@@ -14625,7 +15115,17 @@
 			"slug": "67845-268",
 			"surfaceArea": 1044700,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L01",
@@ -14898,7 +15398,17 @@
 			"slug": "67845-222",
 			"surfaceArea": 498200,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E1L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E1L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L02",
@@ -15071,7 +15581,17 @@
 			"slug": "67845-234",
 			"surfaceArea": 653500,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E1L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E1L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E1L03",
@@ -15394,7 +15914,17 @@
 			"slug": "67845-221",
 			"surfaceArea": 512900,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E1L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E1L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L01",
@@ -15617,7 +16147,17 @@
 			"slug": "67845-236",
 			"surfaceArea": 625100,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E2L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E2L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B3E2L02",
@@ -15840,7 +16380,17 @@
 			"slug": "67845-240",
 			"surfaceArea": 659700,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B3E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L01",
@@ -16314,7 +16864,17 @@
 			"slug": "67845-35",
 			"surfaceArea": 1130000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L02",
@@ -16638,7 +17198,17 @@
 			"slug": "67845-37",
 			"surfaceArea": 1022000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L03",
@@ -16844,7 +17414,17 @@
 			"slug": "67845-36",
 			"surfaceArea": 1022000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L04",
@@ -17229,7 +17809,17 @@
 			"slug": "67845-15",
 			"surfaceArea": 632000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E0L04/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E0L04/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E0L05",
@@ -17514,7 +18104,17 @@
 			"slug": "67845-22",
 			"surfaceArea": 604000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E0L05/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E0L05/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L01",
@@ -17837,7 +18437,17 @@
 			"slug": "67845-12",
 			"surfaceArea": 491000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L02",
@@ -18160,7 +18770,17 @@
 			"slug": "67845-29",
 			"surfaceArea": 897000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L03",
@@ -18389,7 +19009,17 @@
 			"slug": "67845-24",
 			"surfaceArea": 624000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L04",
@@ -18668,7 +19298,17 @@
 			"slug": "67845-11",
 			"surfaceArea": 439300,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L05",
@@ -18997,7 +19637,17 @@
 			"slug": "67845-25",
 			"surfaceArea": 628000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E1L06",
@@ -19276,7 +19926,17 @@
 			"slug": "67845-33",
 			"surfaceArea": 757000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L01",
@@ -19599,7 +20259,17 @@
 			"slug": "67845-6",
 			"surfaceArea": 491000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L02",
@@ -19922,7 +20592,17 @@
 			"slug": "67845-32",
 			"surfaceArea": 887000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L03",
@@ -20151,7 +20831,17 @@
 			"slug": "67845-20",
 			"surfaceArea": 624000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L04",
@@ -20430,7 +21120,17 @@
 			"slug": "67845-13",
 			"surfaceArea": 439000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L05",
@@ -20759,7 +21459,17 @@
 			"slug": "67845-23",
 			"surfaceArea": 628000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E2L06",
@@ -21038,7 +21748,17 @@
 			"slug": "67845-31",
 			"surfaceArea": 753000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L01",
@@ -21361,7 +22081,17 @@
 			"slug": "67845-10",
 			"surfaceArea": 491000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L02",
@@ -21634,7 +22364,17 @@
 			"slug": "67845-27",
 			"surfaceArea": 965000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L03",
@@ -21863,7 +22603,17 @@
 			"slug": "67845-18",
 			"surfaceArea": 624000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L04",
@@ -22142,7 +22892,17 @@
 			"slug": "67845-7",
 			"surfaceArea": 439000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L05",
@@ -22471,7 +23231,17 @@
 			"slug": "67845-17",
 			"surfaceArea": 628000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E3L06",
@@ -22750,7 +23520,17 @@
 			"slug": "67845-26",
 			"surfaceArea": 753000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L01",
@@ -22973,7 +23753,17 @@
 			"slug": "67845-16",
 			"surfaceArea": 754000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L02",
@@ -23196,7 +23986,17 @@
 			"slug": "67845-19",
 			"surfaceArea": 728000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L03",
@@ -23475,7 +24275,17 @@
 			"slug": "67845-8",
 			"surfaceArea": 439000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L04",
@@ -23804,7 +24614,17 @@
 			"slug": "67845-14",
 			"surfaceArea": 628000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E4L05",
@@ -24083,7 +24903,17 @@
 			"slug": "67845-28",
 			"surfaceArea": 753000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E5L01",
@@ -24356,7 +25186,17 @@
 			"slug": "67845-9",
 			"surfaceArea": 468000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E5L02",
@@ -24579,7 +25419,17 @@
 			"slug": "67845-34",
 			"surfaceArea": 814000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E5L03",
@@ -24908,7 +25758,17 @@
 			"slug": "67845-21",
 			"surfaceArea": 628000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B4E5L04",
@@ -25187,7 +26047,17 @@
 			"slug": "67845-30",
 			"surfaceArea": 753000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E5L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B4E5L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L01",
@@ -25393,7 +26263,17 @@
 			"slug": "67845-78",
 			"surfaceArea": 980000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E0L01/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E0L01/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L02",
@@ -25717,7 +26597,17 @@
 			"slug": "67845-77",
 			"surfaceArea": 1013000,
 			"typology": 5,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E0L02/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E0L02/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E0L03",
@@ -25957,7 +26847,17 @@
 			"slug": "67845-44",
 			"surfaceArea": 485000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E0L03/0/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E0L03/0/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L01",
@@ -26280,7 +27180,17 @@
 			"slug": "67845-67",
 			"surfaceArea": 849000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L02",
@@ -26503,7 +27413,17 @@
 			"slug": "67845-51",
 			"surfaceArea": 444000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L03",
@@ -26782,7 +27702,17 @@
 			"slug": "67845-64",
 			"surfaceArea": 738000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L03/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L03/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L04",
@@ -27055,7 +27985,17 @@
 			"slug": "67845-57",
 			"surfaceArea": 717000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L04/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L04/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L05",
@@ -27284,7 +28224,17 @@
 			"slug": "67845-66",
 			"surfaceArea": 623000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L05/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L05/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L06",
@@ -27613,7 +28563,17 @@
 			"slug": "67845-73",
 			"surfaceArea": 924000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L06/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L06/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L07",
@@ -27836,7 +28796,17 @@
 			"slug": "67845-41",
 			"surfaceArea": 439000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L07/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L07/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E1L08",
@@ -28109,7 +29079,17 @@
 			"slug": "67845-49",
 			"surfaceArea": 501000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L08/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E1L08/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L01",
@@ -28432,7 +29412,17 @@
 			"slug": "67845-72",
 			"surfaceArea": 849000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L02",
@@ -28655,7 +29645,17 @@
 			"slug": "67845-43",
 			"surfaceArea": 444000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L02/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L03",
@@ -28934,7 +29934,17 @@
 			"slug": "67845-62",
 			"surfaceArea": 738000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L03/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L03/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L04",
@@ -29213,7 +30223,17 @@
 			"slug": "67845-65",
 			"surfaceArea": 717000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L04/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L04/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L05",
@@ -29442,7 +30462,17 @@
 			"slug": "67845-63",
 			"surfaceArea": 623000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L05/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L05/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L06",
@@ -29771,7 +30801,17 @@
 			"slug": "67845-69",
 			"surfaceArea": 924000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L06/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L06/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L07",
@@ -29994,7 +31034,17 @@
 			"slug": "67845-45",
 			"surfaceArea": 439000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L07/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L07/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E2L08",
@@ -30267,7 +31317,17 @@
 			"slug": "67845-47",
 			"surfaceArea": 501000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L08/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E2L08/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L01",
@@ -30590,7 +31650,17 @@
 			"slug": "67845-71",
 			"surfaceArea": 859000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L01/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L01/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L02",
@@ -30813,7 +31883,17 @@
 			"slug": "67845-42",
 			"surfaceArea": 444000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L02/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L02/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L03",
@@ -31092,7 +32172,17 @@
 			"slug": "67845-61",
 			"surfaceArea": 739000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L03/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L03/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L04",
@@ -31365,7 +32455,17 @@
 			"slug": "67845-70",
 			"surfaceArea": 869000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L04/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L04/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L05",
@@ -31644,7 +32744,17 @@
 			"slug": "67845-59",
 			"surfaceArea": 702000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L05/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L05/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L06",
@@ -31817,7 +32927,17 @@
 			"slug": "67845-58",
 			"surfaceArea": 659000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L06/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L06/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E3L07",
@@ -32040,7 +33160,17 @@
 			"slug": "67845-39",
 			"surfaceArea": 360000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L07/3/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E3L07/3/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L01",
@@ -32313,7 +33443,17 @@
 			"slug": "67845-56",
 			"surfaceArea": 676000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L01/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L01/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L02",
@@ -32503,7 +33643,17 @@
 			"slug": "67845-38",
 			"surfaceArea": 345000,
 			"typology": 1,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L02/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L02/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L03",
@@ -32676,7 +33826,17 @@
 			"slug": "67845-55",
 			"surfaceArea": 709000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L03/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L03/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L04",
@@ -32999,7 +34159,17 @@
 			"slug": "67845-68",
 			"surfaceArea": 853000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L04/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L04/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L05",
@@ -33322,7 +34492,17 @@
 			"slug": "67845-52",
 			"surfaceArea": 731000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L05/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L05/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E4L06",
@@ -33595,7 +34775,17 @@
 			"slug": "67845-48",
 			"surfaceArea": 485000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L06/4/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E4L06/4/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E5L01",
@@ -33868,7 +35058,17 @@
 			"slug": "67845-54",
 			"surfaceArea": 676000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E5L01/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E5L01/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E5L02",
@@ -34041,7 +35241,17 @@
 			"slug": "67845-53",
 			"surfaceArea": 709000,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E5L02/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E5L02/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E5L03",
@@ -34314,7 +35524,17 @@
 			"slug": "67845-40",
 			"surfaceArea": 545000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E5L03/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E5L03/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E5L04",
@@ -34537,7 +35757,17 @@
 			"slug": "67845-50",
 			"surfaceArea": 486000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E5L04/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E5L04/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B5E5L05",
@@ -34761,7 +35991,17 @@
 			"slug": "67845-75",
 			"surfaceArea": 850000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E5L05/5/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B5E5L05/5/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L01",
@@ -35040,7 +36280,17 @@
 			"slug": "67845-60",
 			"surfaceArea": 635400,
 			"typology": 3,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B6E1L01/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B6E1L01/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E1L02",
@@ -35313,7 +36563,17 @@
 			"slug": "67845-46",
 			"surfaceArea": 520000,
 			"typology": 2,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B6E1L02/1/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B6E1L02/1/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L01",
@@ -35794,7 +37054,17 @@
 			"slug": "67845-74",
 			"surfaceArea": 909000,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B6E2L01/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B6E2L01/2/snapshot_0.jpg"
+				]
+			]
 		},
 		{
 			"id": "B6E2L02",
@@ -36319,7 +37589,17 @@
 			"slug": "67845-76",
 			"surfaceArea": 840400,
 			"typology": 4,
-			"vat": 0.2
+			"vat": 0.2,
+			"images": [
+				[
+					0,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B6E2L02/2/snapshot.jpg"
+				],
+				[
+					1,
+					"https://habx-last.s3.eu-west-3.amazonaws.com/projects/chatenay-malabry-saphir/dollhouses/B6E2L02/2/snapshot_0.jpg"
+				]
+			]
 		}
 	],
 	"views": [
