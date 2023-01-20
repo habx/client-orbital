@@ -31,7 +31,7 @@ body {
 	align-items: center;
 	overflow: hidden;
 	cursor: grab;
-	touch-action: pinch-zoom;
+	touch-action: pan-y pinch-zoom;
 }
 
 .viewer:active {
