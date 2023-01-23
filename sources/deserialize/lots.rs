@@ -19,7 +19,7 @@ pub struct LotsVisitor<'a> {
 
 
 impl<'de, 'a> DeserializeSeed<'de> for LotVisitor<'a> {
-	type Value = Lot;
+	type Value = Option<Lot>;
 
 
 	fn deserialize<D> (self, deserializer: D) -> Result<Self::Value, D::Error> where D: Deserializer<'de> {
@@ -37,7 +37,7 @@ impl<'de, 'a> DeserializeSeed<'de> for LotsVisitor<'a> {
 }
 
 impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
-	type Value = Lot;
+	type Value = Option<Lot>;
 
 
 	fn expecting (&self, formatter: &mut fmt::Formatter) -> fmt::Result {
@@ -68,9 +68,7 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 			}
 		}
 
-		geometry.ok_or(Error::missing_field("geometry"))?;
-
-		Lot::new(
+		let lot = Lot::new(
 			start..shapes.borrow().len(),
 			identifier.ok_or(Error::missing_field("id"))?,
 			images.unwrap_or_default(),
@@ -78,8 +76,25 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 			slug,
 			surface_area,
 			typology,
-		)
-			.ok_or(Error::custom("`id` must follow BEL notation"))
+		);
+
+		match lot {
+			Ok(lot) => if geometry.is_none() {
+				#[cfg(debug_assertions)]
+				leptos::warn!("lot `{}` ignored: missing geometry", &lot.identifier);
+
+				Ok(None)
+			} else {
+				Ok(Some(lot))
+			}
+
+			Err(identifier) => {
+				#[cfg(debug_assertions)]
+				leptos::warn!("lot `{}` ignored: invalid identifier", &identifier);
+
+				Ok(None)
+			}
+		}
 	}
 }
 
@@ -95,7 +110,9 @@ impl<'de, 'a> Visitor<'de> for LotsVisitor<'a> {
 		let mut lots = if let Some(capacity) = sequence.size_hint() { Vec::with_capacity(capacity) } else { Vec::new() };
 
 		while let Some(lot) = sequence.next_element_seed(LotVisitor(self))? {
-			lots.push(lot);
+			if let Some(lot) = lot {
+				lots.push(lot);
+			}
 		}
 
 		Ok(lots)

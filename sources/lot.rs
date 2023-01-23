@@ -37,31 +37,26 @@ impl Lot {
 		slug: Option<String>,
 		surface_area: Option<u64>,
 		typology: Option<u8>,
-	) -> Option<Self> {
+	) -> Result<Self, String> {
 		let value = identifier.to_lowercase();
 
-		Some(Self {
-			building: {
-				let value = &value[value.find('b')?..];
-
-				value.split(char::is_alphabetic).nth(1)?.parse::<u8>().ok()? - 1
-			},
-			floors: vec![range.start],
-			identifier,
-			images,
-			level: {
-				let value = &value[value.find(['e', 's'])?..];
-				let level: i8 = value.split(char::is_alphabetic).nth(1)?.parse().ok()?;
-
-				if value.starts_with('s') { -level } else { level }
-			},
-			name,
-			range,
-			role: Role::parse(&value)?,
-			slug,
-			surface_area,
-			typology,
-		})
+		if let Some(((building, level), role)) = parse_building(&value).zip(parse_level(&value)).zip(Role::parse(&value)) {
+			Ok(Self {
+				building,
+				floors: vec![range.start],
+				identifier,
+				images,
+				level,
+				name,
+				range,
+				role,
+				slug,
+				surface_area,
+				typology,
+			})
+		} else {
+			Err(identifier)
+		}
 	}
 
 	pub fn class (&self) -> String {
@@ -128,4 +123,18 @@ impl Role {
 			_ => unreachable!()
 		})
 	}
+}
+
+
+fn parse_building (value: &str) -> Option<u8> {
+	let value = &value[value.find('b')?..];
+
+	Some(value.split(char::is_alphabetic).nth(1)?.parse::<u8>().ok()? - 1)
+}
+
+fn parse_level (value: &str) -> Option<i8> {
+	let value = &value[value.find(['e', 's'])?..];
+	let level: i8 = value.split(char::is_alphabetic).nth(1)?.parse().ok()?;
+
+	Some(if value.starts_with('s') { -level } else { level })
 }
