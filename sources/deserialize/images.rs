@@ -1,7 +1,7 @@
 use std::fmt;
 use std::simd::Simd;
 
-use orbit::model::Viewport;
+use orbit::model::{Frame, Viewport};
 use serde::Deserializer;
 use serde::de::{DeserializeSeed, Error, IgnoredAny, MapAccess, SeqAccess, Visitor};
 
@@ -73,12 +73,22 @@ impl<'de, 'a> Visitor<'de> for ImageVisitor<'a> {
 		let uri = uri.ok_or(Error::missing_field("uri"))?;
 		let path = &self.0.path;
 
-		Ok(Viewport::new(position, matrix, vec![
-			(0, format!("https://cdn.habx.com/image/upload/v1/cdn/{}/{}", path, &uri)),
-			(1_000, format!("https://cdn.habx.com/image/upload/c_scale,w_1000/v1/cdn/{}/{}", path, &uri)),
-			(1_500, format!("https://cdn.habx.com/image/upload/c_scale,w_1500/v1/cdn/{}/{}", path, &uri)),
-			(2_000, format!("https://cdn.habx.com/image/upload/c_scale,w_2000/v1/cdn/{}/{}", path, &uri)),
-		]))
+		Ok(Viewport::new(position, matrix, if path.starts_with("http://") || path.starts_with("https://") {
+			vec![
+				Frame::new(format!("{path}/{uri}")),
+				Frame::with_media_query(Some(String::from("image/webp")), Some(720 * 9 / 16), format!("{path}/{}", uri.replace(".jpg", "_720.webp"))),
+				Frame::with_media_query(Some(String::from("image/webp")), Some(1_080 * 9 / 16), format!("{path}/{}", uri.replace(".jpg", "_1080.webp"))),
+				Frame::with_media_query(Some(String::from("image/webp")), Some(1_440 * 9 / 16), format!("{path}/{}", uri.replace(".jpg", "_1440.webp"))),
+				Frame::with_media_query(Some(String::from("image/webp")), None, format!("{path}/{}", uri.replace(".jpg", "_2160.webp"))),
+			]
+		} else {
+			vec![
+				Frame::new(format!("https://cdn.habx.com/image/upload/v1/cdn/{path}/{uri}")),
+				Frame::with_media_query(None, Some(1_280), format!("https://cdn.habx.com/image/upload/c_scale,w_1280/v1/cdn/{path}/{uri}")),
+				Frame::with_media_query(None, Some(1_920), format!("https://cdn.habx.com/image/upload/c_scale,w_1920/v1/cdn/{path}/{uri}")),
+				Frame::with_media_query(None, Some(2_560), format!("https://cdn.habx.com/image/upload/c_scale,w_2560/v1/cdn/{path}/{uri}")),
+			]
+		}))
 	}
 }
 
