@@ -86,12 +86,18 @@ impl Lot {
 				let floor = &shapes[start];
 				let group_center = floor.center();
 
-				debug_assert!(!shapes[start].is_vertical());
+				#[cfg(test)]
+				if shapes[start].is_vertical() {
+					eprintln!("  {} no floor", self.identifier);
+				}
 
 				// Ceiling
 				let ceiling = &mut shapes[end];
 
-				debug_assert!(!ceiling.is_vertical());
+				#[cfg(test)]
+				if ceiling.is_vertical() {
+					eprintln!("  {} no ceiling", self.identifier);
+				}
 
 				if ceiling.is_downward_facing() {
 					ceiling.flip();

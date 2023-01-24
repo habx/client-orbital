@@ -1,0 +1,26 @@
+name: Test
+
+on:
+  push:
+    branches: [main]
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v3
+
+      - name: Setup Rust
+        uses: actions-rs/toolchain@v1
+        with:
+          override: true
+          profile: minimal
+          target: x86_64-unknown-linux-gnu
+          toolchain: nightly
+
+      - name: Build
+        run: cargo test --target=x86_64-unknown-linux-gnu -- --nocapture

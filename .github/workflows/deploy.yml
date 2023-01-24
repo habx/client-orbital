@@ -1,9 +1,10 @@
 name: Deployment
 
 on:
-  push:
-    branches:
-      - main
+  workflow_run:
+    branches: [main]
+    types: [completed]
+    workflows: [Test]
 
 # Sets permissions of the `GITHUB_TOKEN` to allow deployment to GitHub Pages
 permissions:
@@ -12,23 +13,26 @@ permissions:
   pages: write
 
 # Allow one concurrent deployment
-concurrency: production
+concurrency:
+  cancel-in-progress: true
+  group: production
 
 env:
   CARGO_TERM_COLOR: always
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
     environment: 
       name: production
       url: ${{ steps.deployment.outputs.page_url }}
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout sources
         uses: actions/checkout@v3
 
-      - name: Configure GitHub Pages
-        id: pages
+      - id: pages
+        name: Configure GitHub Pages
         uses: actions/configure-pages@v2
 
       - name: Setup Rust
@@ -52,6 +56,6 @@ jobs:
         with:
           path: dist
 
-      - name: Deploy
-        id: deployment
+      - id: deployment
+        name: Deploy
         uses: actions/deploy-pages@v1
