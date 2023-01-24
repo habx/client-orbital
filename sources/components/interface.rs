@@ -13,6 +13,7 @@ use super::sidebar::{Sidebar, SidebarProps};
 #[component]
 pub fn Interface (
 	scope: Scope,
+	interactive: bool,
 	lot: RwSignal<Option<usize>>,
 	overlay: RwSignal<bool>,
 	redirection: Option<String>,
@@ -52,9 +53,11 @@ pub fn Interface (
 
 	view!(scope,
 		<section class="ui" class:selection=selection>
-			<Sidebar redirection selected=lot visible=sidebar />
+			{interactive.then(|| view!(scope,
+				<Sidebar redirection selected=lot visible=sidebar />
+			))}
 
-			<Controls lot overlay selection sidebar />
+			<Controls interactive lot overlay selection sidebar />
 		</section>
 	)
 }

@@ -79,14 +79,13 @@ pub fn main () {
 				provide_state(scope, manifest.scene.into(), MaybeSignal::derive(scope, move || overlay.get() || selection.get()));
 
 				let (element, disposer) = scope.run_child_scope(|scope| Some(view!(scope,
-					{interactive.then(move || view!(scope,
-						<Interface
-							lot
-							overlay
-							redirection=redirection.get()
-							selection
-						/>
-					))}
+					<Interface
+						interactive
+						lot
+						overlay
+						redirection=redirection.get()
+						selection
+					/>
 
 					<Viewer />
 				)));
