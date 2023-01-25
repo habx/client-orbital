@@ -5,6 +5,7 @@ use web_sys::DomTokenList;
 use crate::camera::Camera;
 
 use crate::context::use_context;
+use crate::lot::Lot;
 
 use super::controls::{Controls, ControlsProps};
 use super::sidebar::{Sidebar, SidebarProps};
@@ -43,12 +44,18 @@ pub fn Interface (
 	});
 
 	// Resets the lot selection when switching camera
-	create_effect(scope, move |_| project.with(|project| match &project.cameras[state.get_camera()] {
-		Camera::Level(level) => project
-			.lot_levels(lot.get_untracked()?, &state.get_scene().shapes)
-			.all(|lot_level| lot_level != *level)
-			.then(|| lot.set(None)),
-		_ => None
+	create_effect(scope, move |_| project.with(|project| {
+		if let Camera::Level { relative, .. } = &project.cameras[state.get_camera()] {
+			let Lot { building, floors, .. } = &project.lots[lot.get_untracked()?];
+			let shapes = &state.get_scene().shapes;
+
+			floors
+				.iter()
+				.all(|&index| project.shape_relative_level(*building, &shapes[index]) != *relative)
+				.then(|| lot.set(None))
+		} else {
+			None
+		}
 	}));
 
 	view!(scope,

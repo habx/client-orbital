@@ -1,6 +1,5 @@
 use std::cell::RefCell;
 use std::fmt;
-use std::mem::swap;
 use std::rc::Rc;
 
 use orbit::model::Scene;
@@ -67,7 +66,6 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 					map.next_value_seed(ViewsVisitor {
 						cameras: &cameras_shared,
 						height: size.height,
-						identifier: None,
 						identifiers: &identifiers,
 						path: &path,
 						project: &value,
@@ -75,7 +73,7 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 						width: size.width,
 					})?;
 
-					swap(&mut value.cameras, &mut *identifiers.borrow_mut());
+					value.set_cameras(&mut *identifiers.borrow_mut());
 					cameras_shared.borrow_mut()[1..].reverse();
 					value.cameras[1..].reverse();
 					cameras = Some(cameras_shared.into_inner());

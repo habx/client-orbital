@@ -4,7 +4,10 @@ use crate::project::Project;
 
 #[derive(Clone, Debug)]
 pub enum Camera {
-	Level(u8),
+	Level {
+		absolute: i8,
+		relative: u8,
+	},
 	Regular {
 		label: String,
 		name: String,
@@ -16,7 +19,7 @@ impl Camera {
 	#[inline]
 	pub fn label (&self, project: &Project) -> String {
 		match self {
-			Self::Level(level) => format::level(project.absolute_level(*level)),
+			Self::Level { relative, .. } => format::level(project.absolute_level(*relative)),
 			Self::Regular { label, .. } => label.clone(),
 		}
 	}

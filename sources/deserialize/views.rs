@@ -13,12 +13,12 @@ use crate::lot::Role;
 use super::images::ImagesVisitor;
 
 
-struct ViewVisitor<'a>(ViewsVisitor<'a>);
+struct ViewVisitor<'a>(u8, ViewsVisitor<'a>);
 
+#[derive(Clone, Copy)]
 pub struct ViewsVisitor<'a> {
 	pub cameras: &'a RefCell<Vec<Camera>>,
 	pub height: usize,
-	pub identifier: Option<Identifier>,
 	// FIXME: Come up with a better name
 	pub identifiers: &'a RefCell<Vec<Identifier>>,
 	pub path: &'a str,
@@ -58,14 +58,19 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 	}
 
 	fn visit_map<Map> (self, mut map: Map) -> Result<Self::Value, Map::Error> where Map: MapAccess<'de> {
-		let ViewsVisitor { cameras, height, mut identifier, identifiers, path, project, shapes, width, .. } = self.0;
+		let ViewsVisitor { cameras, height, identifiers, path, project, shapes, width, .. } = self.1;
 		let initial_length = cameras.borrow().len();
-		let mut viewports = None;
+		let mut identifier = None;
 		let mut name = None;
+		let mut viewports = None;
 
 		while let Some(key) = map.next_key()? {
 			match key {
-				"floors" => map.next_value_seed(ViewsVisitor { identifier: None, ..self.0 })?,
+				"floor" => identifier = Some(Identifier::Level {
+					absolute: map.next_value()?,
+					relative: self.0,
+				}),
+				"floors" => map.next_value_seed(self.1)?,
 				"images" => viewports = Some(map.next_value_seed(ImagesVisitor { path })?),
 				"label" => identifier = Some(Identifier::Regular {
 					label: map.next_value()?,
@@ -76,8 +81,8 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 			}
 		}
 
-		let identifier = identifier.ok_or(Error::missing_field("name"))?;
-		let mut viewports = viewports.ok_or(Error::missing_field("viewports"))?;
+		let identifier = identifier.ok_or(Error::missing_field("label or floor"))?;
+		let mut viewports = viewports.ok_or(Error::missing_field("images"))?;
 		let mut cameras = cameras.borrow_mut();
 		let mut identifiers = identifiers.borrow_mut();
 		let reverse = initial_length != cameras.len();
@@ -87,7 +92,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 		}
 
 		let styles = match &identifier {
-			Identifier::Level(level) => project.lots
+			Identifier::Level { relative, .. } => project.lots
 				.iter()
 				.filter_map(|lot| (lot.role == Role::Living && lot.name.is_some()).then(|| Style::compound(
 					lot.identifier.clone(),
@@ -103,7 +108,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 							(
 								!shape.is_vertical() &&
 								shape.is_downward_facing() &&
-								project.shape_level(lot.building, shape) == *level
+								project.shape_relative_level(lot.building, shape) == *relative
 							).then(|| Style::shape(format!("floor"), index, lot.floors.contains(&index).then_some(OFFSET)))
 						})
 						.collect()
@@ -152,7 +157,7 @@ impl<'de, 'a> Visitor<'de> for ViewsVisitor<'a> {
 
 		let mut level = 0;
 
-		while sequence.next_element_seed(ViewVisitor(Self { identifier: Some(Identifier::Level(level)), ..self }))?.is_some() {
+		while sequence.next_element_seed(ViewVisitor(level, self))?.is_some() {
 			level += 1;
 		}
 

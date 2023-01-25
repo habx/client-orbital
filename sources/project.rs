@@ -1,3 +1,5 @@
+use std::mem::swap;
+
 use orbit::model::Shape;
 
 use crate::camera::Camera;
@@ -16,13 +18,13 @@ pub struct Project {
 
 impl Project {
 	pub fn new (mut lots: Vec<Lot>, shapes: &mut [Shape]) -> Option<Self> {
-		let mut level = None;
 		let mut heights = Vec::new();
+		let mut level = None;
 
 		for lot in lots.iter_mut() {
 			lot.process(shapes);
 
-			if lot.role == Role::Living {
+			if lot.role == Role::Living && lot.name.is_some() {
 				heights.extend(lot.floors
 					.iter()
 					.map(|&index| (lot.building, level_height(&shapes[index]))));
@@ -36,15 +38,21 @@ impl Project {
 		heights.sort_unstable();
 		heights.dedup();
 
-		let buildings = heights.last().map(|entry| (entry.0 + 1)).unwrap_or_default() as _;
-		let mut iterator = heights.iter();
+		let buildings = heights.last().map(|entry| entry.0 + 1).unwrap_or_default() as _;
+		let mut iterator = heights.iter().peekable();
+		let length = heights.len();
 		let mut levels = vec![Vec::new(); buildings];
 
 		while let Some((index, _)) = iterator.next() {
-			levels[*index as usize].extend(iterator
-				.by_ref()
-				.take_while(|entry| entry.0 == *index)
-				.map(|entry| entry.1));
+			let levels = &mut levels[*index as usize];
+
+			levels.reserve(length);
+
+			while let Some((_, height)) = iterator.next_if(|(building, _)| building == index) {
+				levels.push(*height)
+			}
+
+			levels.shrink_to_fit();
 		}
 
 		Some(Self {
@@ -55,17 +63,24 @@ impl Project {
 		})
 	}
 
-	#[inline]
-	pub fn absolute_level (&self, level: u8) -> i8 {
-		self.level + level as i8
+	pub fn set_cameras (&mut self, cameras: &mut Vec<Camera>) {
+		if self.lots.is_empty() {
+			let level = cameras
+				.iter()
+				.filter_map(|camera| if let Camera::Level { absolute, .. } = camera { Some(absolute) } else { None })
+				.min();
+
+			if let Some(level) = level {
+				self.level = *level;
+			}
+		}
+
+		swap(&mut self.cameras, cameras);
 	}
 
-	pub fn lot_levels<'a> (&'a self, index: usize, shapes: &'a [Shape]) -> impl Iterator<Item = u8> + 'a {
-		let lot = &self.lots[index];
-
-		lot.floors
-			.iter()
-			.map(|&index| self.shape_level(lot.building, &shapes[index]))
+	#[inline]
+	pub fn absolute_level (&self, level: u8) -> i8 {
+		level as i8 + self.level
 	}
 
 	#[inline]
@@ -75,7 +90,7 @@ impl Project {
 		if level.is_negative() { 0 } else { level as _ }
 	}
 
-	pub fn shape_level (&self, building: u8, shape: &Shape) -> u8 {
+	pub fn shape_relative_level (&self, building: u8, shape: &Shape) -> u8 {
 		let mut height = level_height(shape);
 
 		if !shape.is_downward_facing() {

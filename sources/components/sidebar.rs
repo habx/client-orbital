@@ -53,13 +53,14 @@ pub fn Sidebar (
 						} else {
 							selected.set(Some(index));
 							project.with(|project| {
-								let lot_level = project.relative_level(project.lots[index].level);
-								let lot_camera = project.cameras
-									.iter()
-									.position(|camera| matches!(camera, Camera::Level(level) if *level == lot_level));
+								let level = project.relative_level(project.lots[index].level);
 
-								if let Some(lot_camera) = lot_camera {
-									state.set_camera(lot_camera);
+								let camera = project.cameras
+									.iter()
+									.position(|camera| matches!(camera, Camera::Level { relative, .. } if *relative == level));
+
+								if let Some(camera) = camera {
+									state.set_camera(camera);
 								}
 							})
 						};
