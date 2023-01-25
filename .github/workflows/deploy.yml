@@ -36,10 +36,8 @@ jobs:
         uses: actions/configure-pages@v2
 
       - name: Setup Rust
-        uses: actions-rs/toolchain@v1
+        uses: dtolnay/rust-toolchain@stable
         with:
-          override: true
-          profile: minimal
           target: wasm32-unknown-unknown
           toolchain: nightly
 
