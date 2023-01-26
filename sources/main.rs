@@ -1,6 +1,9 @@
 #![feature(option_result_contains)]
 
 
+extern crate console_error_panic_hook;
+
+
 use std::cell::Cell;
 
 use gloo_events::EventListener;
@@ -16,6 +19,8 @@ use viewer::components::{Interface, InterfaceProps};
 
 
 pub fn main () {
+	std::panic::set_hook(Box::new(console_error_panic_hook::hook));
+
 	mount_to_body(|scope| {
 		let params = UrlSearchParams::new_with_str(&window().location().search().unwrap_or_default()).unwrap();
 

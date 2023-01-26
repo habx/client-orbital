@@ -17,6 +17,8 @@ orbit = { git = "https://github.com/alexisfontaine/orbit", tag = "v0.10.0" }
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1"
 
+console_error_panic_hook = "0.1"
+
 [dependencies.web-sys]
 version = "0.3"
 features = [
