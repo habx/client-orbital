@@ -869,8 +869,8 @@ checksum = "6f61fba1741ea2b3d6a1e3178721804bb716a68a6aeba1149b5d52e3d464ea66"
 
 [[package]]
 name = "orbit"
-version = "0.10.0"
-source = "git+https://github.com/alexisfontaine/orbit?tag=v0.10.0#a89eb8c052d107e8bf0c7c718db2ca32bbda1be5"
+version = "0.10.1"
+source = "git+https://github.com/alexisfontaine/orbit?tag=v0.10.1#f9cc1234ad63d893055bff6be41fa71877906dc2"
 dependencies = [
  "gloo-events",
  "leptos",
