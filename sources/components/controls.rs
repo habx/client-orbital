@@ -1,7 +1,7 @@
 use std::str::FromStr;
 
 use leptos::*;
-use orbit::state::use_state;
+use orbit::state::use_viewer_state;
 
 use crate::context::use_context;
 
@@ -16,7 +16,7 @@ pub fn Controls (
 	sidebar: RwSignal<bool>,
 ) -> impl IntoView {
 	let project = use_context(scope);
-	let state = use_state(scope);
+	let viewer = use_viewer_state(scope);
 
 	view!(scope,
 		<div class="controls">
@@ -57,10 +57,10 @@ pub fn Controls (
 			<select
 				class="control control-camera"
 				on:change=move |event| if let Ok(camera) = usize::from_str(&event_target_value(&event)) {
-					state.set_camera(camera);
+					viewer.set_camera(camera);
 				}
 				on:keydown=|event| event.prevent_default()
-				prop:value=move || state.get_camera()
+				prop:value=move || viewer.get_camera()
 			>
 				{project.with(|project| project.cameras
 					.iter()

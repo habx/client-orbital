@@ -1,5 +1,5 @@
 use leptos::*;
-use orbit::state::use_state;
+use orbit::state::use_viewer_state;
 
 use crate::camera::Camera;
 use crate::format;
@@ -20,7 +20,7 @@ pub fn Sidebar (
 	visible: Signal<bool>,
 ) -> impl IntoView {
 	let project = use_context(scope);
-	let state = use_state(scope);
+	let viewer = use_viewer_state(scope);
 	let is_selected = create_selector(scope, selected);
 
 	let lots: Vec<_> = project.with(|project| (0..project.lots.len())
@@ -60,7 +60,7 @@ pub fn Sidebar (
 									.position(|camera| matches!(camera, Camera::Level { relative, .. } if *relative == level));
 
 								if let Some(camera) = camera {
-									state.set_camera(camera);
+									viewer.set_camera(camera);
 								}
 							})
 						};

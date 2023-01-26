@@ -81,28 +81,32 @@ body {
 	opacity: .8;
 }
 
-.lot.t1 > .shape.floor {
+.lot.t1 > .floor {
 	fill: #800b94;
 }
 
-.lot.t2 > .shape.floor {
+.lot.t2 > .floor {
 	fill: #2345a5;
 }
 
-.lot.t3 > .shape.floor {
+.lot.t3 > .floor {
 	fill: #2b723d;
 }
 
-.lot.t4 > .shape.floor {
+.lot.t4 > .floor {
 	fill: #fae101;
 }
 
-.lot.t5 > .shape.floor {
+.lot.t5 > .floor {
 	fill: #f38f28;
 }
 
-.lot.t6 > .shape.floor {
+.lot.t6 > .floor {
 	fill: #d82d2d;
+}
+
+.floor.out {
+	opacity: .4;
 }
 
 .ui {

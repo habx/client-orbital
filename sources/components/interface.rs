@@ -1,5 +1,5 @@
 use leptos::*;
-use orbit::state::use_state;
+use orbit::state::use_viewer_state;
 use web_sys::DomTokenList;
 
 use crate::camera::Camera;
@@ -22,11 +22,11 @@ pub fn Interface (
 	selection: Signal<bool>,
 ) -> impl IntoView {
 	let project = use_context(scope);
-	let state = use_state(scope);
+	let viewer = use_viewer_state(scope);
 	let sidebar = create_rw_signal(scope, true);
 
 	create_effect(scope, move |previous: Option<Option<DomTokenList>>| {
-		if !state.is_overlay_mounted() {
+		if !viewer.is_overlay_mounted() {
 			return None
 		}
 
@@ -45,9 +45,9 @@ pub fn Interface (
 
 	// Resets the lot selection when switching camera
 	create_effect(scope, move |_| project.with(|project| {
-		if let Camera::Level { relative, .. } = &project.cameras[state.get_camera()] {
+		if let Camera::Level { relative, .. } = &project.cameras[viewer.get_camera()] {
 			let Lot { building, floors, .. } = &project.lots[lot.get_untracked()?];
-			let shapes = &state.get_scene().shapes;
+			let shapes = &viewer.get_scene().shapes;
 
 			floors
 				.iter()

@@ -109,7 +109,11 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 								!shape.is_vertical() &&
 								shape.is_downward_facing() &&
 								project.shape_relative_level(lot.building, shape) == *relative
-							).then(|| Style::shape(format!("floor"), index, lot.floors.contains(&index).then_some(OFFSET)))
+							).then(|| {
+								let is_indoor = lot.floors.contains(&index);
+
+								Style::shape(format!("floor {}", if is_indoor { "in" } else { "out" }), index, is_indoor.then_some(OFFSET))
+							})
 						})
 						.collect()
 				)))

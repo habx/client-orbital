@@ -17,13 +17,11 @@ pub struct Project {
 
 
 impl Project {
-	pub fn new (mut lots: Vec<Lot>, shapes: &mut [Shape]) -> Option<Self> {
+	pub fn new (lots: Vec<Lot>, shapes: &mut [Shape]) -> Option<Self> {
 		let mut heights = Vec::new();
 		let mut level = None;
 
-		for lot in lots.iter_mut() {
-			lot.process(shapes);
-
+		for lot in &lots {
 			if lot.role == Role::Living && lot.name.is_some() {
 				heights.extend(lot.floors
 					.iter()

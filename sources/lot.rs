@@ -1,7 +1,7 @@
 use std::ops::Range;
 
 use orbit::model::Shape;
-use orbit::utils::dot_product;
+use orbit::utils::{center, dot_product, square_distance};
 
 
 #[derive(Clone, Copy, Debug, PartialEq)]
@@ -30,7 +30,8 @@ pub struct Lot {
 
 impl Lot {
 	pub fn new (
-		range: Range<usize>,
+		start: usize,
+		shapes: &mut [Shape],
 		identifier: String,
 		images: Vec<(u8, String)>,
 		name: Option<String>,
@@ -41,14 +42,77 @@ impl Lot {
 		let value = identifier.to_lowercase();
 
 		if let Some(((building, level), role)) = parse_building(&value).zip(parse_level(&value)).zip(Role::parse(&value)) {
+			let mut floors = vec![start];
+			let end = shapes.len();
+
+			if role == Role::Living {
+				shapes[start..].sort_unstable_by_key(|shape| (shape.center()[2] * 10_000.) as i64);
+
+				floors.extend(shapes[start..end - 2]
+					.windows(3)
+					.enumerate()
+					.filter_map(|(index, window)| (window[0].is_vertical() && !window[1].is_vertical() && !window[2].is_vertical())
+						.then_some(start + index + 2)));
+
+				for index in 0..floors.len() {
+					let start = floors[index];
+					let end = floors.get(index + 1).map_or(end - 1, |value| value - 1);
+
+					if let Some(floors_end) = shapes[start..end].iter().position(|shape| shape.is_vertical()) {
+						let (floors, walls) = shapes[start..end].split_at_mut(floors_end);
+
+						#[cfg(test)]
+						if floors.is_empty() {
+							eprintln!("  {} no floor", identifier);
+						}
+
+						let center = center(&walls.iter().map(Shape::center).collect::<Vec<_>>());
+
+						for shape in walls {
+							#[cfg(test)]
+							if !shape.is_vertical() {
+								eprintln!("  {} floor among walls", identifier);
+							}
+
+							if dot_product(center - shape.center(), shape.normal()).is_sign_positive() {
+								shape.flip();
+							}
+						}
+
+						floors.sort_unstable_by_key(|shape| (square_distance(shape.center(), center) * 10_000.) as i64);
+
+						for shape in floors {
+							if shape.is_upward_facing() {
+								shape.flip();
+							}
+						}
+
+						// Ceiling
+						let ceiling = &mut shapes[end];
+
+						#[cfg(test)]
+						if ceiling.is_vertical() {
+							eprintln!("  {} no ceiling", identifier);
+						}
+
+						if ceiling.is_downward_facing() {
+							ceiling.flip();
+						}
+					} else {
+						#[cfg(test)]
+						eprintln!("  {} no walls", identifier);
+					}
+				}
+			}
+
 			Ok(Self {
 				building,
-				floors: vec![range.start],
+				floors,
 				identifier,
 				images,
 				level,
 				name,
-				range,
+				range: start..end,
 				role,
 				slug,
 				surface_area,
@@ -61,61 +125,6 @@ impl Lot {
 
 	pub fn class (&self) -> String {
 		format!("lot{}", self.typology.map_or_else(String::new, |typology| format!(" t{}", typology)))
-	}
-
-	pub fn process (&mut self, shapes: &mut [Shape]) {
-		let floors = &mut self.floors;
-
-		if self.role == Role::Living {
-			let start = self.range.start;
-			let end = self.range.end;
-
-			shapes[start..end].sort_unstable_by_key(|shape| (shape.center()[2] * 10_000.) as i64);
-
-			floors.extend(shapes[start..end - 2]
-				.windows(3)
-				.enumerate()
-				.filter_map(|(index, window)| (window[0].is_vertical() && !window[1].is_vertical() && !window[2].is_vertical())
-					.then_some(start + index + 2)));
-
-			for index in 0..floors.len() {
-				let start = floors[index];
-				let end = floors.get(index + 1).map_or(end - 1, |value| value - 1);
-
-				// Floor
-				let floor = &shapes[start];
-				let group_center = floor.center();
-
-				#[cfg(test)]
-				if shapes[start].is_vertical() {
-					eprintln!("  {} no floor", self.identifier);
-				}
-
-				// Ceiling
-				let ceiling = &mut shapes[end];
-
-				#[cfg(test)]
-				if ceiling.is_vertical() {
-					eprintln!("  {} no ceiling", self.identifier);
-				}
-
-				if ceiling.is_downward_facing() {
-					ceiling.flip();
-				}
-
-				for shape in &mut shapes[start..end] {
-					let flip = if shape.is_vertical() {
-						dot_product(group_center - shape.center(), shape.normal()).is_sign_positive()
-					} else {
-						shape.is_upward_facing()
-					};
-
-					if flip {
-						shape.flip();
-					}
-				}
-			}
-		}
 	}
 }
 

@@ -7,7 +7,7 @@ use gloo_events::EventListener;
 use gloo_net::http::Request;
 use leptos::*;
 use orbit::components::{Viewer, ViewerProps};
-use orbit::state::provide_state;
+use orbit::state::provide_viewer_state;
 use web_sys::{KeyboardEvent, UrlSearchParams};
 
 use viewer::Manifest;
@@ -76,7 +76,7 @@ pub fn main () {
 				let overlay = create_rw_signal(scope, false);
 				let selection = create_memo(scope, move |_| lot.with(|lot| lot.is_some()));
 
-				provide_state(scope, manifest.scene.into(), MaybeSignal::derive(scope, move || overlay.get() || selection.get()));
+				provide_viewer_state(scope, manifest.scene.into(), MaybeSignal::derive(scope, move || overlay.get() || selection.get()));
 
 				let (element, disposer) = scope.run_child_scope(|scope| Some(view!(scope,
 					<Interface

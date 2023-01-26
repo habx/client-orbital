@@ -68,9 +68,19 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 			}
 		}
 
+		let identifier = identifier.ok_or(Error::missing_field("id"))?;
+
+		if geometry.is_none() {
+			#[cfg(debug_assertions)]
+			leptos::warn!("lot `{}` ignored: missing geometry", &identifier);
+
+			return Ok(None)
+		}
+
 		let lot = Lot::new(
-			start..shapes.borrow().len(),
-			identifier.ok_or(Error::missing_field("id"))?,
+			start,
+			&mut *shapes.borrow_mut(),
+			identifier,
 			images.unwrap_or_default(),
 			name,
 			slug,
@@ -79,15 +89,7 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 		);
 
 		match lot {
-			Ok(lot) => if geometry.is_none() {
-				#[cfg(debug_assertions)]
-				leptos::warn!("lot `{}` ignored: missing geometry", &lot.identifier);
-
-				Ok(None)
-			} else {
-				Ok(Some(lot))
-			}
-
+			Ok(lot) => Ok(Some(lot)),
 			Err(identifier) => {
 				#[cfg(debug_assertions)]
 				leptos::warn!("lot `{}` ignored: invalid identifier", &identifier);
