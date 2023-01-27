@@ -11,35 +11,46 @@ pub struct Project {
 	pub cameras: Vec<Camera>,
 	pub lots: Vec<Lot>,
 
-	level: i8,
 	levels: Vec<Vec<isize>>,
+	offset: i8,
+	offsets: Vec<i8>,
 }
 
 
 impl Project {
 	pub fn new (lots: Vec<Lot>, shapes: &mut [Shape]) -> Option<Self> {
-		let mut heights = Vec::new();
-		let mut level = None;
+		let mut buildings_heights = Vec::new();
+		let mut buildings_offsets = Vec::with_capacity(lots.len());
 
 		for lot in &lots {
 			if lot.role == Role::Living && lot.name.is_some() {
-				heights.extend(lot.floors
-					.iter()
-					.map(|&index| (lot.building, level_height(&shapes[index]))));
+				buildings_heights.reserve(lot.floors.len());
+				buildings_offsets.push((lot.building, lot.level));
 
-				if lot.level < level.unwrap_or(i8::MAX) {
-					level = Some(lot.level);
+				for index in &lot.floors {
+					buildings_heights.push((lot.building, level_height(&shapes[*index])));
 				}
 			}
 		}
 
-		heights.sort_unstable();
-		heights.dedup();
+		buildings_heights.sort_unstable();
+		buildings_offsets.sort_unstable();
+		buildings_heights.dedup();
 
-		let buildings = heights.last().map(|entry| entry.0 + 1).unwrap_or_default() as _;
-		let mut iterator = heights.iter().peekable();
-		let length = heights.len();
+		let buildings = buildings_heights.last().map(|entry| entry.0 + 1).unwrap_or_default() as _;
+		let mut offsets = vec![i8::MAX; buildings];
+
+		for (index, level) in buildings_offsets {
+			let offset = &mut offsets[index as usize];
+
+			if level < *offset {
+				*offset = level;
+			}
+		}
+
 		let mut levels = vec![Vec::new(); buildings];
+		let mut iterator = buildings_heights.iter().peekable();
+		let length = buildings_heights.len();
 
 		while let Some((index, _)) = iterator.next() {
 			let levels = &mut levels[*index as usize];
@@ -55,9 +66,10 @@ impl Project {
 
 		Some(Self {
 			cameras: Vec::new(),
-			level: level.unwrap_or(0),
 			levels,
 			lots,
+			offset: offsets.iter().min().copied().unwrap_or(0),
+			offsets,
 		})
 	}
 
@@ -69,7 +81,7 @@ impl Project {
 				.min();
 
 			if let Some(level) = level {
-				self.level = *level;
+				self.offset = *level;
 			}
 		}
 
@@ -78,12 +90,12 @@ impl Project {
 
 	#[inline]
 	pub fn absolute_level (&self, level: u8) -> i8 {
-		level as i8 + self.level
+		level as i8 + self.offset
 	}
 
 	#[inline]
 	pub fn relative_level (&self, level: i8) -> u8 {
-		let level = level - self.level;
+		let level = level - self.offset;
 
 		if level.is_negative() { 0 } else { level as _ }
 	}
@@ -97,10 +109,12 @@ impl Project {
 
 		let levels = &self.levels[building as usize];
 
-		levels
+		let level = levels
 			.iter()
 			.position(|&level_height| level_height > height)
-			.unwrap_or(levels.len()) as _
+			.unwrap_or(levels.len()) as i8 + self.offsets[building as usize] - self.offset;
+
+		if level.is_negative() { 0 } else { level as _ }
 	}
 }
 
