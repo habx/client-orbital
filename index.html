@@ -1,16 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<base data-trunk-public-url>
+		<base data-trunk-public-url />
 
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
 
 		<title>Viewer</title>
 
-		<link data-trunk rel="icon" href="public/favicon.gif" type="image/gif">
-		<link data-trunk rel="css" href="sources/styles.css">
-		<link data-trunk rel="rust">
+		<link data-trunk rel="icon" href="public/favicon.gif" type="image/gif" />
+
+		<link data-trunk rel="copy-dir" href="sources/styles" />
+		<link rel="stylesheet" href="styles/base.css" />
+		<link rel="stylesheet" href="styles/wide.css" media="screen and (min-width: 540px)" />
+
 		<link data-trunk rel="copy-dir" href="data" />
+		<link data-trunk rel="rust" />
 	</head>
 </html>

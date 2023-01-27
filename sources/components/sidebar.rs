@@ -33,15 +33,15 @@ pub fn Sidebar (
 
 	view!(scope,
 		<aside class="sidebar" class:open=visible>
-			<h1 class="sidebar_title">
-				{if lots.len() > 1 {
-					format!("{} lots", lots.len())
-				} else {
-					format!("{} lot", lots.len())
-				}}
-			</h1>
-
 			<div class="sidebar_content">
+				<h1 class="sidebar_title">
+					{if lots.len() > 1 {
+						format!("{} lots", lots.len())
+					} else {
+						format!("{} lot", lots.len())
+					}}
+				</h1>
+
 				{lots
 					.into_iter()
 					.map(|index| {
