@@ -7,7 +7,7 @@ use crate::context::use_context;
 pub fn Arrow (scope: Scope) -> impl IntoView {
 	view!(scope,
 		<svg viewBox="0 0 10 16" xmlns="http://www.w3.org/2000/svg">
-			<path d="M1.70718 0.292847L0.292969 1.70706L6.58586 7.99995L0.292969 14.2928L1.70718 15.7071L9.41429 7.99995z" />
+			<path d="M1.7.3.3 1.7 6.6 8 .3 14.3l1.4 1.4L9.4 8z" />
 		</svg>
 	)
 }

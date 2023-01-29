@@ -39,7 +39,7 @@ pub fn Controls (
 					}
 				>
 					<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-						<path d="M23.9439 10.0001L12.0003 2.83386L0.0566406 10.0001L3.28864 11.9392L0.130859 14.0444L12.0004 21.1661L23.8699 14.0444L20.712 11.9392zM12.0003 14.8339L3.94394 10.0001L12.0003 5.16624L20.0566 10.0001z" />
+						<path d="M24 10 12 2.8 0 10l3.3 2L0 14l12 7.2L23.9 14l-3.2-2zm-12 4.8L4 10l8-4.8 8 4.8z" />
 					</svg>
 				</button>
 
@@ -49,7 +49,7 @@ pub fn Controls (
 					title=move || if sidebar.get() { "Masquer le menu" } else { "Afficher le menu" }
 				>
 					<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-						<path d="M4 4H2V20H4V4ZM12.59 5.41L14 4L22 12L14 20L12.59 18.59L18.17 13H6V11H18.17z" />
+						<path d="M4 4H2v16h2V4Zm8.6 1.4L14 4l8 8-8 8-1.4-1.4 5.6-5.6H6v-2h12.2z" />
 					</svg>
 				</button>
 			))}
