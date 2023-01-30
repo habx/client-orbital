@@ -70,6 +70,21 @@ pub fn Controls (
 					))
 					.collect::<Vec<_>>())}
 			</select>
+
+			<svg
+				class="compass"
+				style=move || if let Some(angle) = project().angle(viewer.get_camera(), viewer.get_viewport()) {
+					format!("transform:rotate({angle}deg)")
+				} else {
+					format!("display:none")
+				}
+				viewBox="0 0 60 60"
+				xmlns="http://www.w3.org/2000/svg"
+			>
+				<path fill="#fff" fill-opacity=".6" d="M30 49.6a19.6 19.6 0 1 0 0-39.2 19.6 19.6 0 0 0 0 39.2Zm3.5-40.7h-2.8L29 6.8v2h-3.6V0h2.9l1.6 2V0h3.6v8.9Zm-2.4-3.5-3.4-4.2h-1.2v6.5H28V3.4l3.3 4.3h1.2V1.2H31v4.2Z" />
+
+				<path d="M34.6 30 30 19.6 25.4 30l4.6 9.2 4.6-9.2Zm-7.3 0h5.4L30 35.4 27.3 30Zm-14.6 0a17.3 17.3 0 1 1 34.6 0 17.3 17.3 0 0 1-34.6 0ZM30 15a15 15 0 1 0 0 30 15 15 0 0 0 0-30Zm2.4-7.3V1.2H31v4.2l-3.4-4.2h-1.2v6.5H28V3.4l3.3 4.3h1.2Z" />
+			</svg>
 		</div>
 	)
 }

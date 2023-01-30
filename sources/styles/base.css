@@ -7,6 +7,7 @@
 	--s3: 12px;
 	--s4: 16px;
 	--s5: 24px;
+	--sc: 4rem;
 	--ss: 30vw;
 }
 
@@ -146,17 +147,20 @@ body {
 	display: none;
 }
 
-.control {
+.control, .compass {
 	position: relative;
+	font: unset;
+	color: #2f2c35b3;
+	user-select: none;
+	z-index: 1;
+}
+
+.control {
 	background-color: #fff;
 	box-shadow: #18141f0f 0 0 2px, #18141f1a 0 2px 8px;
 	border: 3px solid transparent;
-	outline: unset;
-	font: unset;
-	color: #2f2c35b3;
+	outline: none;
 	cursor: pointer;
-	user-select: none;
-	z-index: 1;
 }
 
 .control svg {
@@ -195,6 +199,16 @@ body {
 	border-radius: 50%;
 }
 
+.compass {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: var(--sc);
+	height: var(--sc);
+	opacity: .8;
+	fill: currentColor;
+}
+
 .control-overlay {
 	bottom: 0;
 	right: 0;
@@ -204,4 +218,3 @@ body {
 		background-color .1s,
 		transform .2s;
 }
-

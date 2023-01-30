@@ -202,6 +202,7 @@
 
 @media (min-width: 1200px) {
 	:root {
+		--sc: 6rem;
 		--ss: 360px;
 	}
 

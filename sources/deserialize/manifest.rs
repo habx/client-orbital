@@ -57,6 +57,8 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 				"views" => {
 					let Meta { path, size } = meta.take().ok_or(Error::custom("field `meta` must precede `views`"))?;
 					let lots = lots.take().ok_or(Error::custom("field `lots` must precede `views`"))?;
+					// TODO: Merge the different types into a single wrapper
+					let angles = RefCell::new(Vec::new());
 					let cameras_shared = RefCell::new(Vec::new());
 					let identifiers = RefCell::new(Vec::new());
 					let shapes = shapes.as_ref().unwrap();
@@ -64,6 +66,7 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 					let mut value = Project::new(lots, &mut* shapes.borrow_mut()).unwrap();
 
 					map.next_value_seed(ViewsVisitor {
+						angles: &angles,
 						cameras: &cameras_shared,
 						height: size.height,
 						identifiers: &identifiers,
@@ -73,10 +76,19 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 						width: size.width,
 					})?;
 
-					value.set_cameras(&mut *identifiers.borrow_mut());
-					cameras_shared.borrow_mut()[1..].reverse();
-					value.cameras[1..].reverse();
-					cameras = Some(cameras_shared.into_inner());
+					let mut angles = angles.into_inner();
+					let mut cameras_shared = cameras_shared.into_inner();
+					let mut identifiers = identifiers.into_inner();
+
+					if !angles.is_empty() {
+						angles[1..].reverse();
+						value.set_angles(angles);
+					}
+
+					cameras_shared[1..].reverse();
+					identifiers[1..].reverse();
+					value.set_cameras(identifiers);
+					cameras = Some(cameras_shared);
 					project = Some(value);
 				}
 				_ => { map.next_value::<IgnoredAny>()?; }

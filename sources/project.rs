@@ -1,4 +1,4 @@
-use std::mem::swap;
+use std::cell::RefCell;
 
 use orbit::model::Shape;
 
@@ -11,6 +11,7 @@ pub struct Project {
 	pub cameras: Vec<Camera>,
 	pub lots: Vec<Lot>,
 
+	angles: Vec<Vec<f64>>,
 	levels: Vec<Vec<isize>>,
 	offset: i8,
 	offsets: Vec<i8>,
@@ -65,6 +66,7 @@ impl Project {
 		}
 
 		Some(Self {
+			angles: Vec::new(),
 			cameras: Vec::new(),
 			levels,
 			lots,
@@ -73,7 +75,12 @@ impl Project {
 		})
 	}
 
-	pub fn set_cameras (&mut self, cameras: &mut Vec<Camera>) {
+	#[inline]
+	pub fn set_angles (&mut self, angles: Vec<RefCell<Vec<f64>>>) {
+		self.angles.extend(angles.into_iter().map(RefCell::into_inner));
+	}
+
+	pub fn set_cameras (&mut self, cameras: Vec<Camera>) {
 		if self.lots.is_empty() {
 			let level = cameras
 				.iter()
@@ -85,12 +92,17 @@ impl Project {
 			}
 		}
 
-		swap(&mut self.cameras, cameras);
+		self.cameras = cameras;
 	}
 
 	#[inline]
 	pub fn absolute_level (&self, level: u8) -> i8 {
 		level as i8 + self.offset
+	}
+
+	#[inline]
+	pub fn angle (&self, camera: usize, viewport: usize) -> Option<f64> {
+		self.angles.get(camera)?.get(viewport).copied()
 	}
 
 	#[inline]

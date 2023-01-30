@@ -1,3 +1,4 @@
+use std::cell::RefCell;
 use std::fmt;
 use std::simd::Simd;
 
@@ -12,6 +13,7 @@ struct ImageVisitor<'a>(ImagesVisitor<'a>);
 
 #[derive(Clone, Copy)]
 pub struct ImagesVisitor<'a> {
+	pub angles: &'a RefCell<Vec<f64>>,
 	pub path: &'a str,
 }
 
@@ -62,6 +64,9 @@ impl<'de, 'a> Visitor<'de> for ImageVisitor<'a> {
 						Simd::from_array(value[3]),
 					])
 				},
+				"north" => if let Some(angle) = map.next_value::<Option<f64>>()? {
+					self.0.angles.borrow_mut().push(angle.to_degrees());
+				}
 				"p" => position = Some(map.next_value_seed(PointVisitor)?),
 				"uri" => uri = Some(map.next_value::<String>()?),
 				_ => { map.next_value::<IgnoredAny>()?; }
@@ -102,7 +107,12 @@ impl<'de, 'a> Visitor<'de> for ImagesVisitor<'a> {
 	}
 
 	fn visit_seq<Sequence> (self, mut sequence: Sequence) -> Result<Self::Value, Sequence::Error> where Sequence: SeqAccess<'de> {
-		let mut viewports = if let Some(capacity) = sequence.size_hint() { Vec::with_capacity(capacity) } else { Vec::new() };
+		let mut viewports = if let Some(capacity) = sequence.size_hint() {
+			self.angles.borrow_mut().reserve(capacity);
+			Vec::with_capacity(capacity)
+		} else {
+			Vec::new()
+		};
 
 		while let Some(viewport) = sequence.next_element_seed(ImageVisitor(self))? {
 			viewports.push(viewport);

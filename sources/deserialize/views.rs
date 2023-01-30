@@ -17,6 +17,7 @@ struct ViewVisitor<'a>(u8, ViewsVisitor<'a>);
 
 #[derive(Clone, Copy)]
 pub struct ViewsVisitor<'a> {
+	pub angles: &'a RefCell<Vec<RefCell<Vec<f64>>>>,
 	pub cameras: &'a RefCell<Vec<Camera>>,
 	pub height: usize,
 	// FIXME: Come up with a better name
@@ -71,7 +72,12 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 					relative: self.0,
 				}),
 				"floors" => map.next_value_seed(self.1)?,
-				"images" => viewports = Some(map.next_value_seed(ImagesVisitor { path })?),
+				"images" => {
+					let angles = RefCell::new(Vec::new());
+
+					viewports = Some(map.next_value_seed(ImagesVisitor { angles: &angles, path })?);
+					self.1.angles.borrow_mut().push(angles);
+				}
 				"label" => identifier = Some(Identifier::Regular {
 					label: map.next_value()?,
 					name: name.take().unwrap(),
@@ -112,7 +118,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 							).then(|| {
 								let is_indoor = lot.floors.contains(&index);
 
-								Style::shape(format!("floor {}", if is_indoor { "in" } else { "out" }), index, is_indoor.then_some(OFFSET))
+								Style::shape(format!("floor {}", if is_indoor { "in" } else { "out" }), index, false, is_indoor.then_some(OFFSET))
 							})
 						})
 						.collect()
@@ -126,7 +132,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 					lot.class(),
 					lot.range
 						.clone()
-						.filter_map(|index| shapes[index].is_vertical().then(|| Style::shape(format!("wall"), index, None)))
+						.filter_map(|index| shapes[index].is_vertical().then(|| Style::shape(format!("wall"), index, true, None)))
 						.collect()
 				)))
 				.collect(),
@@ -155,6 +161,7 @@ impl<'de, 'a> Visitor<'de> for ViewsVisitor<'a> {
 
 	fn visit_seq<Sequence> (self, mut sequence: Sequence) -> Result<Self::Value, Sequence::Error> where Sequence: SeqAccess<'de> {
 		if let Some(capacity) = sequence.size_hint() {
+			self.angles.borrow_mut().reserve(capacity);
 			self.cameras.borrow_mut().reserve(capacity);
 			self.identifiers.borrow_mut().reserve(capacity);
 		}
