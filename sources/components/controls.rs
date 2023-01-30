@@ -74,7 +74,7 @@ pub fn Controls (
 			<svg
 				class="compass"
 				style=move || if let Some(angle) = project().angle(viewer.get_camera(), viewer.get_viewport()) {
-					format!("transform:rotate({angle}deg)")
+					format!("transform:rotate({angle:.1}deg)")
 				} else {
 					format!("display:none")
 				}
