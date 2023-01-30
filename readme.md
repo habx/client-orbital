@@ -11,6 +11,7 @@ The viewer is hosted on GitHub Pages at this address: https://habx.github.io/cli
 - `redirection` a template URL used to redirect a visitor upon choosing a lot (_optional_, the feature is deactivated if omitted). Beware of special characters that might need to be encoded (see [here for details](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent)). This template supports a few placeholders, they are replaced by their corresponding value to make dynamic links:
 	- `%ID%` the identifier of a lot (usually a randomly generated one, for internal usage, e.g. `83765-232`)
 	- `%SLUG%` the commercial slug of a lot (most likely a combination of a lot's building, floor and index, e.g. `A201`)
+- `redirection_label` the text label displayed on the lot redirection button (_optional_, defaults to `Voir les détails`)
 
 ### Examples
 

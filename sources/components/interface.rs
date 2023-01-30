@@ -18,6 +18,7 @@ pub fn Interface (
 	lot: RwSignal<Option<usize>>,
 	overlay: RwSignal<bool>,
 	redirection: Option<String>,
+	redirection_label: Option<String>,
 	#[prop(into)]
 	selection: Signal<bool>,
 ) -> impl IntoView {
@@ -61,7 +62,7 @@ pub fn Interface (
 	view!(scope,
 		<section class="ui" class:selection=selection>
 			{interactive.then(|| view!(scope,
-				<Sidebar redirection selected=lot visible=sidebar />
+				<Sidebar redirection redirection_label selected=lot visible=sidebar />
 			))}
 
 			<Controls interactive lot overlay selection sidebar />

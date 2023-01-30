@@ -32,7 +32,9 @@ pub fn main () {
 
 		let instance = store_value(scope, Cell::new(None));
 		let interactive = params.get("interactive").contains(&"true");
-		let redirection = store_value(scope, params.get("redirection"));
+		let redirection = params.get("redirection");
+		let redirection_label = store_value(scope, if redirection.is_some() { params.get("redirection_label") } else { None });
+		let redirection = store_value(scope, redirection);
 		let url = create_rw_signal(scope, params.get("manifest"));
 
 		let manifest = create_local_resource(scope, url, |url| async {
@@ -89,6 +91,7 @@ pub fn main () {
 						lot
 						overlay
 						redirection=redirection.get()
+						redirection_label=redirection_label.get()
 						selection
 					/>
 

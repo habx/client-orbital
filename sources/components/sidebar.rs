@@ -15,6 +15,7 @@ use super::modal::{Modal, ModalProps};
 pub fn Sidebar (
 	scope: Scope,
 	redirection: Option<String>,
+	redirection_label: Option<String>,
 	selected: RwSignal<Option<usize>>,
 	#[prop(into)]
 	visible: Signal<bool>,
@@ -121,7 +122,7 @@ pub fn Sidebar (
 								rel="noopener noreferrer"
 								target="_blank"
 							>
-								"Voir les détails"
+								{redirection_label.clone().unwrap_or(String::from("Voir les détails"))}
 							</a>
 						)
 					}))}
