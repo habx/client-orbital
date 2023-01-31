@@ -25,8 +25,11 @@ impl Project {
 
 		for lot in &lots {
 			if lot.role == Role::Living && lot.name.is_some() {
-				buildings_heights.reserve(lot.floors.len());
 				buildings_offsets.push((lot.building, lot.level));
+			}
+
+			if lot.role != Role::Circulation {
+				buildings_heights.reserve(lot.floors.len());
 
 				for index in &lot.floors {
 					buildings_heights.push((lot.building, level_height(&shapes[*index])));
