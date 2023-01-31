@@ -81,9 +81,9 @@ impl<'de, 'a> Visitor<'de> for ImageVisitor<'a> {
 		Ok(Viewport::new(position, matrix, if path.starts_with("http://") || path.starts_with("https://") {
 			vec![
 				Frame::new(format!("{path}/{uri}")),
-				Frame::with_media_query(Some(String::from("image/webp")), Some(720 * 9 / 16), format!("{path}/{}", uri.replace(".jpg", "_720.webp"))),
-				Frame::with_media_query(Some(String::from("image/webp")), Some(1_080 * 9 / 16), format!("{path}/{}", uri.replace(".jpg", "_1080.webp"))),
-				Frame::with_media_query(Some(String::from("image/webp")), Some(1_440 * 9 / 16), format!("{path}/{}", uri.replace(".jpg", "_1440.webp"))),
+				Frame::with_media_query(Some(String::from("image/webp")), Some(720 * 16 / 9), format!("{path}/{}", uri.replace(".jpg", "_720.webp"))),
+				Frame::with_media_query(Some(String::from("image/webp")), Some(1_080 * 16 / 9), format!("{path}/{}", uri.replace(".jpg", "_1080.webp"))),
+				Frame::with_media_query(Some(String::from("image/webp")), Some(1_440 * 16 / 9), format!("{path}/{}", uri.replace(".jpg", "_1440.webp"))),
 				Frame::with_media_query(Some(String::from("image/webp")), None, format!("{path}/{}", uri.replace(".jpg", "_2160.webp"))),
 			]
 		} else {
