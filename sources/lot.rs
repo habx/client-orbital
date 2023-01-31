@@ -51,15 +51,15 @@ impl Lot {
 				floors.extend(shapes[start..end - 2]
 					.windows(3)
 					.enumerate()
-					.filter_map(|(index, window)| (window[0].is_vertical() && !window[1].is_vertical() && !window[2].is_vertical())
+					.filter_map(|(index, window)| (window[0].is_vertical() && window[1].is_horizontal() && window[2].is_horizontal())
 						.then_some(start + index + 2)));
 
 				for index in 0..floors.len() {
 					let start = floors[index];
 					let end = floors.get(index + 1).map_or(end - 1, |value| value - 1);
 
-					if let Some(floors_end) = shapes[start..end].iter().position(|shape| shape.is_vertical()) {
-						let (floors, walls) = shapes[start..end].split_at_mut(floors_end);
+					if let Some(first_wall) = shapes[start..end].iter().position(|shape| shape.is_vertical()) {
+						let (floors, walls) = shapes[start..end].split_at_mut(first_wall);
 
 						#[cfg(test)]
 						if floors.is_empty() {
@@ -70,7 +70,7 @@ impl Lot {
 
 						for shape in walls {
 							#[cfg(test)]
-							if !shape.is_vertical() {
+							if shape.is_horizontal() {
 								eprintln!("  {} floor among walls", identifier);
 							}
 
@@ -82,7 +82,9 @@ impl Lot {
 						floors.sort_unstable_by_key(|shape| (square_distance(shape.center(), center) * 10_000.) as i64);
 
 						for shape in floors {
-							if shape.is_upward_facing() {
+							// `is_height_positive` is a relaxed version of the `is_upward_facing` method.
+							// It allows other not-a-wall shapes, e.g. stairs, to be displayed on sectional views.
+							if shape.is_height_positive() {
 								shape.flip();
 							}
 						}
@@ -91,7 +93,7 @@ impl Lot {
 						let ceiling = &mut shapes[end];
 
 						#[cfg(test)]
-						if ceiling.is_vertical() {
+						if !ceiling.is_horizontal() {
 							eprintln!("  {} no ceiling", identifier);
 						}
 

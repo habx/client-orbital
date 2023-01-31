@@ -13,7 +13,7 @@ path = "./sources/lib.rs"
 gloo-events = "0.1"
 gloo-net = { version = "0.2", default-features = false, features = ["http"] }
 leptos = { version = "0.1", default-features = false, features = ["csr"] }
-orbit = { git = "https://github.com/alexisfontaine/orbit", tag = "v0.11.0" }
+orbit = { git = "https://github.com/alexisfontaine/orbit", tag = "v0.12.0" }
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1"
 

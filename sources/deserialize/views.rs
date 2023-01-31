@@ -111,9 +111,10 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 
 							let shape = &shapes[index];
 
+							// Filters out walls, ceilings and other shapes not considered a part of the current level floor.
 							(
 								!shape.is_vertical() &&
-								shape.is_downward_facing() &&
+								shape.is_height_negative() &&
 								project.shape_relative_level(lot.building, shape) == *relative
 							).then(|| {
 								let is_indoor = lot.floors.contains(&index);
@@ -132,7 +133,8 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 					lot.class(),
 					lot.range
 						.clone()
-						.filter_map(|index| shapes[index].is_vertical().then(|| Style::shape(format!("wall"), index, true, None)))
+						// Filters out floors and ceilings
+						.filter_map(|index| (!shapes[index].is_horizontal()).then(|| Style::shape(format!("wall"), index, true, None)))
 						.collect()
 				)))
 				.collect(),
