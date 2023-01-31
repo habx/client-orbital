@@ -140,7 +140,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 				.collect(),
 		};
 
-		cameras.push(Camera::new(format!("{width}/{height}"), viewports, styles));
+		cameras.push(Camera::new(width, height, viewports, styles));
 		identifiers.push(identifier);
 
 		if reverse {
