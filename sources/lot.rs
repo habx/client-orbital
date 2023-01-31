@@ -64,6 +64,7 @@ impl Lot {
 						#[cfg(test)]
 						if floors.is_empty() {
 							eprintln!("  {} no floor", identifier);
+							continue
 						}
 
 						let center = center(&walls.iter().map(Shape::center).collect::<Vec<_>>());
