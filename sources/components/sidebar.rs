@@ -3,7 +3,6 @@ use orbit::state::use_viewer_state;
 
 use crate::camera::Camera;
 use crate::format;
-use crate::lot::Role;
 
 use crate::context::use_context;
 
@@ -25,11 +24,7 @@ pub fn Sidebar (
 	let is_selected = create_selector(scope, selected);
 
 	let lots: Vec<_> = project.with(|project| (0..project.lots.len())
-		.filter(|&index| {
-			let lot = &project.lots[index];
-
-			lot.role == Role::Living && lot.name.is_some()
-		})
+		.filter(|&index| project.lots[index].is_visible())
 		.collect());
 
 	view!(scope,

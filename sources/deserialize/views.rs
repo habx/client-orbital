@@ -8,7 +8,6 @@ use serde::de::{DeserializeSeed, Error, IgnoredAny, MapAccess, SeqAccess, Visito
 
 use crate::camera::Camera as Identifier;
 use crate::project::Project;
-use crate::lot::Role;
 
 use super::images::ImagesVisitor;
 
@@ -100,7 +99,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 		let styles = match &identifier {
 			Identifier::Level { relative, .. } => project.lots
 				.iter()
-				.filter_map(|lot| (lot.role == Role::Living && lot.name.is_some()).then(|| Style::compound(
+				.filter_map(|lot| lot.is_visible().then(|| Style::compound(
 					lot.identifier.clone(),
 					lot.class(),
 					lot.range
@@ -128,7 +127,7 @@ impl<'de, 'a> Visitor<'de> for ViewVisitor<'a> {
 
 			Identifier::Regular { .. } => project.lots
 				.iter()
-				.filter_map(|lot| (lot.role == Role::Living && lot.name.is_some()).then(|| Style::compound(
+				.filter_map(|lot| lot.is_visible().then(|| Style::compound(
 					lot.identifier.clone(),
 					lot.class(),
 					lot.range

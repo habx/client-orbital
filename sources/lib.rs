@@ -1,4 +1,9 @@
-#![feature(portable_simd)]
+#![feature(
+	is_some_and,
+	iterator_try_collect,
+	portable_simd,
+	slice_group_by,
+)]
 
 
 pub mod camera;

@@ -19,6 +19,7 @@ pub struct Lot {
 	pub identifier: String,
 	pub images: Vec<(u8, String)>,
 	pub level: i8,
+	pub levels: Vec<i8>,
 	pub name: Option<String>,
 	pub range: Range<usize>,
 	pub role: Role,
@@ -34,6 +35,7 @@ impl Lot {
 		shapes: &mut [Shape],
 		identifier: String,
 		images: Vec<(u8, String)>,
+		levels: Vec<String>,
 		name: Option<String>,
 		slug: Option<String>,
 		surface_area: Option<u64>,
@@ -42,10 +44,12 @@ impl Lot {
 		let value = identifier.to_lowercase();
 
 		if let Some(((building, level), role)) = parse_building(&value).zip(parse_level(&value)).zip(Role::parse(&value)) {
-			let mut floors = vec![start];
 			let end = shapes.len();
+			let mut levels = parse_levels(levels);
+			let mut floors = Vec::with_capacity(levels.len());
 
-			if role == Role::Living {
+			if role != Role::Circulation {
+				floors.push(start);
 				shapes[start..].sort_unstable_by_key(|shape| (shape.center()[2] * 10_000.) as i64);
 
 				floors.extend(shapes[start..end - 2]
@@ -53,6 +57,21 @@ impl Lot {
 					.enumerate()
 					.filter_map(|(index, window)| (window[0].is_vertical() && window[1].is_horizontal() && window[2].is_horizontal())
 						.then_some(start + index + 2)));
+
+				if floors.len() != levels.len() {
+					#[cfg(test)]
+					if role == Role::Living {
+						if levels.is_empty() {
+							if floors.len() != 1 {
+								eprintln!("  {identifier} detected {} levels but none declared", floors.len());
+							}
+						} else {
+							eprintln!("  {identifier} detected {} levels out of the {} declared", floors.len(), levels.len());
+						}
+					}
+
+					levels.resize(floors.len(), level);
+				}
 
 				for index in 0..floors.len() {
 					let start = floors[index];
@@ -63,7 +82,7 @@ impl Lot {
 
 						#[cfg(test)]
 						if floors.is_empty() {
-							eprintln!("  {} no floor", identifier);
+							eprintln!("  {identifier} no floor");
 							continue
 						}
 
@@ -72,7 +91,7 @@ impl Lot {
 						for shape in walls {
 							#[cfg(test)]
 							if shape.is_horizontal() {
-								eprintln!("  {} floor among walls", identifier);
+								eprintln!("  {identifier} floor among walls");
 							}
 
 							if dot_product(center - shape.center(), shape.normal()).is_sign_positive() {
@@ -95,7 +114,7 @@ impl Lot {
 
 						#[cfg(test)]
 						if !ceiling.is_horizontal() {
-							eprintln!("  {} no ceiling", identifier);
+							eprintln!("  {identifier} no ceiling");
 						}
 
 						if ceiling.is_downward_facing() {
@@ -103,7 +122,7 @@ impl Lot {
 						}
 					} else {
 						#[cfg(test)]
-						eprintln!("  {} no walls", identifier);
+						eprintln!("  {identifier} no walls");
 					}
 				}
 			}
@@ -114,6 +133,7 @@ impl Lot {
 				identifier,
 				images,
 				level,
+				levels,
 				name,
 				range: start..end,
 				role,
@@ -126,6 +146,12 @@ impl Lot {
 		}
 	}
 
+	#[inline]
+	pub fn is_visible (&self) -> bool {
+		self.role == Role::Living && self.name.is_some()
+	}
+
+	#[inline]
 	pub fn class (&self) -> String {
 		format!("lot{}", self.typology.map_or_else(String::new, |typology| format!(" t{}", typology)))
 	}
@@ -144,15 +170,25 @@ impl Role {
 }
 
 
+#[inline]
 fn parse_building (value: &str) -> Option<u8> {
 	let value = &value[value.find('b')?..];
 
 	Some(value.split(char::is_alphabetic).nth(1)?.parse::<u8>().ok()? - 1)
 }
 
+#[inline]
 fn parse_level (value: &str) -> Option<i8> {
 	let value = &value[value.find(['e', 's'])?..];
 	let level: i8 = value.split(char::is_alphabetic).nth(1)?.parse().ok()?;
 
 	Some(if value.starts_with('s') { -level } else { level })
+}
+
+#[inline]
+fn parse_levels (value: Vec<String>) -> Vec<i8> {
+	let mut levels: Vec<_> = value.iter().map(|value| value.parse()).try_collect().unwrap_or_default();
+
+	levels.sort_unstable();
+	levels
 }

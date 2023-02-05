@@ -12,7 +12,7 @@ pub struct Project {
 	pub lots: Vec<Lot>,
 
 	angles: Vec<Vec<f64>>,
-	levels: Vec<Vec<isize>>,
+	heights: Vec<Vec<isize>>,
 	offset: i8,
 	offsets: Vec<i8>,
 }
@@ -20,60 +20,44 @@ pub struct Project {
 
 impl Project {
 	pub fn new (lots: Vec<Lot>, shapes: &mut [Shape]) -> Option<Self> {
-		let mut buildings_heights = Vec::new();
-		let mut buildings_offsets = Vec::with_capacity(lots.len());
+		let mut buildings: Vec<_> = lots
+			.iter()
+			.filter(|lot| lot.role != Role::Circulation)
+			.flat_map(|lot| lot.floors
+				.iter()
+				.zip(lot.levels.iter())
+				.map(|(index, level)| (lot.building as usize, shape_height(&shapes[*index]), !lot.is_visible(), *level)))
+			.collect();
 
-		for lot in &lots {
-			if lot.role == Role::Living && lot.name.is_some() {
-				buildings_offsets.push((lot.building, lot.level));
-			}
+		buildings.sort_unstable();
+		buildings.dedup_by_key(|(building, height, ..)| (*building, *height));
 
-			if lot.role != Role::Circulation {
-				buildings_heights.reserve(lot.floors.len());
+		let length = buildings.last().map_or(0, |(building, ..)| building + 1);
+		let mut heights = vec![Vec::new(); length];
+		let mut offsets = vec![i8::MAX; length];
+		let mut offset = None;
 
-				for index in &lot.floors {
-					buildings_heights.push((lot.building, level_height(&shapes[*index])));
+		for group in buildings.group_by(|group_a, group_b| group_a.0 == group_b.0) {
+			let mut iterator = group.iter().skip_while(|(.., is_hidden, _)| *is_hidden);
+
+			if let Some((.., level)) = iterator.next() {
+				let index = group[0].0;
+
+				heights[index].extend(iterator.map(|(_, height, ..)| *height));
+				offsets[index] = *level;
+
+				if !offset.is_some_and(|offset| offset <= *level) {
+					offset = Some(*level);
 				}
 			}
-		}
-
-		buildings_heights.sort_unstable();
-		buildings_offsets.sort_unstable();
-		buildings_heights.dedup();
-
-		let buildings = buildings_heights.last().map(|entry| entry.0 + 1).unwrap_or_default() as _;
-		let mut offsets = vec![i8::MAX; buildings];
-
-		for (index, level) in buildings_offsets {
-			let offset = &mut offsets[index as usize];
-
-			if level < *offset {
-				*offset = level;
-			}
-		}
-
-		let mut levels = vec![Vec::new(); buildings];
-		let mut iterator = buildings_heights.iter().peekable();
-		let length = buildings_heights.len();
-
-		while let Some((index, _)) = iterator.next() {
-			let levels = &mut levels[*index as usize];
-
-			levels.reserve(length);
-
-			while let Some((_, height)) = iterator.next_if(|(building, _)| building == index) {
-				levels.push(*height)
-			}
-
-			levels.shrink_to_fit();
 		}
 
 		Some(Self {
 			angles: Vec::new(),
 			cameras: Vec::new(),
-			levels,
+			heights,
 			lots,
-			offset: offsets.iter().min().copied().unwrap_or(0),
+			offset: offset.unwrap_or(0),
 			offsets,
 		})
 	}
@@ -116,18 +100,18 @@ impl Project {
 	}
 
 	pub fn shape_relative_level (&self, building: u8, shape: &Shape) -> u8 {
-		let mut height = level_height(shape);
+		let mut shape_height = shape_height(shape);
 
 		if !shape.is_downward_facing() {
-			height -= 1;
+			shape_height -= 1;
 		}
 
-		let levels = &self.levels[building as usize];
+		let heights = &self.heights[building as usize];
 
-		let level = levels
+		let level = heights
 			.iter()
-			.position(|&level_height| level_height > height)
-			.unwrap_or(levels.len()) as i8 + self.offsets[building as usize] - self.offset;
+			.position(|&height| height > shape_height)
+			.unwrap_or(heights.len()) as i8 + self.offsets[building as usize] - self.offset;
 
 		if level.is_negative() { 0 } else { level as _ }
 	}
@@ -135,6 +119,6 @@ impl Project {
 
 
 #[inline]
-fn level_height (shape: &Shape) -> isize {
+fn shape_height (shape: &Shape) -> isize {
 	shape.center()[2].round() as _
 }
