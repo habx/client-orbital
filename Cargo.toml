@@ -5,6 +5,7 @@ authors = ["habx"]
 edition = "2021"
 description = "Real-estate project viewer"
 readme = "readme.md"
+build = "./sources/build.rs"
 
 [lib]
 path = "./sources/lib.rs"
@@ -28,6 +29,10 @@ features = [
 	"Location",
 	"UrlSearchParams",
 ]
+
+[dev-dependencies]
+futures = "0.3"
+wasm-bindgen-test = "0.3"
 
 [profile.release]
 codegen-units = 1
