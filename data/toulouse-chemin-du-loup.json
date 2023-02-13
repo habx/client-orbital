@@ -7,7 +7,7 @@
 			"w": 3840,
 			"h": 2160
 		},
-		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/orbital"
+		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup"
 	},
 	"lots": [
 		{
@@ -609,11 +609,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E0L01/0/snapshot.jpg"
+					"B1E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E0L01/0/snapshot_0.jpg"
+					"B1E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -804,11 +804,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E0L02/0/snapshot.jpg"
+					"B1E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E0L02/0/snapshot_0.jpg"
+					"B1E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1111,11 +1111,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E0L03/0/snapshot.jpg"
+					"B1E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E0L03/0/snapshot_0.jpg"
+					"B1E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1606,11 +1606,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E1L01/1/snapshot.jpg"
+					"B1E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E1L01/1/snapshot_0.jpg"
+					"B1E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1789,11 +1789,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E1L02/1/snapshot.jpg"
+					"B1E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E1L02/1/snapshot_0.jpg"
+					"B1E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1972,11 +1972,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E1L03/1/snapshot.jpg"
+					"B1E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E1L03/1/snapshot_0.jpg"
+					"B1E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2205,11 +2205,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E1L04/1/snapshot.jpg"
+					"B1E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E1L04/1/snapshot_0.jpg"
+					"B1E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2488,11 +2488,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E2L01/2/snapshot.jpg"
+					"B1E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E2L01/2/snapshot_0.jpg"
+					"B1E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2771,11 +2771,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E2L02/2/snapshot.jpg"
+					"B1E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B1E2L02/2/snapshot_0.jpg"
+					"B1E2L02/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3440,11 +3440,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E0L01/0/snapshot.jpg"
+					"B2E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E0L01/0/snapshot_0.jpg"
+					"B2E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3635,11 +3635,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E0L02/0/snapshot.jpg"
+					"B2E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E0L02/0/snapshot_0.jpg"
+					"B2E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3880,11 +3880,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E0L03/0/snapshot.jpg"
+					"B2E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E0L03/0/snapshot_0.jpg"
+					"B2E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4375,11 +4375,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E1L01/1/snapshot.jpg"
+					"B2E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E1L01/1/snapshot_0.jpg"
+					"B2E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4558,11 +4558,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E1L02/1/snapshot.jpg"
+					"B2E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E1L02/1/snapshot_0.jpg"
+					"B2E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4741,11 +4741,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E1L03/1/snapshot.jpg"
+					"B2E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E1L03/1/snapshot_0.jpg"
+					"B2E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4974,11 +4974,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E1L04/1/snapshot.jpg"
+					"B2E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E1L04/1/snapshot_0.jpg"
+					"B2E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5332,11 +5332,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E2L01/2/snapshot.jpg"
+					"B2E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B2E2L01/2/snapshot_0.jpg"
+					"B2E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6001,11 +6001,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E0L01/0/snapshot.jpg"
+					"B3E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E0L01/0/snapshot_0.jpg"
+					"B3E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6246,11 +6246,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E0L02/0/snapshot.jpg"
+					"B3E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E0L02/0/snapshot_0.jpg"
+					"B3E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6491,11 +6491,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E0L03/0/snapshot.jpg"
+					"B3E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E0L03/0/snapshot_0.jpg"
+					"B3E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6986,11 +6986,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E1L01/1/snapshot.jpg"
+					"B3E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E1L01/1/snapshot_0.jpg"
+					"B3E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7169,11 +7169,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E1L02/1/snapshot.jpg"
+					"B3E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E1L02/1/snapshot_0.jpg"
+					"B3E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7402,11 +7402,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E1L03/1/snapshot.jpg"
+					"B3E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E1L03/1/snapshot_0.jpg"
+					"B3E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7635,11 +7635,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E1L04/1/snapshot.jpg"
+					"B3E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E1L04/1/snapshot_0.jpg"
+					"B3E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7993,11 +7993,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E2L01/2/snapshot.jpg"
+					"B3E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B3E2L01/2/snapshot_0.jpg"
+					"B3E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8662,11 +8662,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E0L01/0/snapshot.jpg"
+					"B4E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E0L01/0/snapshot_0.jpg"
+					"B4E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8857,11 +8857,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E0L02/0/snapshot.jpg"
+					"B4E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E0L02/0/snapshot_0.jpg"
+					"B4E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9102,11 +9102,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E0L03/0/snapshot.jpg"
+					"B4E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E0L03/0/snapshot_0.jpg"
+					"B4E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9597,11 +9597,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E1L01/1/snapshot.jpg"
+					"B4E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E1L01/1/snapshot_0.jpg"
+					"B4E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9780,11 +9780,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E1L02/1/snapshot.jpg"
+					"B4E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E1L02/1/snapshot_0.jpg"
+					"B4E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10013,11 +10013,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E1L03/1/snapshot.jpg"
+					"B4E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E1L03/1/snapshot_0.jpg"
+					"B4E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10246,11 +10246,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E1L04/1/snapshot.jpg"
+					"B4E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E1L04/1/snapshot_0.jpg"
+					"B4E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10529,11 +10529,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E2L01/2/snapshot.jpg"
+					"B4E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E2L01/2/snapshot_0.jpg"
+					"B4E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10812,11 +10812,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E2L02/2/snapshot.jpg"
+					"B4E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/toulouse-chemin-du-loup/dollhouses/B4E2L02/2/snapshot_0.jpg"
+					"B4E2L02/2/snapshot_0.jpg"
 				]
 			]
 		}

@@ -7,7 +7,7 @@
 			"w": 3840,
 			"h": 2160
 		},
-		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/orbital"
+		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel"
 	},
 	"lots": [
 		{
@@ -235,11 +235,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E0L01/0/snapshot.jpg"
+					"B1E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E0L01/0/snapshot_0.jpg"
+					"B1E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -435,11 +435,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E0L02/0/snapshot.jpg"
+					"B1E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E0L02/0/snapshot_0.jpg"
+					"B1E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -668,11 +668,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E1L01/1/snapshot.jpg"
+					"B1E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E1L01/1/snapshot_0.jpg"
+					"B1E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -951,11 +951,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E1L02/1/snapshot.jpg"
+					"B1E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E1L02/1/snapshot_0.jpg"
+					"B1E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1184,11 +1184,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E1L03/1/snapshot.jpg"
+					"B1E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E1L03/1/snapshot_0.jpg"
+					"B1E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1417,11 +1417,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E1L04/1/snapshot.jpg"
+					"B1E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E1L04/1/snapshot_0.jpg"
+					"B1E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1700,11 +1700,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E1L05/1/snapshot.jpg"
+					"B1E1L05/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E1L05/1/snapshot_0.jpg"
+					"B1E1L05/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1933,11 +1933,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E2L01/2/snapshot.jpg"
+					"B1E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E2L01/2/snapshot_0.jpg"
+					"B1E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2216,11 +2216,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E2L02/2/snapshot.jpg"
+					"B1E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E2L02/2/snapshot_0.jpg"
+					"B1E2L02/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2449,11 +2449,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E2L03/2/snapshot.jpg"
+					"B1E2L03/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E2L03/2/snapshot_0.jpg"
+					"B1E2L03/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2682,11 +2682,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E2L04/2/snapshot.jpg"
+					"B1E2L04/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E2L04/2/snapshot_0.jpg"
+					"B1E2L04/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2965,11 +2965,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E2L05/2/snapshot.jpg"
+					"B1E2L05/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E2L05/2/snapshot_0.jpg"
+					"B1E2L05/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3198,11 +3198,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E3L01/3/snapshot.jpg"
+					"B1E3L01/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E3L01/3/snapshot_0.jpg"
+					"B1E3L01/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3431,11 +3431,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E3L02/3/snapshot.jpg"
+					"B1E3L02/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E3L02/3/snapshot_0.jpg"
+					"B1E3L02/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3614,11 +3614,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E3L03/3/snapshot.jpg"
+					"B1E3L03/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E3L03/3/snapshot_0.jpg"
+					"B1E3L03/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3797,11 +3797,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E3L04/3/snapshot.jpg"
+					"B1E3L04/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E3L04/3/snapshot_0.jpg"
+					"B1E3L04/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4080,11 +4080,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E3L05/3/snapshot.jpg"
+					"B1E3L05/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B1E3L05/3/snapshot_0.jpg"
+					"B1E3L05/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4413,11 +4413,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E1L01/4/snapshot.jpg"
+					"B2E1L01/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E1L01/4/snapshot_0.jpg"
+					"B2E1L01/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4646,11 +4646,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E1L02/4/snapshot.jpg"
+					"B2E1L02/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E1L02/4/snapshot_0.jpg"
+					"B2E1L02/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4829,11 +4829,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E1L03/4/snapshot.jpg"
+					"B2E1L03/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E1L03/4/snapshot_0.jpg"
+					"B2E1L03/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5174,11 +5174,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E2L01/2/snapshot.jpg"
+					"B2E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E2L01/2/snapshot_0.jpg"
+					"B2E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5407,11 +5407,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E2L02/2/snapshot.jpg"
+					"B2E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E2L02/2/snapshot_0.jpg"
+					"B2E2L02/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5590,11 +5590,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E2L03/3/snapshot.jpg"
+					"B2E2L03/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E2L03/3/snapshot_0.jpg"
+					"B2E2L03/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5923,11 +5923,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E3L01/4/snapshot.jpg"
+					"B2E3L01/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E3L01/4/snapshot_0.jpg"
+					"B2E3L01/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6156,11 +6156,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E3L02/3/snapshot.jpg"
+					"B2E3L02/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E3L02/3/snapshot_0.jpg"
+					"B2E3L02/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6339,11 +6339,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E3L03/3/snapshot.jpg"
+					"B2E3L03/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B2E3L03/3/snapshot_0.jpg"
+					"B2E3L03/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6672,11 +6672,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E1L01/1/snapshot.jpg"
+					"B3E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E1L01/1/snapshot_0.jpg"
+					"B3E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6955,11 +6955,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E1L02/1/snapshot.jpg"
+					"B3E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E1L02/1/snapshot_0.jpg"
+					"B3E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7138,11 +7138,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E1L03/1/snapshot.jpg"
+					"B3E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E1L03/1/snapshot_0.jpg"
+					"B3E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7483,11 +7483,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E2L01/2/snapshot.jpg"
+					"B3E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E2L01/2/snapshot_0.jpg"
+					"B3E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7716,11 +7716,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E2L02/2/snapshot.jpg"
+					"B3E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E2L02/2/snapshot_0.jpg"
+					"B3E2L02/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7899,11 +7899,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E2L03/2/snapshot.jpg"
+					"B3E2L03/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E2L03/2/snapshot_0.jpg"
+					"B3E2L03/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8232,11 +8232,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E3L01/3/snapshot.jpg"
+					"B3E3L01/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E3L01/3/snapshot_0.jpg"
+					"B3E3L01/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8465,11 +8465,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E3L02/3/snapshot.jpg"
+					"B3E3L02/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E3L02/3/snapshot_0.jpg"
+					"B3E3L02/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8648,11 +8648,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E3L03/3/snapshot.jpg"
+					"B3E3L03/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B3E3L03/3/snapshot_0.jpg"
+					"B3E3L03/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8881,11 +8881,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E0L01/0/snapshot.jpg"
+					"B4E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E0L01/0/snapshot_0.jpg"
+					"B4E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9081,11 +9081,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E0L02/0/snapshot.jpg"
+					"B4E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E0L02/0/snapshot_0.jpg"
+					"B4E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9231,11 +9231,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E0L03/0/snapshot.jpg"
+					"B4E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E0L03/0/snapshot_0.jpg"
+					"B4E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9464,11 +9464,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L01/1/snapshot.jpg"
+					"B4E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L01/1/snapshot_0.jpg"
+					"B4E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9747,11 +9747,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L02/1/snapshot.jpg"
+					"B4E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L02/1/snapshot_0.jpg"
+					"B4E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9980,11 +9980,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L03/1/snapshot.jpg"
+					"B4E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L03/1/snapshot_0.jpg"
+					"B4E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10213,11 +10213,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L04/1/snapshot.jpg"
+					"B4E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L04/1/snapshot_0.jpg"
+					"B4E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10496,11 +10496,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L05/1/snapshot.jpg"
+					"B4E1L05/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L05/1/snapshot_0.jpg"
+					"B4E1L05/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10679,11 +10679,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L06/1/snapshot.jpg"
+					"B4E1L06/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E1L06/1/snapshot_0.jpg"
+					"B4E1L06/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10912,11 +10912,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L01/2/snapshot.jpg"
+					"B4E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L01/2/snapshot_0.jpg"
+					"B4E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11195,11 +11195,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L02/2/snapshot.jpg"
+					"B4E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L02/2/snapshot_0.jpg"
+					"B4E2L02/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11428,11 +11428,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L03/2/snapshot.jpg"
+					"B4E2L03/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L03/2/snapshot_0.jpg"
+					"B4E2L03/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11661,11 +11661,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L04/2/snapshot.jpg"
+					"B4E2L04/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L04/2/snapshot_0.jpg"
+					"B4E2L04/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11944,11 +11944,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L05/2/snapshot.jpg"
+					"B4E2L05/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L05/2/snapshot_0.jpg"
+					"B4E2L05/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12127,11 +12127,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L06/2/snapshot.jpg"
+					"B4E2L06/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E2L06/2/snapshot_0.jpg"
+					"B4E2L06/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12360,11 +12360,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L01/3/snapshot.jpg"
+					"B4E3L01/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L01/3/snapshot_0.jpg"
+					"B4E3L01/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12593,11 +12593,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L02/3/snapshot.jpg"
+					"B4E3L02/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L02/3/snapshot_0.jpg"
+					"B4E3L02/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12826,11 +12826,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L03/3/snapshot.jpg"
+					"B4E3L03/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L03/3/snapshot_0.jpg"
+					"B4E3L03/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13059,11 +13059,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L04/3/snapshot.jpg"
+					"B4E3L04/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L04/3/snapshot_0.jpg"
+					"B4E3L04/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13342,11 +13342,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L05/3/snapshot.jpg"
+					"B4E3L05/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L05/3/snapshot_0.jpg"
+					"B4E3L05/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13525,11 +13525,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L06/3/snapshot.jpg"
+					"B4E3L06/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E3L06/3/snapshot_0.jpg"
+					"B4E3L06/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13758,11 +13758,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L01/4/snapshot.jpg"
+					"B4E4L01/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L01/4/snapshot_0.jpg"
+					"B4E4L01/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13991,11 +13991,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L02/4/snapshot.jpg"
+					"B4E4L02/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L02/4/snapshot_0.jpg"
+					"B4E4L02/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -14224,11 +14224,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L03/4/snapshot.jpg"
+					"B4E4L03/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L03/4/snapshot_0.jpg"
+					"B4E4L03/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -14457,11 +14457,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L04/4/snapshot.jpg"
+					"B4E4L04/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L04/4/snapshot_0.jpg"
+					"B4E4L04/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -14740,11 +14740,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L05/4/snapshot.jpg"
+					"B4E4L05/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L05/4/snapshot_0.jpg"
+					"B4E4L05/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -14923,11 +14923,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L06/4/snapshot.jpg"
+					"B4E4L06/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E4L06/4/snapshot_0.jpg"
+					"B4E4L06/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -15289,11 +15289,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E5L01/5/snapshot.jpg"
+					"B4E5L01/5/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E5L01/5/snapshot_0.jpg"
+					"B4E5L01/5/snapshot_0.jpg"
 				]
 			]
 		},
@@ -15572,11 +15572,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E5L02/5/snapshot.jpg"
+					"B4E5L02/5/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/tourcoing-le-residentiel/dollhouses/B4E5L02/5/snapshot_0.jpg"
+					"B4E5L02/5/snapshot_0.jpg"
 				]
 			]
 		}

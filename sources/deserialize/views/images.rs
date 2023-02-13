@@ -6,7 +6,7 @@ use orbit::model::{Frame, Viewport};
 use serde::Deserializer;
 use serde::de::{DeserializeSeed, Error, IgnoredAny, MapAccess, SeqAccess, Visitor};
 
-use super::points::PointVisitor;
+use crate::deserialize::points::PointVisitor;
 
 
 struct ImageVisitor<'a>(ImagesVisitor<'a>);
@@ -78,22 +78,13 @@ impl<'de, 'a> Visitor<'de> for ImageVisitor<'a> {
 		let uri = uri.ok_or(Error::missing_field("uri"))?;
 		let path = &self.0.path;
 
-		Ok(Viewport::new(position, matrix, if path.starts_with("http://") || path.starts_with("https://") {
-			vec![
-				Frame::new(format!("{path}/{uri}")),
-				Frame::with_media_query(Some(String::from("image/webp")), Some(720), format!("{path}/{}", uri.replace(".jpg", "_720.webp"))),
-				Frame::with_media_query(Some(String::from("image/webp")), Some(1_080), format!("{path}/{}", uri.replace(".jpg", "_1080.webp"))),
-				Frame::with_media_query(Some(String::from("image/webp")), Some(1_440), format!("{path}/{}", uri.replace(".jpg", "_1440.webp"))),
-				Frame::with_media_query(Some(String::from("image/webp")), None, format!("{path}/{}", uri.replace(".jpg", "_2160.webp"))),
-			]
-		} else {
-			vec![
-				Frame::new(format!("https://cdn.habx.com/image/upload/v1/cdn/{path}/{uri}")),
-				Frame::with_media_query(None, Some(1_280), format!("https://cdn.habx.com/image/upload/c_scale,w_1280/v1/cdn/{path}/{uri}")),
-				Frame::with_media_query(None, Some(1_920), format!("https://cdn.habx.com/image/upload/c_scale,w_1920/v1/cdn/{path}/{uri}")),
-				Frame::with_media_query(None, Some(2_560), format!("https://cdn.habx.com/image/upload/c_scale,w_2560/v1/cdn/{path}/{uri}")),
-			]
-		}))
+		Ok(Viewport::new(position, matrix, vec![
+			Frame::new(format!("{path}/orbital/{uri}")),
+			Frame::with_media_query(Some(String::from("image/webp")), Some(720), format!("{path}/orbital/{}", uri.replace(".jpg", "_720.webp"))),
+			Frame::with_media_query(Some(String::from("image/webp")), Some(1_080), format!("{path}/orbital/{}", uri.replace(".jpg", "_1080.webp"))),
+			Frame::with_media_query(Some(String::from("image/webp")), Some(1_440), format!("{path}/orbital/{}", uri.replace(".jpg", "_1440.webp"))),
+			Frame::with_media_query(Some(String::from("image/webp")), None, format!("{path}/orbital/{}", uri.replace(".jpg", "_2160.webp"))),
+		]))
 	}
 }
 

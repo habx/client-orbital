@@ -7,7 +7,7 @@
 			"w": 3840,
 			"h": 2160
 		},
-		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/orbital"
+		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite"
 	},
 	"lots": [
 		{
@@ -254,11 +254,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E0L01/0/snapshot.jpg"
+					"B3E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E0L01/0/snapshot_0.jpg"
+					"B3E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -500,11 +500,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E0L02/0/snapshot.jpg"
+					"B3E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E0L02/0/snapshot_0.jpg"
+					"B3E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -833,11 +833,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E0L03/0/snapshot.jpg"
+					"B3E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E0L03/0/snapshot_0.jpg"
+					"B3E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1141,11 +1141,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E0L04/0/snapshot.jpg"
+					"B3E0L04/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E0L04/0/snapshot_0.jpg"
+					"B3E0L04/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1599,11 +1599,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E0L05/0/snapshot.jpg"
+					"B3E0L05/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E0L05/0/snapshot_0.jpg"
+					"B3E0L05/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1833,11 +1833,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L01/1/snapshot.jpg"
+					"B3E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L01/1/snapshot_0.jpg"
+					"B3E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2117,11 +2117,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L02/1/snapshot.jpg"
+					"B3E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L02/1/snapshot_0.jpg"
+					"B3E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2401,11 +2401,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L03/1/snapshot.jpg"
+					"B3E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L03/1/snapshot_0.jpg"
+					"B3E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2635,11 +2635,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L04/1/snapshot.jpg"
+					"B3E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L04/1/snapshot_0.jpg"
+					"B3E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2894,11 +2894,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L05/1/snapshot.jpg"
+					"B3E1L05/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L05/1/snapshot_0.jpg"
+					"B3E1L05/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3178,11 +3178,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L06/1/snapshot.jpg"
+					"B3E1L06/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L06/1/snapshot_0.jpg"
+					"B3E1L06/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3562,11 +3562,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L07/1/snapshot.jpg"
+					"B3E1L07/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L07/1/snapshot_0.jpg"
+					"B3E1L07/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3958,11 +3958,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L08/1/snapshot.jpg"
+					"B3E1L08/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B3E1L08/1/snapshot_0.jpg"
+					"B3E1L08/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4372,11 +4372,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E0L01/0/snapshot.jpg"
+					"B4E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E0L01/0/snapshot_0.jpg"
+					"B4E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4680,11 +4680,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E0L02/0/snapshot.jpg"
+					"B4E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E0L02/0/snapshot_0.jpg"
+					"B4E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4957,11 +4957,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E0L03/0/snapshot.jpg"
+					"B4E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E0L03/0/snapshot_0.jpg"
+					"B4E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5239,11 +5239,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E0L04/0/snapshot.jpg"
+					"B4E0L04/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E0L04/0/snapshot_0.jpg"
+					"B4E0L04/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5503,11 +5503,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E0L05/0/snapshot.jpg"
+					"B4E0L05/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E0L05/0/snapshot_0.jpg"
+					"B4E0L05/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5899,11 +5899,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L01/1/snapshot.jpg"
+					"B4E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L01/1/snapshot_0.jpg"
+					"B4E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6283,11 +6283,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L02/1/snapshot.jpg"
+					"B4E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L02/1/snapshot_0.jpg"
+					"B4E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6567,11 +6567,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L03/1/snapshot.jpg"
+					"B4E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L03/1/snapshot_0.jpg"
+					"B4E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6826,11 +6826,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L04/1/snapshot.jpg"
+					"B4E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L04/1/snapshot_0.jpg"
+					"B4E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7060,11 +7060,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L05/1/snapshot.jpg"
+					"B4E1L05/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L05/1/snapshot_0.jpg"
+					"B4E1L05/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7344,11 +7344,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L06/1/snapshot.jpg"
+					"B4E1L06/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L06/1/snapshot_0.jpg"
+					"B4E1L06/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7578,11 +7578,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L07/1/snapshot.jpg"
+					"B4E1L07/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B4E1L07/1/snapshot_0.jpg"
+					"B4E1L07/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7812,11 +7812,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E0L01/0/snapshot.jpg"
+					"B5E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E0L01/0/snapshot_0.jpg"
+					"B5E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8108,11 +8108,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E0L02/0/snapshot.jpg"
+					"B5E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E0L02/0/snapshot_0.jpg"
+					"B5E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8416,11 +8416,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E0L03/0/snapshot.jpg"
+					"B5E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E0L03/0/snapshot_0.jpg"
+					"B5E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8668,11 +8668,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E0L04/0/snapshot.jpg"
+					"B5E0L04/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E0L04/0/snapshot_0.jpg"
+					"B5E0L04/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8952,11 +8952,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E1L01/1/snapshot.jpg"
+					"B5E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E1L01/1/snapshot_0.jpg"
+					"B5E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9236,11 +9236,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E1L02/1/snapshot.jpg"
+					"B5E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E1L02/1/snapshot_0.jpg"
+					"B5E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9520,11 +9520,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E1L03/1/snapshot.jpg"
+					"B5E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E1L03/1/snapshot_0.jpg"
+					"B5E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9804,11 +9804,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E1L04/1/snapshot.jpg"
+					"B5E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B5E1L04/1/snapshot_0.jpg"
+					"B5E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10038,11 +10038,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E0L01/0/snapshot.jpg"
+					"B6E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E0L01/0/snapshot_0.jpg"
+					"B6E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10334,11 +10334,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E0L02/0/snapshot.jpg"
+					"B6E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E0L02/0/snapshot_0.jpg"
+					"B6E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10630,11 +10630,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E0L03/0/snapshot.jpg"
+					"B6E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E0L03/0/snapshot_0.jpg"
+					"B6E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10876,11 +10876,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E0L04/0/snapshot.jpg"
+					"B6E0L04/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E0L04/0/snapshot_0.jpg"
+					"B6E0L04/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11160,11 +11160,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E1L01/1/snapshot.jpg"
+					"B6E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E1L01/1/snapshot_0.jpg"
+					"B6E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11444,11 +11444,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E1L02/1/snapshot.jpg"
+					"B6E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E1L02/1/snapshot_0.jpg"
+					"B6E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11728,11 +11728,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E1L03/1/snapshot.jpg"
+					"B6E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E1L03/1/snapshot_0.jpg"
+					"B6E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12012,11 +12012,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E1L04/1/snapshot.jpg"
+					"B6E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B6E1L04/1/snapshot_0.jpg"
+					"B6E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12264,11 +12264,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E0L01/0/snapshot.jpg"
+					"B7E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E0L01/0/snapshot_0.jpg"
+					"B7E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12560,11 +12560,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E0L02/0/snapshot.jpg"
+					"B7E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E0L02/0/snapshot_0.jpg"
+					"B7E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12844,11 +12844,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E0L03/0/snapshot.jpg"
+					"B7E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E0L03/0/snapshot_0.jpg"
+					"B7E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13078,11 +13078,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E0L04/0/snapshot.jpg"
+					"B7E0L04/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E0L04/0/snapshot_0.jpg"
+					"B7E0L04/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13362,11 +13362,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E1L01/1/snapshot.jpg"
+					"B7E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E1L01/1/snapshot_0.jpg"
+					"B7E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13646,11 +13646,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E1L02/1/snapshot.jpg"
+					"B7E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E1L02/1/snapshot_0.jpg"
+					"B7E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13930,11 +13930,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E1L03/1/snapshot.jpg"
+					"B7E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E1L03/1/snapshot_0.jpg"
+					"B7E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -14214,11 +14214,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E1L04/1/snapshot.jpg"
+					"B7E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/pessac-le-parc-habite/dollhouses/B7E1L04/1/snapshot_0.jpg"
+					"B7E1L04/1/snapshot_0.jpg"
 				]
 			]
 		}

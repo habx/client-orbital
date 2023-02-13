@@ -48,14 +48,17 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 		while let Some(key) = map.next_key()? {
 			match key {
 				"lots" => {
+					let Meta { path, .. } = meta.as_ref().take().ok_or(Error::custom("field `meta` must precede `lots`"))?;
+
 					let value = RefCell::new(Vec::new());
 
-					lots = Some(map.next_value_seed(LotsVisitor { shapes: &value })?);
+					lots = Some(map.next_value_seed(LotsVisitor { path, shapes: &value })?);
 					shapes = Some(value);
 				},
 				"meta" => meta = map.next_value()?,
 				"views" => {
-					let Meta { path, size } = meta.take().ok_or(Error::custom("field `meta` must precede `views`"))?;
+					let Meta { path, size } = meta.as_ref().take().ok_or(Error::custom("field `meta` must precede `views`"))?;
+
 					let lots = lots.take().ok_or(Error::custom("field `lots` must precede `views`"))?;
 					// TODO: Merge the different types into a single wrapper
 					let angles = RefCell::new(Vec::new());
@@ -70,7 +73,7 @@ impl<'de> Visitor<'de> for ManifestVisitor {
 						cameras: &cameras_shared,
 						height: size.height,
 						identifiers: &identifiers,
-						path: &path,
+						path,
 						project: &value,
 						shapes: &*shapes.borrow(),
 						width: size.width,

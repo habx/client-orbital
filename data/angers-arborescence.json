@@ -7,7 +7,7 @@
 			"w": 3840,
 			"h": 2160
 		},
-		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/orbital"
+		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence"
 	},
 	"lots": [
 		{
@@ -24,11 +24,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E0L01/0/snapshot.jpg"
+					"B1E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E0L01/0/snapshot_0.jpg"
+					"B1E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -430,11 +430,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E10L01/10/snapshot.jpg"
+					"B1E10L01/10/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E10L01/10/snapshot_0.jpg"
+					"B1E10L01/10/snapshot_0.jpg"
 				]
 			]
 		},
@@ -968,11 +968,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E10L03/10/snapshot.jpg"
+					"B1E10L03/10/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E10L03/10/snapshot_0.jpg"
+					"B1E10L03/10/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1399,11 +1399,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E10L04/10/snapshot.jpg"
+					"B1E10L04/10/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E10L04/10/snapshot_0.jpg"
+					"B1E10L04/10/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1921,11 +1921,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E11L01/11/snapshot.jpg"
+					"B1E11L01/11/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E11L01/11/snapshot_0.jpg"
+					"B1E11L01/11/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2642,11 +2642,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E11L02/11/snapshot.jpg"
+					"B1E11L02/11/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E11L02/11/snapshot_0.jpg"
+					"B1E11L02/11/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2664,11 +2664,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E3L18/3/snapshot.jpg"
+					"B1E3L18/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E3L18/3/snapshot_0.jpg"
+					"B1E3L18/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3058,11 +3058,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L01/6/snapshot.jpg"
+					"B1E6L01/6/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L01/6/snapshot_0.jpg"
+					"B1E6L01/6/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3394,11 +3394,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L02/6/snapshot.jpg"
+					"B1E6L02/6/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L02/6/snapshot_0.jpg"
+					"B1E6L02/6/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3831,11 +3831,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L03/6/snapshot.jpg"
+					"B1E6L03/6/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L03/6/snapshot_0.jpg"
+					"B1E6L03/6/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4143,11 +4143,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L04/6/snapshot.jpg"
+					"B1E6L04/6/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L04/6/snapshot_0.jpg"
+					"B1E6L04/6/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4413,11 +4413,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L05/6/snapshot.jpg"
+					"B1E6L05/6/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L05/6/snapshot_0.jpg"
+					"B1E6L05/6/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4981,11 +4981,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L06/6/snapshot.jpg"
+					"B1E6L06/6/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E6L06/6/snapshot_0.jpg"
+					"B1E6L06/6/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5381,11 +5381,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L01/7/snapshot.jpg"
+					"B1E7L01/7/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L01/7/snapshot_0.jpg"
+					"B1E7L01/7/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5689,11 +5689,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L02/7/snapshot.jpg"
+					"B1E7L02/7/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L02/7/snapshot_0.jpg"
+					"B1E7L02/7/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6196,11 +6196,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L03/7/snapshot.jpg"
+					"B1E7L03/7/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L03/7/snapshot_0.jpg"
+					"B1E7L03/7/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6546,11 +6546,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L04/7/snapshot.jpg"
+					"B1E7L04/7/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L04/7/snapshot_0.jpg"
+					"B1E7L04/7/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6822,11 +6822,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L05/7/snapshot.jpg"
+					"B1E7L05/7/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L05/7/snapshot_0.jpg"
+					"B1E7L05/7/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7415,11 +7415,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L06/7/snapshot.jpg"
+					"B1E7L06/7/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E7L06/7/snapshot_0.jpg"
+					"B1E7L06/7/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7715,11 +7715,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E8L01/8/snapshot.jpg"
+					"B1E8L01/8/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E8L01/8/snapshot_0.jpg"
+					"B1E8L01/8/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7973,11 +7973,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E8L02/8/snapshot.jpg"
+					"B1E8L02/8/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E8L02/8/snapshot_0.jpg"
+					"B1E8L02/8/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8298,11 +8298,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E8L03/8/snapshot.jpg"
+					"B1E8L03/8/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E8L03/8/snapshot_0.jpg"
+					"B1E8L03/8/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8542,11 +8542,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E8L04/8/snapshot.jpg"
+					"B1E8L04/8/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E8L04/8/snapshot_0.jpg"
+					"B1E8L04/8/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9115,11 +9115,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E8L05/8/snapshot.jpg"
+					"B1E8L05/8/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E8L05/8/snapshot_0.jpg"
+					"B1E8L05/8/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9982,11 +9982,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E9L02/9/snapshot.jpg"
+					"B1E9L02/9/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E9L02/9/snapshot_0.jpg"
+					"B1E9L02/9/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10208,11 +10208,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E9L03/9/snapshot.jpg"
+					"B1E9L03/9/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E9L03/9/snapshot_0.jpg"
+					"B1E9L03/9/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10664,11 +10664,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E9L04/9/snapshot.jpg"
+					"B1E9L04/9/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/angers-arborescence/dollhouses/B1E9L04/9/snapshot_0.jpg"
+					"B1E9L04/9/snapshot_0.jpg"
 				]
 			]
 		}

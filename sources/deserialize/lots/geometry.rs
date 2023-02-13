@@ -5,8 +5,9 @@ use orbit::model::Shape;
 use serde::Deserializer;
 use serde::de::{DeserializeSeed, Error, IgnoredAny, MapAccess, Visitor};
 
+use crate::deserialize::points::PointsVisitor;
+
 use super::faces::FacesVisitor;
-use super::points::PointsVisitor;
 
 
 pub struct GeometryVisitor<'a> {

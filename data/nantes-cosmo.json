@@ -7,7 +7,7 @@
 			"w": 3840,
 			"h": 2160
 		},
-		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/orbital"
+		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo"
 	},
 	"lots": [
 		{
@@ -187,11 +187,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L01/1/snapshot.jpg"
+					"B1E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L01/1/snapshot_0.jpg"
+					"B1E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -324,11 +324,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L02/1/snapshot.jpg"
+					"B1E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L02/1/snapshot_0.jpg"
+					"B1E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -551,11 +551,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L03/1/snapshot.jpg"
+					"B1E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L03/1/snapshot_0.jpg"
+					"B1E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -754,11 +754,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L04/1/snapshot.jpg"
+					"B1E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L04/1/snapshot_0.jpg"
+					"B1E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1161,11 +1161,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L05/1/snapshot.jpg"
+					"B1E1L05/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L05/1/snapshot_0.jpg"
+					"B1E1L05/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1451,11 +1451,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L06/1/snapshot.jpg"
+					"B1E1L06/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E1L06/1/snapshot_0.jpg"
+					"B1E1L06/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1636,11 +1636,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L01/2/snapshot.jpg"
+					"B1E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L01/2/snapshot_0.jpg"
+					"B1E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1773,11 +1773,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L02/2/snapshot.jpg"
+					"B1E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L02/2/snapshot_0.jpg"
+					"B1E2L02/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1967,11 +1967,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L03/2/snapshot.jpg"
+					"B1E2L03/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L03/2/snapshot_0.jpg"
+					"B1E2L03/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2170,11 +2170,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L04/2/snapshot.jpg"
+					"B1E2L04/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L04/2/snapshot_0.jpg"
+					"B1E2L04/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2544,11 +2544,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L05/2/snapshot.jpg"
+					"B1E2L05/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L05/2/snapshot_0.jpg"
+					"B1E2L05/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2834,11 +2834,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L06/2/snapshot.jpg"
+					"B1E2L06/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E2L06/2/snapshot_0.jpg"
+					"B1E2L06/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3019,11 +3019,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E3L01/3/snapshot.jpg"
+					"B1E3L01/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E3L01/3/snapshot_0.jpg"
+					"B1E3L01/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3156,11 +3156,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E3L02/3/snapshot.jpg"
+					"B1E3L02/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E3L02/3/snapshot_0.jpg"
+					"B1E3L02/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3455,11 +3455,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E3L03/3/snapshot.jpg"
+					"B1E3L03/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E3L03/3/snapshot_0.jpg"
+					"B1E3L03/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3829,11 +3829,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E3L04/3/snapshot.jpg"
+					"B1E3L04/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E3L04/3/snapshot_0.jpg"
+					"B1E3L04/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4119,11 +4119,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E3L05/3/snapshot.jpg"
+					"B1E3L05/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E3L05/3/snapshot_0.jpg"
+					"B1E3L05/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4797,11 +4797,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E4L01/4/snapshot.jpg"
+					"B1E4L01/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B1E4L01/4/snapshot_0.jpg"
+					"B1E4L01/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4967,11 +4967,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E0L01/0/snapshot.jpg"
+					"B2E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E0L01/0/snapshot_0.jpg"
+					"B2E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5185,11 +5185,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E0L02/0/snapshot.jpg"
+					"B2E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E0L02/0/snapshot_0.jpg"
+					"B2E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5322,11 +5322,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E1L01/1/snapshot.jpg"
+					"B2E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E1L01/1/snapshot_0.jpg"
+					"B2E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5504,11 +5504,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E1L02/1/snapshot.jpg"
+					"B2E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E1L02/1/snapshot_0.jpg"
+					"B2E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5830,11 +5830,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E1L03/1/snapshot.jpg"
+					"B2E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E1L03/1/snapshot_0.jpg"
+					"B2E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5967,11 +5967,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E2L01/2/snapshot.jpg"
+					"B2E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E2L01/2/snapshot_0.jpg"
+					"B2E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6137,11 +6137,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E2L02/2/snapshot.jpg"
+					"B2E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E2L02/2/snapshot_0.jpg"
+					"B2E2L02/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6463,11 +6463,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E2L03/2/snapshot.jpg"
+					"B2E2L03/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E2L03/2/snapshot_0.jpg"
+					"B2E2L03/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6600,11 +6600,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E3L01/3/snapshot.jpg"
+					"B2E3L01/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E3L01/3/snapshot_0.jpg"
+					"B2E3L01/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6770,11 +6770,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E3L02/3/snapshot.jpg"
+					"B2E3L02/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E3L02/3/snapshot_0.jpg"
+					"B2E3L02/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7096,11 +7096,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E3L03/3/snapshot.jpg"
+					"B2E3L03/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E3L03/3/snapshot_0.jpg"
+					"B2E3L03/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7830,11 +7830,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E4L01/4/snapshot.jpg"
+					"B2E4L01/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E4L01/4/snapshot_0.jpg"
+					"B2E4L01/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8318,11 +8318,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E4L02/4/snapshot.jpg"
+					"B2E4L02/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E4L02/4/snapshot_0.jpg"
+					"B2E4L02/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8597,11 +8597,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E5L01/5/snapshot.jpg"
+					"B2E5L01/5/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E5L01/5/snapshot_0.jpg"
+					"B2E5L01/5/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8848,11 +8848,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E5L02/5/snapshot.jpg"
+					"B2E5L02/5/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B2E5L02/5/snapshot_0.jpg"
+					"B2E5L02/5/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9051,11 +9051,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L01/1/snapshot.jpg"
+					"B3E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L01/1/snapshot_0.jpg"
+					"B3E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9317,11 +9317,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L02/1/snapshot.jpg"
+					"B3E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L02/1/snapshot_0.jpg"
+					"B3E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9547,11 +9547,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L03/1/snapshot.jpg"
+					"B3E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L03/1/snapshot_0.jpg"
+					"B3E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9825,11 +9825,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L04/1/snapshot.jpg"
+					"B3E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L04/1/snapshot_0.jpg"
+					"B3E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10077,11 +10077,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L05/1/snapshot.jpg"
+					"B3E1L05/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L05/1/snapshot_0.jpg"
+					"B3E1L05/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10367,11 +10367,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L06/1/snapshot.jpg"
+					"B3E1L06/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L06/1/snapshot_0.jpg"
+					"B3E1L06/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10657,11 +10657,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L07/1/snapshot.jpg"
+					"B3E1L07/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L07/1/snapshot_0.jpg"
+					"B3E1L07/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10946,11 +10946,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L08/1/snapshot.jpg"
+					"B3E1L08/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E1L08/1/snapshot_0.jpg"
+					"B3E1L08/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11149,11 +11149,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L01/2/snapshot.jpg"
+					"B3E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L01/2/snapshot_0.jpg"
+					"B3E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11463,11 +11463,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L02/2/snapshot.jpg"
+					"B3E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L02/2/snapshot_0.jpg"
+					"B3E2L02/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11693,11 +11693,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L03/2/snapshot.jpg"
+					"B3E2L03/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L03/2/snapshot_0.jpg"
+					"B3E2L03/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11971,11 +11971,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L04/2/snapshot.jpg"
+					"B3E2L04/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L04/2/snapshot_0.jpg"
+					"B3E2L04/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12223,11 +12223,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L05/2/snapshot.jpg"
+					"B3E2L05/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L05/2/snapshot_0.jpg"
+					"B3E2L05/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12513,11 +12513,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L06/2/snapshot.jpg"
+					"B3E2L06/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L06/2/snapshot_0.jpg"
+					"B3E2L06/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12803,11 +12803,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L07/2/snapshot.jpg"
+					"B3E2L07/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L07/2/snapshot_0.jpg"
+					"B3E2L07/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13117,11 +13117,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L08/2/snapshot.jpg"
+					"B3E2L08/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E2L08/2/snapshot_0.jpg"
+					"B3E2L08/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13605,11 +13605,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E3L01/3/snapshot.jpg"
+					"B3E3L01/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E3L01/3/snapshot_0.jpg"
+					"B3E3L01/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13840,11 +13840,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E3L02/3/snapshot.jpg"
+					"B3E3L02/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E3L02/3/snapshot_0.jpg"
+					"B3E3L02/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -14130,11 +14130,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E3L03/3/snapshot.jpg"
+					"B3E3L03/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E3L03/3/snapshot_0.jpg"
+					"B3E3L03/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -14420,11 +14420,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E3L04/3/snapshot.jpg"
+					"B3E3L04/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E3L04/3/snapshot_0.jpg"
+					"B3E3L04/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -14734,11 +14734,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E3L05/3/snapshot.jpg"
+					"B3E3L05/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E3L05/3/snapshot_0.jpg"
+					"B3E3L05/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -15012,11 +15012,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E4L01/4/snapshot.jpg"
+					"B3E4L01/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E4L01/4/snapshot_0.jpg"
+					"B3E4L01/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -16180,11 +16180,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E4L02/4/snapshot.jpg"
+					"B3E4L02/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E4L02/4/snapshot_0.jpg"
+					"B3E4L02/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -16470,11 +16470,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E5L01/5/snapshot.jpg"
+					"B3E5L01/5/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E5L01/5/snapshot_0.jpg"
+					"B3E5L01/5/snapshot_0.jpg"
 				]
 			]
 		},
@@ -17070,11 +17070,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E5L02/5/snapshot.jpg"
+					"B3E5L02/5/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/nantes-cosmo/dollhouses/B3E5L02/5/snapshot_0.jpg"
+					"B3E5L02/5/snapshot_0.jpg"
 				]
 			]
 		}

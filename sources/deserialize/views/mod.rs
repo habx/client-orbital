@@ -1,3 +1,6 @@
+mod images;
+
+
 use std::cell::RefCell;
 use std::fmt;
 use std::simd::{f64x4, Simd};
@@ -9,7 +12,7 @@ use serde::de::{DeserializeSeed, Error, IgnoredAny, MapAccess, SeqAccess, Visito
 use crate::camera::Camera as Identifier;
 use crate::project::Project;
 
-use super::images::ImagesVisitor;
+use self::images::ImagesVisitor;
 
 
 struct ViewVisitor<'a>(u8, ViewsVisitor<'a>);

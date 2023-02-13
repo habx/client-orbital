@@ -1,6 +1,3 @@
-mod faces;
-mod geometry;
-mod images;
 mod lots;
 mod manifest;
 mod meta;

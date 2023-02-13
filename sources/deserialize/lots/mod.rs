@@ -1,3 +1,8 @@
+mod faces;
+mod geometry;
+mod images;
+
+
 use std::cell::RefCell;
 use std::fmt;
 
@@ -7,13 +12,15 @@ use serde::de::{DeserializeSeed, Error, IgnoredAny, MapAccess, SeqAccess, Visito
 
 use crate::lot::Lot;
 
-use super::geometry::GeometryVisitor;
+use self::geometry::GeometryVisitor;
+use self::images::ImagesVisitor;
 
 
 struct LotVisitor<'a>(LotsVisitor<'a>);
 
 #[derive(Clone, Copy)]
 pub struct LotsVisitor<'a> {
+	pub path: &'a str,
 	pub shapes: &'a RefCell<Vec<Shape>>,
 }
 
@@ -45,12 +52,13 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 	}
 
 	fn visit_map<Map> (self, mut map: Map) -> Result<Self::Value, Map::Error> where Map: MapAccess<'de> {
-		let shapes = self.0.shapes;
+		let LotsVisitor { path, shapes, .. } = self.0;
+
 		let start = shapes.borrow().len();
 		let mut geometry = None;
 		let mut identifier = None;
-		let mut images = None;
-		let mut levels = None;
+		let mut images = Vec::new();
+		let mut levels = Vec::new();
 		let mut name = None;
 		let mut slug = None;
 		let mut surface_area = None;
@@ -60,7 +68,7 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 			match key {
 				"geometry" => geometry = Some(map.next_value_seed(GeometryVisitor { shapes })?),
 				"id" => identifier = map.next_value()?,
-				"images" => images = map.next_value()?,
+				"images" => images = map.next_value_seed(ImagesVisitor { path })?,
 				"levels" => levels = map.next_value()?,
 				"name" => name = map.next_value()?,
 				"slug" => slug = map.next_value()?,
@@ -83,8 +91,8 @@ impl<'de, 'a> Visitor<'de> for LotVisitor<'a> {
 			start,
 			&mut *shapes.borrow_mut(),
 			identifier,
-			images.unwrap_or_default(),
-			levels.unwrap_or_default(),
+			images,
+			levels,
 			name,
 			slug,
 			surface_area,

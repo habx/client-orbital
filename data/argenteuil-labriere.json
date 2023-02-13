@@ -7,7 +7,7 @@
 			"w": 3840,
 			"h": 2160
 		},
-		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/orbital"
+		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere"
 	},
 	"lots": [
 		{
@@ -972,11 +972,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L01/0/snapshot.jpg"
+					"B1E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L01/0/snapshot_0.jpg"
+					"B1E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1279,11 +1279,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L02/0/snapshot.jpg"
+					"B1E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L02/0/snapshot_0.jpg"
+					"B1E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1574,11 +1574,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L03/0/snapshot.jpg"
+					"B1E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L03/0/snapshot_0.jpg"
+					"B1E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1956,11 +1956,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L04/0/snapshot.jpg"
+					"B1E0L04/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L04/0/snapshot_0.jpg"
+					"B1E0L04/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2513,11 +2513,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L05/0/snapshot.jpg"
+					"B1E0L05/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L05/0/snapshot_0.jpg"
+					"B1E0L05/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2808,11 +2808,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L06/0/snapshot.jpg"
+					"B1E0L06/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E0L06/0/snapshot_0.jpg"
+					"B1E0L06/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3672,11 +3672,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L01/1/snapshot.jpg"
+					"B1E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L01/1/snapshot_0.jpg"
+					"B1E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -3955,11 +3955,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L02/1/snapshot.jpg"
+					"B1E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L02/1/snapshot_0.jpg"
+					"B1E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4238,11 +4238,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L03/1/snapshot.jpg"
+					"B1E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L03/1/snapshot_0.jpg"
+					"B1E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4521,11 +4521,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L04/1/snapshot.jpg"
+					"B1E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L04/1/snapshot_0.jpg"
+					"B1E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -4804,11 +4804,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L05/1/snapshot.jpg"
+					"B1E1L05/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L05/1/snapshot_0.jpg"
+					"B1E1L05/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5087,11 +5087,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L06/1/snapshot.jpg"
+					"B1E1L06/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E1L06/1/snapshot_0.jpg"
+					"B1E1L06/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -5951,11 +5951,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L01/2/snapshot.jpg"
+					"B1E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L01/2/snapshot_0.jpg"
+					"B1E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6234,11 +6234,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L02/2/snapshot.jpg"
+					"B1E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L02/2/snapshot_0.jpg"
+					"B1E2L02/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6517,11 +6517,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L03/2/snapshot.jpg"
+					"B1E2L03/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L03/2/snapshot_0.jpg"
+					"B1E2L03/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6800,11 +6800,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L04/2/snapshot.jpg"
+					"B1E2L04/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L04/2/snapshot_0.jpg"
+					"B1E2L04/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7083,11 +7083,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L05/2/snapshot.jpg"
+					"B1E2L05/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L05/2/snapshot_0.jpg"
+					"B1E2L05/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7366,11 +7366,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L06/2/snapshot.jpg"
+					"B1E2L06/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E2L06/2/snapshot_0.jpg"
+					"B1E2L06/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8180,11 +8180,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L01/3/snapshot.jpg"
+					"B1E3L01/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L01/3/snapshot_0.jpg"
+					"B1E3L01/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8463,11 +8463,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L02/3/snapshot.jpg"
+					"B1E3L02/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L02/3/snapshot_0.jpg"
+					"B1E3L02/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8746,11 +8746,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L03/3/snapshot.jpg"
+					"B1E3L03/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L03/3/snapshot_0.jpg"
+					"B1E3L03/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8979,11 +8979,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L04/3/snapshot.jpg"
+					"B1E3L04/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L04/3/snapshot_0.jpg"
+					"B1E3L04/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9212,11 +9212,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L05/3/snapshot.jpg"
+					"B1E3L05/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L05/3/snapshot_0.jpg"
+					"B1E3L05/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9495,11 +9495,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L06/3/snapshot.jpg"
+					"B1E3L06/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L06/3/snapshot_0.jpg"
+					"B1E3L06/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9778,11 +9778,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L07/3/snapshot.jpg"
+					"B1E3L07/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E3L07/3/snapshot_0.jpg"
+					"B1E3L07/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10750,11 +10750,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L01/4/snapshot.jpg"
+					"B1E4L01/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L01/4/snapshot_0.jpg"
+					"B1E4L01/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11033,11 +11033,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L02/4/snapshot.jpg"
+					"B1E4L02/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L02/4/snapshot_0.jpg"
+					"B1E4L02/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11266,11 +11266,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L03/4/snapshot.jpg"
+					"B1E4L03/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L03/4/snapshot_0.jpg"
+					"B1E4L03/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11499,11 +11499,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L04/4/snapshot.jpg"
+					"B1E4L04/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L04/4/snapshot_0.jpg"
+					"B1E4L04/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11782,11 +11782,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L05/4/snapshot.jpg"
+					"B1E4L05/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L05/4/snapshot_0.jpg"
+					"B1E4L05/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -12223,11 +12223,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L06/4/snapshot.jpg"
+					"B1E4L06/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B1E4L06/4/snapshot_0.jpg"
+					"B1E4L06/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13193,11 +13193,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E0L01/0/snapshot.jpg"
+					"B2E0L01/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E0L01/0/snapshot_0.jpg"
+					"B2E0L01/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13488,11 +13488,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E0L02/0/snapshot.jpg"
+					"B2E0L02/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E0L02/0/snapshot_0.jpg"
+					"B2E0L02/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -13901,11 +13901,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E0L03/0/snapshot.jpg"
+					"B2E0L03/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E0L03/0/snapshot_0.jpg"
+					"B2E0L03/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -14307,11 +14307,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E0L04/0/snapshot.jpg"
+					"B2E0L04/0/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E0L04/0/snapshot_0.jpg"
+					"B2E0L04/0/snapshot_0.jpg"
 				]
 			]
 		},
@@ -14996,11 +14996,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L01/1/snapshot.jpg"
+					"B2E1L01/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L01/1/snapshot_0.jpg"
+					"B2E1L01/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -15279,11 +15279,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L02/1/snapshot.jpg"
+					"B2E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L02/1/snapshot_0.jpg"
+					"B2E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -15472,11 +15472,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L03/1/snapshot.jpg"
+					"B2E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L03/1/snapshot_0.jpg"
+					"B2E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -15755,11 +15755,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L04/1/snapshot.jpg"
+					"B2E1L04/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L04/1/snapshot_0.jpg"
+					"B2E1L04/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -16038,11 +16038,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L05/1/snapshot.jpg"
+					"B2E1L05/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L05/1/snapshot_0.jpg"
+					"B2E1L05/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -16396,11 +16396,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L06/1/snapshot.jpg"
+					"B2E1L06/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E1L06/1/snapshot_0.jpg"
+					"B2E1L06/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -17085,11 +17085,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L01/2/snapshot.jpg"
+					"B2E2L01/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L01/2/snapshot_0.jpg"
+					"B2E2L01/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -17368,11 +17368,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L02/2/snapshot.jpg"
+					"B2E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L02/2/snapshot_0.jpg"
+					"B2E2L02/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -17551,11 +17551,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L03/2/snapshot.jpg"
+					"B2E2L03/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L03/2/snapshot_0.jpg"
+					"B2E2L03/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -17834,11 +17834,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L04/2/snapshot.jpg"
+					"B2E2L04/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L04/2/snapshot_0.jpg"
+					"B2E2L04/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -18117,11 +18117,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L05/2/snapshot.jpg"
+					"B2E2L05/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L05/2/snapshot_0.jpg"
+					"B2E2L05/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -18475,11 +18475,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L06/2/snapshot.jpg"
+					"B2E2L06/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E2L06/2/snapshot_0.jpg"
+					"B2E2L06/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -19164,11 +19164,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L01/3/snapshot.jpg"
+					"B2E3L01/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L01/3/snapshot_0.jpg"
+					"B2E3L01/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -19447,11 +19447,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L02/3/snapshot.jpg"
+					"B2E3L02/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L02/3/snapshot_0.jpg"
+					"B2E3L02/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -19690,11 +19690,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L03/3/snapshot.jpg"
+					"B2E3L03/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L03/3/snapshot_0.jpg"
+					"B2E3L03/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -19923,11 +19923,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L04/3/snapshot.jpg"
+					"B2E3L04/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L04/3/snapshot_0.jpg"
+					"B2E3L04/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -20206,11 +20206,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L05/3/snapshot.jpg"
+					"B2E3L05/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L05/3/snapshot_0.jpg"
+					"B2E3L05/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -20489,11 +20489,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L06/3/snapshot.jpg"
+					"B2E3L06/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L06/3/snapshot_0.jpg"
+					"B2E3L06/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -20803,11 +20803,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L07/3/snapshot.jpg"
+					"B2E3L07/3/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E3L07/3/snapshot_0.jpg"
+					"B2E3L07/3/snapshot_0.jpg"
 				]
 			]
 		},
@@ -21600,11 +21600,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L01/4/snapshot.jpg"
+					"B2E4L01/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L01/4/snapshot_0.jpg"
+					"B2E4L01/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -21883,11 +21883,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L02/4/snapshot.jpg"
+					"B2E4L02/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L02/4/snapshot_0.jpg"
+					"B2E4L02/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -22116,11 +22116,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L03/4/snapshot.jpg"
+					"B2E4L03/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L03/4/snapshot_0.jpg"
+					"B2E4L03/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -22349,11 +22349,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L04/4/snapshot.jpg"
+					"B2E4L04/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L04/4/snapshot_0.jpg"
+					"B2E4L04/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -22632,11 +22632,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L05/4/snapshot.jpg"
+					"B2E4L05/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L05/4/snapshot_0.jpg"
+					"B2E4L05/4/snapshot_0.jpg"
 				]
 			]
 		},
@@ -23048,11 +23048,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L06/4/snapshot.jpg"
+					"B2E4L06/4/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/argenteuil-labriere/dollhouses/B2E4L06/4/snapshot_0.jpg"
+					"B2E4L06/4/snapshot_0.jpg"
 				]
 			]
 		}

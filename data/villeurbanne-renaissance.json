@@ -7,7 +7,7 @@
 			"w": 3840,
 			"h": 2160
 		},
-		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/orbital"
+		"path": "https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance"
 	},
 	"lots": [
 		{
@@ -1095,11 +1095,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E1L02/1/snapshot.jpg"
+					"B1E1L02/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E1L02/1/snapshot_0.jpg"
+					"B1E1L02/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -1478,11 +1478,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E1L03/1/snapshot.jpg"
+					"B1E1L03/1/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E1L03/1/snapshot_0.jpg"
+					"B1E1L03/1/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2571,11 +2571,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E2L02/2/snapshot.jpg"
+					"B1E2L02/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E2L02/2/snapshot_0.jpg"
+					"B1E2L02/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -2954,11 +2954,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E2L03/2/snapshot.jpg"
+					"B1E2L03/2/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E2L03/2/snapshot_0.jpg"
+					"B1E2L03/2/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6528,11 +6528,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E5L01/5/snapshot.jpg"
+					"B1E5L01/5/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E5L01/5/snapshot_0.jpg"
+					"B1E5L01/5/snapshot_0.jpg"
 				]
 			]
 		},
@@ -6911,11 +6911,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E5L02/5/snapshot.jpg"
+					"B1E5L02/5/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E5L02/5/snapshot_0.jpg"
+					"B1E5L02/5/snapshot_0.jpg"
 				]
 			]
 		},
@@ -7605,11 +7605,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E6L01/6/snapshot.jpg"
+					"B1E6L01/6/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E6L01/6/snapshot_0.jpg"
+					"B1E6L01/6/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8000,11 +8000,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E6L02/6/snapshot.jpg"
+					"B1E6L02/6/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E6L02/6/snapshot_0.jpg"
+					"B1E6L02/6/snapshot_0.jpg"
 				]
 			]
 		},
@@ -8345,11 +8345,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E6L03/6/snapshot.jpg"
+					"B1E6L03/6/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E6L03/6/snapshot_0.jpg"
+					"B1E6L03/6/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9039,11 +9039,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E7L01/7/snapshot.jpg"
+					"B1E7L01/7/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E7L01/7/snapshot_0.jpg"
+					"B1E7L01/7/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9434,11 +9434,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E7L02/7/snapshot.jpg"
+					"B1E7L02/7/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E7L02/7/snapshot_0.jpg"
+					"B1E7L02/7/snapshot_0.jpg"
 				]
 			]
 		},
@@ -9779,11 +9779,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E7L03/7/snapshot.jpg"
+					"B1E7L03/7/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E7L03/7/snapshot_0.jpg"
+					"B1E7L03/7/snapshot_0.jpg"
 				]
 			]
 		},
@@ -10725,11 +10725,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E8L01/8/snapshot.jpg"
+					"B1E8L01/8/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E8L01/8/snapshot_0.jpg"
+					"B1E8L01/8/snapshot_0.jpg"
 				]
 			]
 		},
@@ -11225,11 +11225,11 @@
 			"images": [
 				[
 					0,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E8L02/8/snapshot.jpg"
+					"B1E8L02/8/snapshot.jpg"
 				],
 				[
 					1,
-					"https://d1d26ffao67kqg.cloudfront.net/projects/villeurbanne-renaissance/dollhouses/B1E8L02/8/snapshot_0.jpg"
+					"B1E8L02/8/snapshot_0.jpg"
 				]
 			]
 		}
