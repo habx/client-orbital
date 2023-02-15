@@ -2,4 +2,4 @@
 dist = "build"
 
 [tools]
-wasm_opt = "version_111"
+wasm_opt = "version_112"
