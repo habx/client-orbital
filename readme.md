@@ -1,11 +1,13 @@
-# Viewer
+# 3D orbit viewer
+
+![Preview of the viewer](public/preview.gif?raw=true)
+
+3D orbits are nothing more than a succession of rendered images captured from a set of cameras rotating around a 3D model of a real-estate operation.
+The generated images are referenced in a single JSON file, called a _manifest_. This manifest also contains additional metadata in order to represent and interact with the operation's units.
 
 ## Usage
 
-The viewer is hosted on GitHub Pages at this address: https://habx.github.io/client-orbital
-
-### Parameters
-
+The viewer accepts a few query parameters to personalize the user-experience:
 - `manifest` (**required**) the URL to the orbit manifest of a given project
 - `interactive` a boolean value enabling interactions with lots and the display of the overlay (_optional_, default to `false`)
 - `redirection` a template URL used to redirect a visitor upon choosing a lot (_optional_, the feature is deactivated if omitted). Beware of special characters that might need to be encoded (see [here for details](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent)). This template supports a few placeholders, they are replaced by their corresponding value to make dynamic links:
@@ -13,11 +15,27 @@ The viewer is hosted on GitHub Pages at this address: https://habx.github.io/cli
 	- `%SLUG%` the commercial slug of a lot (most likely a combination of a lot's building, floor and index, e.g. `A201`)
 - `redirection_label` the text label displayed on the lot redirection button (_optional_, defaults to `Voir les détails`)
 
-### Examples
+## Availability
 
-https://habx.github.io/client-orbital?manifest=https://habx.github.io/client-orbital/data/rueil-malmaison-l-imperiale.json&interactive=true
+The viewer itself is hosted on [GitHub Pages](https://pages.github.com) at this address: https://habx.github.io/client-orbital. It should remain publicly available as long as GitHub keeps providing its services for free for open-source projects.
+
+**The assets are temporarily stored** on [AWS S3](https://aws.amazon.com/s3) and served through [AWS CloudFront](https://aws.amazon.com/cloudfront) to help you during the transition. **You must take actions to host the data** on your cloud infrastructure, if you want to avoid an interruption of service.
+
+## Migration
+
+### Assets
+
+1. Download and extract the archives along with the manifest of your project. You should receive the links from us.
+2. Upload all files to your hosting solution. The files do not have to be served from the root directory. However, the assets being referenced relatively, the internal structure must remain untouched. The resources must be accessible from the domain where the viewer is hosted. Remember to review your security policies.
+3. Replace the [`manifest` query parameters](#usage) of your links with the absolute URL to the `manifest.json` file.
+
+### Viewer
+
+The source code for the viewer is available on this repository. The project has been developed in [Rust](https://www.rust-lang.org) and is compiled down to a single [Wasm binary](https://webassembly.org/) loaded with a few other resources to an HTML file. You can download the latest version [here](https://github.com/habx/client-orbital/releases/download/1.0.0/pages.zip).
 
 ## Projects
+
+The default links to 3D orbits (interaction enabled and redirection set when applicable) are listed below. You can edit [the query parameters](#usage) to adapt the viewer to your needs.
 
 - [aix-les-bains-victoria](https://habx.github.io/client-orbital?manifest=data/aix-les-bains-victoria.json&interactive=true&redirection=https%3A%2F%2Fwww.icade-immobilier.com/programmes-immobiliers-neufs-aix-les-bains/so--victoria-,p74771%23%ID%)
 - [aix-poesia](https://habx.github.io/client-orbital?manifest=data/aix-poesia.json&interactive=true)
@@ -123,8 +141,7 @@ https://habx.github.io/client-orbital?manifest=https://habx.github.io/client-orb
 - [villeurbanne-renaissance](https://habx.github.io/client-orbital?manifest=data/villeurbanne-renaissance.json&interactive=true&redirection=https%3A%2F%2Fwww.icade-immobilier.com%2Fprogrammes-immobiliers-neufs-villeurbanne%2Frenaissance%2Cp84051%23%25ID%25)
 - [vitrolles-vitrolles-parenthese](https://habx.github.io/client-orbital?manifest=data/vitrolles-vitrolles-parenthese.json&interactive=true&redirection=https%3A%2F%2Fwww.quartus-residentiel.fr%2Fappartement%2Fvitrolles-19851-%25SLUG%25)
 
-
-## Orbital manifest updates needed (from version `2.0.0`)
+## Manifest format updates (from version `2.0.0` to `3.0.0`)
 
 - Reorder the fields given the jq transformation `'{ meta, lots, views }'`
 - Added field `meta.path` that defines the location of the folder containing all images assets
